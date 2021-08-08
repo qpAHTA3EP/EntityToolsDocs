@@ -6,7 +6,7 @@ This is the Plugin for the bot [Astral](https://www.neverwinter-bot.com/forums/i
 # Расширение для роли ***Quester***
 
 ## Команды
-1. [MoveToEntity](./Quester/Actions/MoveToEntity.md)
+1. [MoveToEntity](./Quester/Actions/MoveToEntity-RU.md)
 2. 
 
 ## Условия

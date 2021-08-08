@@ -1,13 +1,12 @@
 # **MoveToEntity**
-Команда предназначена для патрулирования по *HotSpots* до обнаружения заданного *Entity*, которое может быть принудительно атаковано.
-## Общее описание алгоритма
-1. Бот перемещается между точками *HotSpots* производя поиск *Entity*, удовлетворяющего критериям поиска. 
-1. Патрулирование может производиться в режиме игнорирования боя [*IgnoreCombat*](refIgnoreCombat).
-1. Область поиска *Entity* может быть ограничена опцией [*CustomRegions*](refCustomRegions)
-1. Когда целевое *Entity* найдено, бот следует к нему.
-2. Целевое *Entity* может быть атаковано, если установлен флаг [*AttackTargetEntity*](#refAttackTargetEntity).
-
-***
+Команда предназначена для патрулирования по *HotSpots* и поиска заданного *Entity*.
+## Краткое описание алгоритма команды
+1. Бот перемещается между точками *HotSpots* производя поиск ближайшего *Entity*, удовлетворяющего критериям поиска. 
+   - Патрулирование может производиться в режиме игнорирования боя [*IgnoreCombat*](refIgnoreCombat).
+   - Область поиска *Entity* может быть ограничена опцией [*CustomRegions*](refCustomRegions).
+1. Когда целевое *Entity* найдено, бот следует к нему по кратчайшему пути.
+   - Целевое *Entity* может быть принудительно атаковано, если установлен флаг [*AttackTargetEntity*](#refAttackTargetEntity). При этом игнорируется список *Blacklist* выполняемого quester-профиля.
+1. После исчезновения (уничтожения) всех *Entity*, удовлетворяющих критериям поиска, бот возобновляет патрулирование. 
 
 # **Настройки команды**
 ## **Настройки идентификации *Entity***
@@ -27,19 +26,16 @@
 - ***HoldTargetEntity*** - Флаг удержания *Entity*
    + *True* : Бот продолжает следовать к найденному *Entity*, даже в том случае, если будет найдено *Entity* ближе;
    + *False* : Бот постоянно производит поиск и следует к ближайшему *Entity*.
-- <a name ="refCustomRegions" />***CustomRegions*** - Набор *CustomRegion*'ов, задающих область поиска *Entity*. Подробное описание приведено в разделе [CustorRegionSet](../../General/CustorRegionSet-RU.md).
+- <a name ="refCustomRegions"></a>***CustomRegions*** - Набор *CustomRegion*'ов, задающих область поиска *Entity*. Подробное описание приведено в разделе [CustorRegionSet](../../General/CustorRegionSet-RU.md).
 
 ## **Опции, модифицирующие поведение (категория "Interruptions")**
 ### **Управление боем**
-- <a name ="refIgnoreCombat" />***IgnoreCombat*** - Enable '***IgnoreCombat***' mode while playing action;
-- ***Distance*** - Distance to the *Entity* by which it is necessary to approach. Keep in mind that the distance below 5 is too small to display on the [Mapper](../../Patches/Mapper/Mapper-RU.md).
-- ***AbortCombatDistance*** - The battle is aborted outside ***AbortCombatDistance*** radius from the target *entity*. The combat is restored within the ***Distance*** radius. However, this is not performed if the value less than ***Distance*** or ***IgnoreCombat*** is *False*;
-- <a name ="refAttackTargetEntity" /> ***AttackTargetEntity*** - 
-  + *True* : Clear the list of attackers and attack the target Entity when it is approached. This option is ignored if ***IgnoreCombat*** does not set.
+- <a name ="refIgnoreCombat"></a>***IgnoreCombat*** - Флаг, предписывающий активировать режим игнорирования боя ***IgnoreCombat*** при следовании к целевой *Entity*.
+- ***Distance*** - Расстояние до целевой *Entity*, которого нужно достугнуть персонажу для активации боя. При установке значения более 5 на [Mapper](../../Patches/Mapper/Mapper-RU.md) соответвующая область отображается окружностью, центром которой является соответствующая *Entity*.
+- ***AbortCombatDistance*** - Расстояние от *Entity* за пределами которого бой принудительно прерывается. Бой снова активируются на расстоянии ***Distance*** от целевой *Entity*. Опция деативируется если задано значением меньше ***Distance*** или флаг ***IgnoreCombat*** не установлен;
+- <a name ="refAttackTargetEntity"></a> ***AttackTargetEntity*** - Флаг, предписывающий атаковать целевую *Entity*. Опция игнорируется, если флаг ***IgnoreCombat*** не установлен.
 ### **Прерывание команды**
-- ***StopOnApproached*** - 
-  + *True* : Complete an action when the Entity is closer than ***Distance***;
-  + *False* : Follow an Entity regardless of its distance.
+- ***StopOnApproached*** - Флаг, завершающий выполнение команды после того как персонаж приблизился к целевой *Entity* на расстояние ***Distance***.
 
 ## **Прочие опции**
-- ***ResetCurrentHotSpot*** - Reset current HotSpot after approaching the target *Entity*
+- ***ResetCurrentHotSpot*** - Флаг, сбрасывающий *HotSpot* к которому должен двигаться персонаж после исчезновения целевой *Entity*.

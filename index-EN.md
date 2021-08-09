@@ -2,10 +2,10 @@
 
 This is the Plugin for the bot [Astral](https://www.neverwinter-bot.com/forums/index.php) for the [MMORPG "Neverwinter Online"](https://www.arcgames.com/en/games/neverwinter/news) the main purpose of which is to provide additional commands and conditions for **Quester** и **UCC**. For example, Commands for ___Entity___ processing.
 
-# **Расширение для роли *Quester***
+# **Extensions for *Quester Role***
 
-## **Команды**
-1. [MoveToEntity](./Quester/Actions/MoveToEntity-RU.md)
+## **Actions**
+1. [MoveToEntity](./Quester/Actions/MoveToEntity-EN.md)
 2. InteractEntities
 3. MoveToTeammate
 4. PickUpMissionExt
@@ -16,7 +16,7 @@ This is the Plugin for the bot [Astral](https://www.neverwinter-bot.com/forums/i
 9. InsertInsignia
 10. ChangePluginSettings
 
-## **Условия**
+## **Conditions**
 1. EntityCount
 2. EntityProperty
 3. TeamMemberCount
@@ -24,9 +24,9 @@ This is the Plugin for the bot [Astral](https://www.neverwinter-bot.com/forums/i
 5. CheckShard
 6. IsInCustomRegionSet
 
-# **Расширение для боевой подсистемы *UCC***
+# **Extensions for combat subsystem *UCC***
 
-## **Команды UCC**
+## **Actions UCC**
 1. ApproachEntity
 2. ChangeTarget
 3. DodgeFromEntity
@@ -34,7 +34,7 @@ This is the Plugin for the bot [Astral](https://www.neverwinter-bot.com/forums/i
 5. SpecializedUCCAction
 6. UseItemSpecial
 
-## **Условия UCC**
+## **Conditions UCC**
 1. UCCEntityCheck
 2. UCCTargetMatchEntity
 3. UCCCheckTimer

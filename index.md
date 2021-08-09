@@ -1,13 +1,13 @@
 # **EntityTools**
-Это плагин для бота [Astral](https://www.neverwinter-bot.com/forums/index.php) к [MMORPG "Neverwinter Online"](https://www.arcgames.com/en/games/neverwinter/news), основное назначение которого состоит предоставлении дополнительных команд и условий для **Quester'a** и **UCC**. <br/>
+Это плагин для бота [Astral](https://www.neverwinter-bot.com/forums/index.php) к [MMORPG "Neverwinter Online"](https://www.arcgames.com/en/games/neverwinter/news), предоставляющий дополнительные команды и условия для **Quester'a** и **UCC**, а также инструменты для разработчиков профилей (скриптов). <br/>
 Например, для обработки внутриигровых сущностей (Entity).
 
-# **Расширение для роли *Quester***
+# **Расширение для роли [*Quester*](./General/Glossary-RU.md#ref-Quester)**
 
 ## Команды
 1. [MoveToEntity](./Quester/Actions/MoveToEntity-RU.md)
-2. InteractEntities
-3. MoveToTeammate
+2. [InteractEntities](./Quester/Actions/InteractEntities-RU.md)
+3. [MoveToTeammate](./Quester/Actions/MoveToTeammate-RU.md)
 4. PickUpMissionExt
 5. TurnInMissionExt
 6. AddIgnoredFoes
@@ -26,7 +26,7 @@
 
 ***
 
-# **Расширение для боевой подсистемы *UCC***
+# **Расширение для боевой подсистемы [*UCC*](./General/Glossary-RU.md#ref-UCC)**
 
 ## Команды UCC
 1. ApproachEntity

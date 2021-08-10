@@ -13,9 +13,9 @@
 - ***EntityID*** - Текстовый идентификатор *Entity*;
 - ***EntityIdType*** - Переключатель способа интерпретации ***EntityID***:
    + *Simple* : Простая текстовая строка. <br/>
-  Допускается использование символа подстановки ``*`` в начале и в конце, заменяющего произвольное число алфавитно-цифровых символов;
-   + *Regex* : Регулярное выражение, составленное по правилам [.Net Framework](https://docs.microsoft.com/ru-ru/dotnet/standard/base-types/regular-expressions);
+  В начале и в конце строки допускается использование символа подстановки ``*`` , заменяющего произвольное число алфавитно-цифровых символов;
+   + *Regex* : Регулярное выражение, составленное по правилам [.Net Framework](https://docs.microsoft.com/ru-ru/dotnet/standard/base-types/regular-expressions).
 - ***EntityNameType*** - задает свойство *Entity*, с которым сопоставляется идентификатор ***EntityID***:
    + *InternalName* : ***EntityID*** сопоставляется с *Entity.InternalName*;
    + *NameUntranslated* : ***EntityID*** сопоставляется с *Entity.NameUntranslated*;
-   + *Empty* : все вышеуказанные идентификаторы должны быть пустыми
+   + *Empty* : все вышеуказанные идентификаторы должны быть пустыми.

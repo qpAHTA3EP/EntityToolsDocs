@@ -2,7 +2,8 @@
 
 Команда предназначена для сопровождения и оказания поддержки члену группы (*Teammate*).
 
-## Краткое описание алгоритма команды
+## **Краткое описание**
+
 1. Бот производит поиск члена группы (*Teammate*) и перемещается к нему. <br/>
    - Персонаж и *Teammate* должны находиться на одной карте, в одном инстансе и в одном внутриигровом регионе.
    - Область поиска *Teammate* может быть ограничена опциями [*CustomRegions*](#ref-CustomRegions),  [*ReactionRange*](#ref-ReactionRange) и [*ReactionZRange*](#ref-ReactionZRange).
@@ -36,18 +37,18 @@
    + *MostInjured* : Наиболее раненый противник (с наименьшим НР);
         
         
-## **Дополнительные фильтры *Teammate* (категория "Optional")**
+## **Дополнительные фильтры *Teammate* <br/>(категория "Optional")**
 
 - <a name ="ref-CustomRegions"></a>***CustomRegions*** - набор *CustomRegion*'ов, задающих область поиска *Teammate*. Подробное описание приведено в разделе [CustomRegionSet](../../General/CustomRegionSet-RU.md).
 
 
-## **Опции, модифицирующие поведение (категория "Interruptions")**
+## **Опции, модифицирующие поведение <br/>(категория "Interruptions")**
 ### **Управление боем**
-- <a name ="ref-IgnoreCombat"></a>***IgnoreCombat*** - флаг, предписывающий активировать режим игнорирования боя ***IgnoreCombat*** при следовании к *Teammate*.
+- <a name ="ref-IgnoreCombat"></a>***IgnoreCombat*** - флаг, предписывающий активировать режим игнорирования боя *IgnoreCombat* при следовании к *Teammate*.
 
-- <a name ="ref-IgnoreCombatMinHP"></a>***IgnoreCombatMinHP*** - минимальный уровень здоровья (в процентах), при котором может быть активирован режим игнорирования боя ***IgnoreCombat*** при следовании к *Teammate*.
+- <a name ="ref-IgnoreCombatMinHP"></a>***IgnoreCombatMinHP*** - минимальный уровень здоровья (в процентах), при котором может быть активирован режим игнорирования боя *IgnoreCombat* при следовании к *Teammate*.
 
-- <a name ="ref-CombatDistance"></a>***CombatDistance*** - расстояние до *Teammate*, на котором отключается режим игнорирования боя ***IgnoreCombat***. <br/>
+- <a name ="ref-CombatDistance"></a>***CombatDistance*** - расстояние до *Teammate*, на котором отключается режим игнорирования боя *IgnoreCombat*. <br/>
 При установке значения более ``5`` на [Mapper](../../Patches/Mapper/Mapper-RU.md) соответствующая область отображается окружностью, центром которой является соответствующая *Teammate*.
 
 - <a name ="ref-AbortCombatDistance"></a>***AbortCombatDistance*** - расстояние от *Entity*, за пределами которого бой принудительно прерывается. <br/>
@@ -68,6 +69,14 @@
 - Персонаж не состоит в группе;
 - Задан флаг [*StopOnApproached*](#ref-StopOnApproached) и персонаж приблизился к *Teammate* на необходимое расстояние;
 - *Teammate* не был найден в течение [*TeammateSearchTime*](#ref-TeammateSearchTime).
+
+Принудительное завершение команды возможно одним из [перечисленных в статье способов](./../../General/ForcedQuesterActionTermination-RU.md).
+
+
+# **Штатные команды - аналоги**
+
+Отсутствуют.
+
 
 
 # [Вернуться к содержанию](../../index.md)

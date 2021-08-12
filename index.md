@@ -10,7 +10,7 @@
 4. [PickUpMissionExt](Quester/Actions/PickUpMissionExt-RU.md)
 5. [TurnInMissionExt](Quester/Actions/TurnInMissionExt-RU.md)
 6. [AddIgnoredFoes](Quester/Actions/AddIgnoredFoes-RU.md)
-7. [RemoveIgnoredFoes](Quester/Actions/AddIgnoredFoes-RU.md)
+7. [RemoveIgnoredFoes](Quester/Actions/RemoveIgnoredFoes-RU.md)
 8. [ChangeInstanceToLeader](Quester/Actions/ChangeInstanceToLeader-RU.md)
 <!--9. InsertInsignia
 10. ChangePluginSettings

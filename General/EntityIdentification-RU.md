@@ -14,11 +14,13 @@
 
 В плагине ***EntityTools*** для идентификации *Entity* используется комбинация признаков:
 
+
 | **Наименование** | **Описание** |
 |:-----------------|:-------------|
 |<a name ="ref-EntityID">***EntityID***</a> | Текстовый идентификатор *Entity*.
-|<a name ="ref-EntityIdType">***EntityIdType***</a> | Переключатель способа интерпретации [*EntityID*](#ref-EntityID):<br/>- ***Simple*** : Простая текстовая строка. <br/>В начале и в конце строки допускается использование символа подстановки ``*`` , заменяющего произвольное число алфавитно-цифровых символов;<br/>- ***Regex*** : Регулярное выражение, составленное по правилам [.Net Framework](https://docs.microsoft.com/ru-ru/dotnet/standard/base-types/regular-expressions).
+|<a name ="ref-EntityIdType">***EntityIdType***</a> | Переключатель способа интерпретации [*EntityID*](#ref-EntityID):<br/>- ***Simple*** : Простая текстовая строка. <br/>В начале и в конце строки допускается использование символа подстановки ``"*"``, заменяющего произвольное число алфавитно-цифровых символов;<br/>- ***Regex*** : Регулярное выражение, составленное по правилам [.Net Framework](https://docs.microsoft.com/ru-ru/dotnet/standard/base-types/regular-expressions).
 |<a name ="ref-EntityNameType">***EntityNameType***</a> | Переключатель, которые задает свойство *Entity*, с которым сопоставляется идентификатор [*EntityID*](#ref-EntityID):<br/>- ***InternalName*** : [*EntityID*](#ref-EntityID) сопоставляется с [*Entity.InternalName*](#ref-Entity-InternalName);<br/>- ***NameUntranslated*** : [*EntityID*](#ref-EntityID) сопоставляется с [*Entity.NameUntranslated*](#ref-Entity-NameUntranslated);<br/>- ***Empty*** : все вышеуказанные идентификаторы должны быть пустыми.
+
 
 ---
 

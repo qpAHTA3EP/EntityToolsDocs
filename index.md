@@ -1,22 +1,21 @@
 # **EntityTools**
-Это плагин для бота [Astral](https://www.neverwinter-bot.com/forums/index.php) к [MMORPG "Neverwinter Online"](https://www.arcgames.com/en/games/neverwinter/news), предоставляющий дополнительные команды и условия для **Quester'a** и **UCC**, а также инструменты для разработчиков профилей (скриптов). <br/>
-Например, для обработки внутриигровых сущностей (Entity).
+Это плагин для бота [Astral](https://www.neverwinter-bot.com/forums/index.php) к MMORPG ["Neverwinter Online"](https://www.arcgames.com/en/games/neverwinter/news).
 
 # **Расширение для роли [*Quester*](./General/Glossary-RU.md#ref-Quester)**
 
-## Команды
-1. [MoveToEntity](./Quester/Actions/MoveToEntity-RU.md)
-2. [InteractEntities](./Quester/Actions/InteractEntities-RU.md)
-3. [MoveToTeammate](./Quester/Actions/MoveToTeammate-RU.md)
-4. PickUpMissionExt
-5. TurnInMissionExt
-6. AddIgnoredFoes
-7. RemoveIgnoredFoes
-8. ChangeInstanceToLeader
-9. InsertInsignia
+## **Команды**
+1. [MoveToEntity](Quester/Actions/MoveToEntity-RU.md)
+2. [InteractEntities](Quester/Actions/InteractEntities-RU.md)
+3. [MoveToTeammate](Quester/Actions/MoveToTeammate-RU.md)
+4. [PickUpMissionExt](Quester/Actions/PickUpMissionExt-RU.md)
+5. [TurnInMissionExt](Quester/Actions/TurnInMissionExt-RU.md)
+6. [AddIgnoredFoes](Quester/Actions/AddIgnoredFoes-RU.md)
+7. [RemoveIgnoredFoes](Quester/Actions/AddIgnoredFoes-RU.md)
+8. [ChangeInstanceToLeader](Quester/Actions/ChangeInstanceToLeader-RU.md)
+<!--9. InsertInsignia
 10. ChangePluginSettings
 
-## Условия
+## **Условия**
 1. EntityCount
 2. EntityProperty
 3. TeamMemberCount
@@ -28,7 +27,7 @@
 
 # **Расширение для боевой подсистемы [*UCC*](./General/Glossary-RU.md#ref-UCC)**
 
-## Команды UCC
+## **Команды UCC**
 1. ApproachEntity
 2. ChangeTarget
 3. DodgeFromEntity
@@ -36,7 +35,7 @@
 5. SpecializedUCCAction
 6. UseItemSpecial
 
-## Условия UCC
+## **Условия UCC**
 1. UCCEntityCheck
 2. UCCTargetMatchEntity
 3. UCCCheckTimer
@@ -44,3 +43,4 @@
 5. UCCGameUICheck
 6. UCCGenericCondition
 7. UCCQuesterCheck
+-->

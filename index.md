@@ -12,8 +12,12 @@
 6. [AddIgnoredFoes](Quester/Actions/AddIgnoredFoes-RU.md)
 7. [RemoveIgnoredFoes](Quester/Actions/RemoveIgnoredFoes-RU.md)
 8. [ChangeInstanceToLeader](Quester/Actions/ChangeInstanceToLeader-RU.md)
-<!--9. InsertInsignia
-10. ChangePluginSettings
+
+---
+
+<!-- 
+9. InsertInsignia
+10.  ChangePluginSettings
 
 ## **Условия**
 1. EntityCount

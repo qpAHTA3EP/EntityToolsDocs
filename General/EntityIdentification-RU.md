@@ -19,8 +19,8 @@
 |:-----------------|:-------------|
 |<a name ="ref-EntityID">***EntityID***</a> | Текстовый идентификатор *Entity*.
 |<a name ="ref-EntityIdType">***EntityIdType***</a> | Переключатель способа интерпретации [*EntityID*](#ref-EntityID):<br/>- ***Simple*** : Простая текстовая строка. <br/>В начале и в конце строки допускается использование символа подстановки ``"*"``, заменяющего произвольное число алфавитно-цифровых символов;<br/>- ***Regex*** : Регулярное выражение, составленное по правилам [.Net Framework](https://docs.microsoft.com/ru-ru/dotnet/standard/base-types/regular-expressions).
-|<a name ="ref-EntityNameType">***EntityNameType***</a> | Переключатель, которые задает свойство *Entity*, с которым сопоставляется идентификатор [*EntityID*](#ref-EntityID):<br/>- ***InternalName*** : [*EntityID*](#ref-EntityID) сопоставляется с [*Entity.InternalName*](#ref-Entity-InternalName);<br/>- ***NameUntranslated*** : [*EntityID*](#ref-EntityID) сопоставляется с [*Entity.NameUntranslated*](#ref-Entity-NameUntranslated);<br/>- ***Empty*** : все вышеуказанные идентификаторы должны быть пустыми.
-
+|<a name ="ref-EntityNameType">***EntityNameType***</a> | Переключатель, которые задает свойство *Entity*, с которым сопоставляется идентификатор [*EntityID*](#ref-EntityID):<br/>- ***InternalName*** : [*EntityID*](#ref-EntityID) сопоставляется с [*Entity.InternalName*](#ref-Entity-InternalName);<br/>- ***NameUntranslated*** : [*EntityID*](#ref-EntityID) сопоставляется с [*Entity.NameUntranslated*](#ref-Entity-NameUntranslated);<br/>- ***Empty*** : безымянное *Entity*, у которого все вышеуказанные идентификаторы должны пустые. Такие *Entity* обычно являются частью 
+|<a name ="ref-EntitySetType">***EntitySetType***</a> | ***Дополнительная опция***, используемая в некоторых командах и условиях и позволяющая изменить множество *Entity*, в котором производится поиск:<br>- ***Complete*** : Все видимые боту *Entity* (значение по умолчанию). Если опция отсутствует, то поиск производится в данном множестве;<br/>- ***Contacts*** : Видимые боту *Entity*, с которыми можно произвести ***взаимодействие***. Как правило это дружественные *NPC*, торговцы и т.п.
 
 ---
 

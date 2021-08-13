@@ -15,9 +15,13 @@
 
 ---
 
+## **Условия**
+1. [EntityCount](Quester/Conditions/EntityCount-RU.md)
+
+
 <!-- 
-9. InsertInsignia
-10.  ChangePluginSettings
+1. InsertInsignia
+2.   ChangePluginSettings
 
 ## **Условия**
 1. EntityCount

@@ -17,49 +17,6 @@
 
 [^1]: Отмеченные элементы игнорируются для типа _Remote_.
 
+---
 
-<!-- <table>
-    <style>td{ vertical-align :top;}</style>
-    <tr><td colspan=2><b>Основные :</b></td></tr>
-    <tr>
-        <td></td>
-        <td>Информационное поле (только для чтения), отображающее тип объекта: 
-            <table>
-                <tr>
-                    <td><a name ="ref-Type-NPC"><i>NPC</i></a></td>
-                    <td>неигровой персонаж (NPC), расположенный на определенной карте в заданной точке игрового мира.</td>
-                </tr>
-                <tr>
-                    <td><a name ="ref-Type-Remote"><i>Remote</i></a></td>
-                    <td>внутриигровая система, доступная из любой точки игрового мира и взаимодействующая с игровым персонажем в диалоговом режиме как обычный NPC.</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-    <tr>
-        <td><a name ="ref-Id"><i>Id</i></a></td>
-        <td>Текстовый идентификатор объекта;</td>
-    </tr>
-    <tr><td colspan=2><b>Дополнительные опции <i>NPC</i> (игнорируются для <i>Remote</i>) :</b></td></tr>
-    <tr>
-        <td><a name ="ref-Position"><i>Position</i></a></td>
-        <td>Координаты NPC в трехмерном игровом пространстве.</td>
-    </tr>
-    <tr>
-        <td><a name ="ref-MapName"><i>MapName</i></a></td>
-        <td>Идентификатор карты, на которой находится NPC.</td>
-    </tr>
-    <tr>
-        <td><a name ="ref-RegionName"><i>RegionName</i></a></td>
-        <td>Текстовый идентификатор региона, в котором находится NPC.</td>
-    </tr>
-    <tr>
-        <td><a name ="ref-Distance"><i>Distance</i></a></td>
-        <td>Информационное поле (только для чтения), показывающее фактическое расстояние до [*Position*](#ref-Position).</td>
-    </tr>
-    <tr>
-        <td><a name ="ref-Tolerance"><i>Tolerance</i></a></td>
-        <td>Максимальное допустимое расстояние, на которое NPC может удалиться от [*Position*](#ref-Position).</td>
-    </tr>
-</table>
--->
+[**Вернуться к содержанию**](../index.md)

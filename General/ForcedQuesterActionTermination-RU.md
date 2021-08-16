@@ -7,3 +7,7 @@
 2. Задать [*AssociateMission*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43902#p43902 "Смотри по ссылке описание опции AssociateMission") и флаг [*PlayWhileMissionUnsuccess*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43902#p43902 "Смотри по ссылке описание флага PlayWhileMissionUnsuccess").
 
 3. Установить время выполнения [*MaxRunningTime*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43902#p43902 "Смотри по ссылке описание опции MaxRunningTime")
+
+---
+
+[**Вернуться к содержанию**](../index.md)

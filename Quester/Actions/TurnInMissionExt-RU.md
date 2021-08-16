@@ -37,13 +37,13 @@
 ![Выбор MissionId вручную](img/PickUpMissionExt-GatherInfo-ManualMissionId.png)
 2. Укажите *NPC*, принимающего миссию.<br/>
 Для этого в игровом окне нужно подвести игрового персонажа вплотную к соответствующему *NPC*, направить на него игровую камеру и нажать F12.<br/> 
-   ![Идентификация квестодателя-NPC](./img/PickUpMissionExt-GatherInfo-GiverIdentification.png)<br/>
+   ![Идентификация квестодателя-NPC](./img/TurnInMissionExt-GatherInfo-GiverIdentification.png)<br/>
    Информация о выбранном *NPC* будет занесена в опцию [*Giver*](#ref-Giver), игровой персонаж самостоятельно произведет взаимодействие с ним, дождется появления внутриигрового диалогового окна и активирует пункт меню, соответствующий выбранной миссии [*MissionId*](#ref-MissionId). При этом сдавать миссиию бот не будет.
 3. В quester-редакторе откроется диалоговое окне ***Get an item id***, в котором можно выбрать один из предметов, выдаваемых в качестве награды за выполнение миссии. <br/>
 По умолчанию открывается вкладка с наградами за выполнение миссии, однако, для поиска нужного предмета можно переключиться другую вкладку. <br/>
 Идентификатор выбранной награды заносится в опцию [*RequiredRewardItem*](#ref-RequiredRewardItem). <br/>
 Если закрыть окно, то опция [*RequiredRewardItem*](#ref-RequiredRewardItem) останется незаполненной, а проверка - отключится.<br/>
-![Выбор RequiredRewardItem](img/PickUpMissionExt-GatherInfo-RequiredRewardItem.png)
+![Выбор RequiredRewardItem](img/TurnInMissionExt-GatherInfo-RequiredRewardItem.png)
 
 ---
 
@@ -75,4 +75,4 @@
 +  Удобный [мастер настройки (GatherInfo)](#мастер-настройки-gatherinfo) 
 
 
-# [Вернуться к содержанию](../../index.md)
+[**Вернуться к содержанию**](../../index.md)

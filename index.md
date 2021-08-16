@@ -19,6 +19,8 @@
 1. [EntityCount](Quester/Conditions/EntityCount-RU.md)
 2. [EntityProperty](Quester/Conditions/EntityProperty-RU.md)
 3. [TeamMemberCount](Quester/Conditions/TeamMemberCount-RU.md)
+4. [TeamLeaderMapInstance](Quester/Conditions/TeamLeaderMapInstance-RU.md)
+5. [CheckShard](Quester/Conditions/CheckShard-RU.md)
 
 <!-- 
 1. InsertInsignia
@@ -26,7 +28,6 @@
 
 ## **Условия**
 
-1. TeamLeaderMapInstance
 2. CheckShard
 3. IsInCustomRegionSet
 

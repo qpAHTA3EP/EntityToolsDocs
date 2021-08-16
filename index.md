@@ -17,19 +17,18 @@
 
 ## **Условия**
 1. [EntityCount](Quester/Conditions/EntityCount-RU.md)
-
+2. [EntityProperty](Quester/Conditions/EntityProperty-RU.md)
+3. [TeamMemberCount](Quester/Conditions/TeamMemberCount-RU.md)
 
 <!-- 
 1. InsertInsignia
 2.   ChangePluginSettings
 
 ## **Условия**
-1. EntityCount
-2. EntityProperty
-3. TeamMemberCount
-4. TeamLeaderMapInstance
-5. CheckShard
-6. IsInCustomRegionSet
+
+1. TeamLeaderMapInstance
+2. CheckShard
+3. IsInCustomRegionSet
 
 ***
 

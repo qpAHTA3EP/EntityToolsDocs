@@ -1,7 +1,7 @@
 # **EntityProperty**
 
-Условие проверяет [значение свойства](#ref-PropertyType "Опция 'PropertyType'") ближайшего *Entity*, удовлетворяющего [критериями](#ref-EntityIdentification), с референтным значением [*Value*](!ref-Value  "Опция 'Value'").<br/>
-Результат выполняемой [проверки](#ref-Tested "Заданной группой опций 'Tested'") - логическая величина (истина или ложь).
+Условие проверяет [значение свойства](#ref-PropertyType "Определяется опцией 'PropertyType'") ближайшего *Entity*, удовлетворяющего [критериями](#ref-EntityIdentification "Определяется опциями категории 'Entity'"), с референтным значением [*Value*](!ref-Value  "Опция 'Value'").<br/>
+Результат выполняемой [проверки](#ref-Tested "Заданной опциями категории 'Tested'") - логическая величина (истина или ложь).
 
 ---
 
@@ -9,6 +9,10 @@
 
 | **Наименование** | **Описание** 
 |:-----------------|:-------------
+|| <a name ="ref-Tested"></a> **Проверка (категория "Tested")**
+|<a name ="ref-PropertyType">***PropertyType***</a> | Переключатель, указывающий на свойство *Entity*, которое необходимо проверить:<br/>- ***Distance*** : расстояние между персонажем и ближайшим *Entity* с точностью до 1.0[^1];<br/> - ***ZAxis*** : Абсолютная координата *Entity* по оси *Z*;<br/>- ***HealthPercent*** : Уровень здоровья *Entity* в процентах.
+|<a name ="ref-Value">***Value***</a> | Референтное значение, с которым сравнивается значение [свойства *Entity*](#ref-PropertyType "Определяется опцией 'PropertyType'") в момент проверки.
+|<a name ="ref-Sign">***Sign***</a> | Переключатель, который задает соотношение референтного значения [*Value*](!ref-Value) со значением [свойства *Entity*](#ref-PropertyType "Опция 'PropertyType'"):<br/>- ***Equal*** : значение должно быть РАВНО [*Value*](!ref-Value);<br/>- ***NotEqual*** : значение должно быть НЕ РАВНО [*Value*](!ref-Value);<br/>- ***Inferior*** : значение должно быть МЕНЬШЕ [*Value*](!ref-Value);<br/>- ***Superior*** : значение должно быть БОЛЬШЕ [*Value*](!ref-Value).
 || <a name ="ref-EntityIdentification"></a>**Идентификации *Entity* (категория "Entity")**
 |<a name ="ref-EntityID">***EntityID***</a><br/><a name ="ref-EntityIdType">***EntityIdType***</a><br/><a name ="ref-EntityNameType">***EntityNameType***</a><br/><a name ="ref-EntityID">***EntitySetType***</a> | Идентификация *Entity* производится сочетанием четырех перечисленных слева свойств, которые подробно описаны в разделе [Идентификация *Entity*](../../General/EntityIdentification-RU.md).
 ||**Дополнительные фильтры *Entity* (категория "Optional")**
@@ -19,9 +23,6 @@
 || **Ограничение области подсчета (категория "Location")**
 |<a name ="ref-CustomRegions">***CustomRegions***</a> | Набор *CustomRegion*'ов, задающих область поиска *Entity*. Подробное описание приведено в разделе [CustomRegionSet](../../General/CustomRegionSet-RU.md).
 |<a name ="ref-CustomRegionCheck">***CustomRegionCheck***</a>|Переключатель определяющий, в какой части игрового пространства необходимо производить подсчет *Entity*:<br/>- ***Equal*** : подсчет ведется внутри области, заданной [*CustomRegions*](#ref-CustomRegions);<br/>- ***NotEqual*** - подсчет ведется за пределами области, заданной [*CustomRegions*](#ref-CustomRegions).
-|| <a name ="ref-Tested"></a> **Проверка (категория "Tested")**
-|<a name ="ref-Value">***Value***</a> | Значение, с которым сравнивается подсчитанное количество *Entity*.
-|<a name ="ref-Sign">***Sign***</a> | Переключатель, который задает соотношение референтного значения [*Value*](!ref-Value) со значением выбранного свойства *Entity*:<br/>- ***Equal*** : значение свойства должно быть РАВНО [*Value*](!ref-Value) с точностью до 1.0[^1];<br/>- ***NotEqual*** : значение свойства должно быть НЕ РАВНО [*Value*](!ref-Value) с точностью до 1.0;<br/>- ***Inferior*** : значение свойства должно быть МЕНЬШЕ [*Value*](!ref-Value);<br/>- ***Superior*** : значение свойства должно быть БОЛЬШЕ [*Value*](!ref-Value).
 
 
 [^1]: Величины считаются равными, если разница по модулю меньше заданной точности.

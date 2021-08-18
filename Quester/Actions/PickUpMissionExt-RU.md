@@ -79,9 +79,9 @@
 
 ---
 
-# **Команды - аналоги и их отличия**
+# **Аналоги**
 
-Отличия от штатных команд ***PickUpMission*** и ***InteractNPC***:
+Отличия от команд [***PickUpMission***](Astral-Actions-RU.md#ref-PickUpMission) и [***InteractNPC***](Astral-Actions-RU.md#ref-InteractNPC), встроенных в базовый функционал бота:
 + возможность проверки наличия в наградах за миссию заданного [предмета](#ref-RequiredRewardItem "Опция 'RequiredRewardItem'") и отказ от принятия миссии при его отсутствии. <br/>  
 +  встроенная проверка наличий миссии в журнале активных или завершенных задач персонажа;
 +  встроенная проверка [карты](../../General/MissionGiverInfo-RU.md#ref-MapName "Опция 'Giver.MapName'") и [региона](../../General/MissionGiverInfo-RU.md#ref-RegionName "Опция 'Giver.RegionName'"), в которых находится квестодатель-NPC. Команда прерывается, если персонаж находится на иной карте или в ином регионе;

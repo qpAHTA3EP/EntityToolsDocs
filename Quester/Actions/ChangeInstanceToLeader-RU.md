@@ -28,9 +28,10 @@
 
 ---
 
-# **Команды - аналоги**
+# **Аналоги**
 
-- ***ChangeInstance***
+Похожие команды, входящие в базовый функционал бота:
+- [***ChangeInstance***](Astral-Actions-RU.md#ref-ChangeInstance).
 
 ---
 

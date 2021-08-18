@@ -51,10 +51,11 @@
 
 ---
 
-# **Штатные команды - аналоги**
+# **Аналоги**
 
-- ***InteractNPC***
-- ***FollowNPC***
+Похожие команды, входящие в базовый функционал бота:
+- [***InteractNPC***](Astral-Actions-RU.md#ref-InteractNPC);
+- [***FollowNPC***](Astral-Actions-RU.md#ref-FollowNPC).
 
 ---
 

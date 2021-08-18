@@ -66,9 +66,9 @@
 
 ---
 
-# **Команды - аналоги**
+# **Аналоги**
 
-Отличия от штатных команд ***TurnInMission*** и ***InteractNPC***:
+Отличия от команд [***TurnInMission***](Astral-Actions-RU.md#ref-TurnInMission) и [***InteractNPC***](Astral-Actions-RU.md#ref-InteractNPC), встроенных в базовый функционал бота:
 + возможность проверки наличия в наградах за миссию заданного [предмета](#ref-RequiredRewardItem "Опция 'RequiredRewardItem'") и отказ от завершения миссии при его отсутствии. <br/>  
 +  встроенная проверка статуса миссии в журнале активных или завершенных задач персонажа;
 +  встроенная проверка [карты](../../General/MissionGiverInfo-RU.md#ref-MapName "Опция 'Giver.MapName'") и [региона](../../General/MissionGiverInfo-RU.md#ref-RegionName "Опция 'Giver.RegionName'"), в которых находится [*Giver*](#ref-Giver). Команда прерывается, если персонаж находится на иной карте или в ином регионе; 

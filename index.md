@@ -1,5 +1,21 @@
-# **EntityTools**
-Это плагин для бота [Astral](https://www.neverwinter-bot.com/forums/index.php) к MMORPG ["Neverwinter Online"](https://www.arcgames.com/en/games/neverwinter/news).
+# **Описание**
+**EntityTools** - это плагин для бота [Astral](https://www.neverwinter-bot.com/forums/index.php) к MMORPG ["Neverwinter Online"](https://www.arcgames.com/en/games/neverwinter/news).
+
+
+Плагин добавляет новые команды и условия для использования в скриптов **Quester**'a - подсистемы бота, предназначенной для выполнения сюжетных заданий, прохождения подземелий и выполнения других сложных последовательностей действий. <br/>
+Подробности [*здесь*](Quester/EntityTools-QuesterExtensions-RU.md).
+
+Кроме того, плагин модифицирует боевую подсистему **UCC**, добавляя новые команды и условия, управляющие персонажем в бою. Например, возможность использования боевого умения скакуна.
+
+Более того, в плагине реализованы специальные инструменты для разработчиков скриптов для **Quester**'а, а также . Некоторые инструменты заменяют стандартные, например, такие как Mapper, а другие являются .<br/>
+Подробности [*здесь*]().
+
+Наконец, в плагине реализованы несколько патчей, исправляющих наиболее неприятные ошибки бота, или улучшающие его функционал.
+
+
+# **[Расширение для роли *Quester*](Quester/EntityTools-QuesterExtensions-RU.md)**
+
+<!--
 
 # **Расширение для роли [*Quester*](./General/Glossary-RU.md#ref-Quester)**
 
@@ -21,15 +37,12 @@
 3. [TeamMemberCount](Quester/Conditions/TeamMemberCount-RU.md)
 4. [TeamLeaderMapInstance](Quester/Conditions/TeamLeaderMapInstance-RU.md)
 5. [CheckShard](Quester/Conditions/CheckShard-RU.md)
+6. [IsInCustomRegionSet](Quester/Conditions/IsInCustomRegionSet-RU.md)
 
+-->
 <!-- 
 1. InsertInsignia
 2.   ChangePluginSettings
-
-## **Условия**
-
-2. CheckShard
-3. IsInCustomRegionSet
 
 ***
 

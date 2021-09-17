@@ -1,0 +1,30 @@
+@startuml
+!theme spacelab
+skinparam actorStyle awesome
+
+actor "Игрок" as Player #text:black
+
+package Neverwinter <<Исполняемый файл ММОРПГ>> {
+    component Character
+}
+
+Player ..> Character #text:black : "Управляет"
+
+package Astral {
+    component Quester
+    Character <.. Quester #text:black : Управляет \nвне боя
+    component UCC
+    Character <.. UCC #text:black : Сражается
+    component Navigation
+    Character <.. Navigation #text:black : Перемещает
+    component Mapper
+    Player ..> Mapper #text:black : Картографирует
+}
+
+component EntityTools <<Плагин>>
+
+Quester *-- EntityTools   #black;text:black : Дополняет
+UCC *-- EntityTools  #black;text:black : Дополняет
+Mapper <-- EntityTools #red;text:red : __Заменяет__
+Navigation <-- EntityTools #red;text:red : __Заменяет__
+@enduml

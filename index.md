@@ -12,8 +12,10 @@
 
 Наконец, в плагине реализованы несколько патчей, исправляющих наиболее неприятные ошибки бота, или улучшающие его функционал.
 
+![Диаграмма контекста](General/diagrams/ET-Context-RU.png)
 
-# **[Расширение для роли *Quester*](Quester/EntityTools-QuesterExtensions-RU.md)**
+# Оглавление
+## **[Расширение для роли *Quester*](Quester/EntityTools-QuesterExtensions-RU.md)**
 
 <!--
 

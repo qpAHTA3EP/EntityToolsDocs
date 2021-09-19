@@ -2,29 +2,35 @@
 !theme spacelab
 skinparam actorStyle awesome
 
-actor "Игрок" as Player #text:black
+actor "**Игрок**" as Player #text:Black
 
 package Neverwinter <<Исполняемый файл ММОРПГ>> {
     component Character
 }
 
-Player ..> Character #text:black : "Управляет"
+Player ..> Character #text:SteelBlue : **Управляет**
 
-package Astral {
+actor "**Ботовод**" as Botter #text:Gray;back:Gray
+
+package Astral <<Rectangle>> {
     component Quester
-    Character <.. Quester #text:black : Управляет \nвне боя
+    Character <.[thickness=4]. Quester #text:SteelBlue : **Управляет** \n**вне боя**
     component UCC
-    Character <.. UCC #text:black : Сражается
-    component Navigation
-    Character <.. Navigation #text:black : Перемещает
+    Character <.[thickness=4]. UCC #text:SteelBlue : **Сражается**
+    component Navigation 
+    Character <.[thickness=4]. Navigation #text:SteelBlue : **Перемещает**
     component Mapper
-    Player ..> Mapper #text:black : Картографирует
+    Botter .[#DarkRed;thickness=4].> Mapper #text:DarkRed : __**Картографирует**__
+    Botter .[#DarkRed;thickness=4].> Quester #text:DarkRed : __**Конфигурирует**__
+    Botter .[#DarkRed;thickness=4].> UCC #text:DarkRed : __**Конфигурирует**__
 }
 
-component EntityTools <<Плагин>>
+package EntityTools <<Плагин>> {
+    
+}
 
-Quester *-- EntityTools   #black;text:black : Дополняет
-UCC *-- EntityTools  #black;text:black : Дополняет
-Mapper <-- EntityTools #red;text:red : __Заменяет__
-Navigation <-- EntityTools #red;text:red : __Заменяет__
+Quester *-- EntityTools   #black;text:black : **Дополняет**
+UCC *-- EntityTools  #black;text:black : **Дополняет**
+Mapper <-- EntityTools #DarkBlue;text:DarkBlue : __**Заменяет**__
+Navigation <-- EntityTools #DarkRed;text:DarkRed : __**Модифицирует**__
 @enduml

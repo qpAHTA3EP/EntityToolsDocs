@@ -10,7 +10,6 @@
 
 2. Когда *Teammate* найден, бот следует к нему по кратчайшему пути.
 
-
 # **Настройки команды**
 
 | **Наименование** | **Описание** 
@@ -48,6 +47,11 @@
 - Задан флаг [*StopOnApproached*](#ref-StopOnApproached) и персонаж приблизился к [*Teammate*](#ref-Teammate) на расстояние [*CombatDistance*](#ref-CombatDistance).
 
 Принудительное завершение команды возможно одним из способов, перечисленных в [статье](./../../General/ForcedQuesterActionTermination-RU.md).
+
+---
+
+# **Схема**
+![Схема](diagrams/MoveToTeammate.png)
 
 ---
 

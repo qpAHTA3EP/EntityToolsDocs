@@ -1,0 +1,27 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment Center
+start
+repeat
+:Поиск Teammate|
+if(Teammate найден ?) then (<color:black>да) 
+    if(Расстояние до Teammate\nбольше CombatDistance ?) then (<color:black>да)
+        if (IgnoreCombat) then (<color:black>да)
+            :Активация режима\nигнорирования боя|
+        else (<color:black>нет)
+        endif
+        :Перемещение к персонажу|
+    endif
+    :Поиск противника;
+    if(Противник найден ?) then (<color:black>да)
+        :Атаковать противника|
+    else (<color:black>нет)
+    endif
+
+else (<color:black>нет)
+    :Ждать 1 с.|
+endif
+repeat while (НЕ StopOnApproach\nИ TeammateSearchTime НЕ истек) is (<color:black>да)
+stop
+
+@enduml

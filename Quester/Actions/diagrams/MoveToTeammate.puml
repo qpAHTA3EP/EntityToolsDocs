@@ -2,26 +2,31 @@
 !theme spacelab
 skinparam DefaultTextAlignment Center
 start
-repeat
-:Поиск Teammate|
+repeat :Поиск Teammate\nс учетом CustomRegions|
 if(Teammate найден ?) then (<color:black>да) 
+    :Сборос таймера\nTeammateSearchTime;
     if(Расстояние до Teammate\nбольше CombatDistance ?) then (<color:black>да)
-        if (IgnoreCombat) then (<color:black>да)
-            :Активация режима\nигнорирования боя|
+        if (Флаг IgnoreCombat = True) then (<color:black>да)
+            :Активация режима\nигнорирования боя;
         else (<color:black>нет)
         endif
-        :Перемещение к персонажу|
+        :Перемещение к Teammate|
+    else (<color:black>нет)
     endif
-    :Поиск противника;
+    :Поиск противника,\nзаданного FoePreference|
     if(Противник найден ?) then (<color:black>да)
-        :Атаковать противника|
+        if(AbortCombatDistance > CombatDistance) then (<color:black>да)
+            :Атаковать противника\nс отслеживанием\n AbortCombatDistance|
+        else (<color:black>нет)
+            :Атаковать противника|
+        endif
     else (<color:black>нет)
     endif
 
 else (<color:black>нет)
-    :Ждать 1 с.|
+    :Ждать 1 с.;
 endif
-repeat while (НЕ StopOnApproach\nИ TeammateSearchTime НЕ истек) is (<color:black>да)
+repeat while (Флаг StopOnApproach = False\nИ\nTeammateSearchTime НЕ истек) is (<color:black>да)
 stop
 
 @enduml

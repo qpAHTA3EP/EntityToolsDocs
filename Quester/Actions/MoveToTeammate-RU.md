@@ -1,21 +1,21 @@
 # **MoveToTeammate**
 
-Команда предназначена для сопровождения и оказания поддержки члену группы (*Teammate*).
+Команда предназначена для сопровождения и оказания поддержки члену группы ([*Teammate*](#ref-Teammate)).
 
 ## **Краткое описание**
 
-1. Бот производит поиск члена группы [*Teammate*](#ref-Teammate) и перемещается к нему. <br/>
+1. Бот производит поиск члена группы [*Teammate*](#ref-Teammate). <br/>
    - Персонаж и [*Teammate*](#ref-Teammate) должны находиться на одной карте, в одном инстансе и в одном внутриигровом регионе.
    - Область поиска [*Teammate*](#ref-Teammate) может быть ограничена опцией [*CustomRegions*](#ref-CustomRegions).
-
-2. Когда *Teammate* найден, бот следует к нему по кратчайшему пути.
+2. Когда *Teammate* найден, бот перемещает персонажа к нему.
+3. Приблизившись к персонажу на расстояние [*CombatDistance*](#ref-CombatDistance), персонаж атакует противника, заданного опцией [*FoePreference*](#ref-FoePreference).
 
 
 # **Настройки команды**
 
 | **Наименование** | **Описание** 
 |:-----------------|:-------------
-|**SupportOptions**| комплексная опция, позволяющая задать члена группы ([*Teammate*](#ref-Teammate)) и способ оказания ему поддержки.<br/>- <a name ="ref-Teammate">***Teammate***</a> : Переключатель, определяющий правило выбора члена группы.<br/><a name ="ref-FoePreference">***FoePreference***</a> : Переключатель, определяющий правило выбора противника.<br/>Подробное описание приведено в разделе [*SupportTeammate*](../../General/SupportTeammate-RU.md).
+|**SupportOptions**| комплексная опция, позволяющая задать члена группы ([*Teammate*](#ref-Teammate)) и способ оказания ему поддержки.<br/>- <a name ="ref-Teammate">***Teammate***</a> : Переключатель, определяющий правило выбора члена группы.<br/><a name ="ref-FoePreference">- ***FoePreference***</a> : Переключатель, определяющий правило выбора противника.<br/>Подробное описание приведено в разделе [*SupportTeammate*](../../General/SupportTeammate-RU.md).
 ||**Дополнительные фильтры *Teammate* <br/>(категория "Optional")**
 |<a name ="ref-CustomRegions">***CustomRegions***</a> | набор *CustomRegion*'ов, задающих область поиска *Teammate*. Подробное описание приведено в разделе [CustomRegionSet](../../General/CustomRegionSet-RU.md).
 ||**Управление боем**
@@ -48,6 +48,11 @@
 - Задан флаг [*StopOnApproached*](#ref-StopOnApproached) и персонаж приблизился к [*Teammate*](#ref-Teammate) на расстояние [*CombatDistance*](#ref-CombatDistance).
 
 Принудительное завершение команды возможно одним из способов, перечисленных в [статье](./../../General/ForcedQuesterActionTermination-RU.md).
+
+---
+
+# **Схема функционирования**
+![Схема](diagrams/MoveToTeammate.png)
 
 ---
 

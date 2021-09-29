@@ -1,0 +1,36 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+
+start
+partition "Поиск Target, заданного\nTargetSelector" {
+split 
+    -> <color:black>TeammateSupport;
+    :Поиск Teammate|
+    if(Teammate найден ?) then (<color:black>да)
+        :Поиск FoePreference|
+        :Target := FoePreference]
+    else  (<color:black>нет) 
+    endif
+split again
+    -> <color:black>EntityTarget;
+    :Поиск Entity|  
+    :Target := Entity]
+end split
+}
+if (Target найден?) then (<color:black>да)  
+    if (CustomConditions\nистины?) then (<color:black>да) 
+        if(Target отличается\nот CurrentTarget ?) then (<color:black>да)
+            :CurrentTarget := Target]
+            end
+        else  (<color:black>нет) 
+            end
+        endif
+    else (<color:black>нет) 
+        end
+    endif
+else (<color:black>нет) 
+    end
+endif
+
+@enduml

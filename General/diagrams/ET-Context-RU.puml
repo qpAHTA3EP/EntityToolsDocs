@@ -12,7 +12,7 @@ Player ..> Character #text:SteelBlue : **Управляет**
 
 actor "**Ботовод**" as Botter #text:Gray;back:Gray
 
-package Astral <<Rectangle>> {
+package Astral <<Бот>> {
     component Quester
     Character <.[thickness=4]. Quester #text:SteelBlue : **Управляет** \n**вне боя**
     component UCC

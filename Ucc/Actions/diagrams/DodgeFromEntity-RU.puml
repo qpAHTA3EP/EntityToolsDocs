@@ -1,0 +1,18 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+skinparam ConditionEndStyle hline
+
+start
+:Поиск Entity|
+if (Entity найдена?) then (<color:black>да) 
+    if(Расстояние до Entity\nменьше EntityRadius?) then (<color:black>да)
+        :Удаление\nот Entity|
+        end
+    else (<color:black>нет) 
+        end
+    endif
+else (<color:black>нет)
+    end
+endif
+@enduml

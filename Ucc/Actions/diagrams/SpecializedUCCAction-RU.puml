@@ -1,0 +1,26 @@
+@startuml "SpecializedUCCAction-RU"
+!theme spacelab
+skinparam DefaultTextAlignment center
+
+start
+if (Проверка Conditions) then (<color:black>истинны)
+    if(Проверка\nManageAction.NeedToRun) then (<color:black>истинно)
+        if(Проверка TimerName) then (<color:black>истек или\n<color:black>не задан)
+            if(Проверка\nCustomConditions) then (<color:black>истинны)
+                :Запуск ManageAction]
+                :Запуск таймера\nTimerName]
+                end
+            else  (<color:black>ложны)
+                end
+            endif
+        else  (<color:black>не истек)
+            end
+        endif
+    else  (<color:black>ложно)
+        end
+    endif
+else (<color:black>ложны)
+    end
+endif
+
+@enduml

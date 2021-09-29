@@ -1,0 +1,42 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+
+start
+partition "Идентификация Power" {
+split 
+    -> <color:black>Mount;
+    :Выбор умения скакуна]
+split again
+    -> <color:black>Artifact;
+    :Выбор\nАртефактного умения]
+end split
+}
+
+partition "Идентификация Target" {
+split 
+    -> <color:black>Self;
+    :Target := Player]
+split again
+    -> <color:black>Foe;
+    :Target := StrongestAdd]
+split again
+    -> <color:black>Friend;
+    :Target :=\nStrongestTeamMember]
+end split
+}
+
+
+if (Target является\nперсонажем?) then (<color:black>да)     
+else (<color:black>нет) 
+    if(Расстояние до Target\nбольше Radius?) then (<color:black>да)
+        :Перемещение\nк Target|
+    else (<color:black>нет) 
+    endif
+endif
+
+:Активация Умения|
+
+end
+
+@enduml

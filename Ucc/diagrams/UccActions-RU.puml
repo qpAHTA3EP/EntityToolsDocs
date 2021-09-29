@@ -1,0 +1,44 @@
+@startuml
+!theme spacelab
+package Astral <<Rectangle>> {
+    package UCC <<Rectangle>> {
+        class UCCAction{
+            + Conditions : List<UCCCondition>
+            + abstract NeedToRun : bool
+            + abstract Run() : bool
+        }
+        
+    }
+}
+
+package EntityTools <<Rectangle>> {
+    class ApproachEntity {
+        "Приблизиться к Entity"
+    }
+    UCCAction <|-- ApproachEntity
+    class DodgeFromEntity{
+        "Отойти от Entity"
+    }
+    UCCAction <|-- DodgeFromEntity
+    ApproachEntity -[hidden]- DodgeFromEntity
+    class ChangeTarget{
+        "Изменить цель"
+    }
+    UCCAction <|-- ChangeTarget
+    class ExecuteSpecificPower{
+        "Активировать умение"
+    }
+    UCCAction <|-- ExecuteSpecificPower
+    class PluggedSkill{
+        "Активировать артефакт\nили боевое умение скакуна"
+    }
+    UCCAction <|-- PluggedSkill
+    ExecuteSpecificPower -[hidden]- PluggedSkill
+    class UseItemSpecial{
+        "Использовать расходника"
+    }
+    UCCAction <|-- UseItemSpecial
+}
+
+Astral --[hidden]-- EntityTools
+@enduml

@@ -1,0 +1,43 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+skinparam ConditionEndStyle hline
+
+start
+floating note left #Brown : "Первый вариант"
+:Поиск Entity|
+if (Entity найдена?) then (<color:black>да) 
+    if(Расстояние до Entity\nбольше EntityRadius?) then (<color:black>да)
+        :Перемещение\nк Entity|
+        end
+    else (<color:black>нет) 
+        end
+    endif
+else (<color:black>нет)
+    end
+endif
+
+start
+floating note right #Brown : "Второй вариант"
+:Поиск Entity|
+if (Entity отсутствует?) then (<color:black>да) 
+    end
+else (<color:black>нет) 
+    if(Расстояние до Entity\nменьше EntityRadius?) then (<color:black>да)
+        end
+    else (<color:black>нет) 
+        :Перемещение\nк Entity|
+        end
+    endif
+endif
+
+start
+floating note left #Brown : "Третий вариант"
+:Поиск Entity|
+if (Entity отсутствует?) then (<color:black>да) 
+elseif(Расстояние до Entity\nменьше EntityRadius?) then (<color:black>да)
+else (<color:black>нет) 
+    :Перемещение\nк Entity|
+endif
+end
+@enduml

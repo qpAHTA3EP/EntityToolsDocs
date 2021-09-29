@@ -24,6 +24,8 @@
 |<a name="ref-JoinMatch">***JoinMatch***</a>| Вступление в очередь в подземелье или в схватку. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43906#p43906)
 |<a name="ref-MakeMatchGroup">***MakeMatchGroup***</a>| Создание "Группы c запросом на подбор" перед постановкой её в очередь. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43906#p43906)
 |<a name="ref-LeaveMissionMap">***LeaveMissionMap***</a>| Выход из подземелья (схватки) независимо от прогресса его прохождения и местоположения персонажа на карте. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43906#p43906)
+||**Команда группировки**
+|<a name="ref-ActionPack">***ActionPack***</a>| Группировка других quester-команд в блоки. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43903#p43903)
 
 ---
 

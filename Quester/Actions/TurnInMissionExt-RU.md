@@ -62,7 +62,7 @@
 - после взаимодействия с [*Giver*](#ref-Giver) и успешной сдачи миссии, которая меняет статус на *Completed*.
 - при отсутствии [*RequiredRewardItem*](#ref-RequiredRewardItem) в списке наград за выполнение миссии.
 
-Принудительное завершение команды возможно одним из способов, перечисленных в [статье](./../../General/ForcedQuesterActionTermination-RU.md).
+Принудительное завершение команды возможно одним из способов, перечисленных в [статье](ForcedQuesterActionTermination-RU.md).
 
 ---
 
@@ -77,4 +77,6 @@
 
 ---
 
-[**Вернуться к перечню команд**](../EntityTools-QuesterExtensions-RU.md)
+<a href="javascript:history.back()">Назад</a>  
+[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#Команды)  
+[Назад к содержанию](../../index.md)

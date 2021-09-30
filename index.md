@@ -12,7 +12,7 @@
 
 ![Диаграмма контекста](General/diagrams/ET-Context-RU.png)
 
-## **Оглавление**
+## **Содержание**
 ### **1. [Расширения для *Quester'a*](Quester/EntityTools-QuesterExtensions-RU.md)**
 ### **2. [Расширения для *UCC*](Ucc/EntityTools-UccExtensions-RU.md)**
 ### **3. Инструменты:**

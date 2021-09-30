@@ -47,7 +47,7 @@
 - [*Teammate*](#ref-Teammate) не был найден в течение времени [*TeammateSearchTime*](#ref-TeammateSearchTime).
 - Задан флаг [*StopOnApproached*](#ref-StopOnApproached) и персонаж приблизился к [*Teammate*](#ref-Teammate) на расстояние [*CombatDistance*](#ref-CombatDistance).
 
-Принудительное завершение команды возможно одним из способов, перечисленных в [статье](./../../General/ForcedQuesterActionTermination-RU.md).
+Принудительное завершение команды возможно одним из способов, перечисленных в [статье](ForcedQuesterActionTermination-RU.md).
 
 ---
 
@@ -61,4 +61,6 @@
 
 ---
 
-[**Вернуться к перечню команд**](../EntityTools-QuesterExtensions-RU.md)
+<a href="javascript:history.back()">Назад</a>  
+[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#Команды)  
+[Назад к содержанию](../../index.md)

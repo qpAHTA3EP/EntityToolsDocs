@@ -33,7 +33,7 @@
 
 # **Завершение команды**
 
-Принудительное завершение команды возможно одним из [перечисленных в статье способов](./../../General/ForcedQuesterActionTermination-RU.md).
+Принудительное завершение команды возможно одним из [перечисленных в статье способов](ForcedQuesterActionTermination-RU.md).
 
 ---
 
@@ -44,4 +44,6 @@
 
 ---
 
-[**Вернуться к перечню команд**](../EntityTools-QuesterExtensions-RU.md)
+<a href="javascript:history.back()">Назад</a>  
+[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#Команды)  
+[Назад к содержанию](../../index.md)

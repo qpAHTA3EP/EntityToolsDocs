@@ -36,4 +36,6 @@
 ## **Прочие опции**
 - ***ResetCurrentHotSpot*** - Reset current HotSpot after approaching the target *Entity*
 
-[**Вернуться к перечню команд**](../EntityTools-QuesterExtensions-RU.md)
+---
+
+<a href="javascript:history.back()">Назад</a>

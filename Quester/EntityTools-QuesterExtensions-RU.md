@@ -1,23 +1,23 @@
-# **Расширение для роли [*Quester*](./General/Glossary-RU.md#ref-Quester)**
+# **Расширение для роли [*Quester*](../General/Glossary-RU.md#ref-Quester)**
 
-[*Quester*](./General/Glossary-RU.md#ref-Quester) - это [подсистема](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43900#p43900) бота [Astral](https://www.neverwinter-bot.com/forums/index.php), предназначенная для управления одним персонажем и выполнения заранее определенной последовательности действий, которая называется ***профиль (рrofile)***.
+[*Quester*](../General/Glossary-RU.md#ref-Quester) - это [подсистема](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43900#p43900) бота [Astral](https://www.neverwinter-bot.com/forums/index.php), предназначенная для управления одним персонажем и выполнения заранее определенной последовательности действий, которая называется ***профиль (рrofile)***.
 
-Профили создаются в специальном [графическом редакторе](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43901#p43901) путем добавления команд (называемых "*action*"), каждая из которых имеет собственные [настройки](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43902#p43902) и условия запуска ([*conditions*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43910#p43910)). <br/>
-Команды, как правило, управляют игровым персонажем в игре и совершают несколько внутриигровых действий для достижения нужного результата. Например, взаимодействие с неигровым персонажем ([*InteractSpecificNPC*](Actions/Astral-Actions-RU.md#ref-InteractSpecificNPC)), выполняет перемещение игрового персонажа к месту нахождения NPC, активацию диалога и последовательный выбор заранее заданных вариантов ответов.
+Профили создаются в специальном [графическом редакторе](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43901#p43901) путем добавления команд ([*action*](Actions/Astral-Actions-RU.md)), каждая из которых имеет собственные [настройки](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43902#p43902) и условия запуска ([*conditions*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43910#p43910)). <br/>
+Команды, как правило, управляют игровым персонажем и совершают несколько внутриигровых действий для достижения нужного результата. Например, команда [*InteractSpecificNPC*](Actions/Astral-Actions-RU.md#ref-InteractSpecificNPC) для взаимодействия с неигровым персонажем (NPC), выполняет перемещение игрового персонажа к месту нахождения NPC, активацию диалога и последовательный выбор заранее заданных вариантов ответов.
 
-Плагин **EntityTools** реализует дополнительные команды и условия, которые могут быть использованы в профилях [*Quester'a*](./General/Glossary-RU.md#ref-Quester), а также инструменты для их настройки.
+Плагин **EntityTools** реализует дополнительные команды и условия, которые могут быть использованы в профилях [*Quester'a*](../General/Glossary-RU.md#ref-Quester), а также инструменты для их настройки.
 Большое внимание уделено обработке *Entity* - внутриигровым объектам, являющимся частью игрового процесса или декорациями. К *Entity* относятся все игровые или неигровые персонажи, спутники, противники и босы подземелий, некоторые предметы интерьера, порталы и т.д. В некоторых случаях, *Entity* используются для реализации игровых механик. Например, пылающие и отравленные области на земле, причиняющие урон находящимся в них персонажам.
 
 ---
 
 ## **Команды**
-1. [MoveToEntity](Actions/MoveToEntity-RU.md) : патрулирование по заданному маршруту, поиск и нападение на заданную [*Entity*](../../EntityToolsDocs/General/EntityIdentification-RU.md).
-2. [InteractEntities](Actions/InteractEntities-RU.md) : патрулирование по заданному маршруту, поиск и взаимодействие с заданной [*Entity*](../../EntityToolsDocs/General/EntityIdentification-RU.md).
-3. [MoveToTeammate](Actions/MoveToTeammate-RU.md) : сопровождение и оказание поддержки члену группы.
+1. [MoveToEntity](Actions/MoveToEntity-RU.md) : патрулирование по заданному маршруту, поиск и нападение на заданную [*Entity*](../General/EntityIdentification-RU.md).
+2. [InteractEntities](Actions/InteractEntities-RU.md) : патрулирование по заданному маршруту, поиск и взаимодействие с заданной [*Entity*](../General/EntityIdentification-RU.md).
+3. [MoveToTeammate](Actions/MoveToTeammate-RU.md) : сопровождение и оказание поддержки заданному члену группы.
 4. [PickUpMissionExt](Actions/PickUpMissionExt-RU.md) : взятие квестового задания (миссии) у конкретного неигрового персонажа (NPC) или у вспомогательной внутриигровой диалоговой подсистемы.
 5. [TurnInMissionExt](Actions/TurnInMissionExt-RU.md) : сдача квестового задания (миссии) конкретному неигровому персонажу (NPC).
 6. [AddIgnoredFoes](Actions/AddIgnoredFoes-RU.md) : задает список противников, игнорируемых во время боя.
-7. [RemoveIgnoredFoes](Actions/RemoveIgnoredFoes-RU.md) : удаление противников, игнорируемых во время боя, которые были добавлены командой [*AddIgnoreFoes*](./RemoveIgnoredFoes-RU.md).
+7. [RemoveIgnoredFoes](Actions/RemoveIgnoredFoes-RU.md) : удаление противников, игнорируемых во время боя, которые были добавлены командой [*AddIgnoreFoes*](Action/RemoveIgnoredFoes-RU.md).
 8. [ChangeInstanceToLeader](Actions/ChangeInstanceToLeader-RU.md) : переход игрового персонажа на инстанс текущей карты, в котором находится лидер группы.
 9. [UpgradeItem](Actions/UpgradeItem-RU.md) : Повышение ранга (уровня) предмета, заданного идентификатором. К таким предметам относятся волшебные камни и руны, знаки скакунов, артефактная экипировка и т.д.
 10. [PromoteTeammate](Actions/PromoteTeammate-RU.md) : Передача другому игроку лидерства в группе.
@@ -34,4 +34,5 @@
 
 ---
 
-[**Вернуться к содержанию**](../index.md)
+<a href="javascript:history.back()">Назад</a>  
+[Назад к содержанию](../index.md)

@@ -1,6 +1,6 @@
 # **Расширение для [*Universal Combat Class*](../General/Glossary-RU.md#ref-UCC)**
 
-**Universal Combat Class** (Далее - *UCC*) - это [подсистема](https://www.neverwinter-bot.com/forums/viewtopic.php?f=150&t=8020) бота [Astral](https://www.neverwinter-bot.com/forums/index.php), управляющая действиями персонажа во время боя.
+**Universal Combat Class** (Далее - *UCC*) - это [подсистема](https://www.neverwinter-bot.com/forums/viewtopic.php?f=150&t=8020) бота [***Astral***](https://www.neverwinter-bot.com/forums/index.php), управляющая действиями персонажа во время боя.
 Каждое свободное, боевое и ежедневное умение персонажа активируется специальной командой (Далее - "*ucc-команда*" или "*uccAction*"). Также существуют специальные ucc-команды на уклонение, приближение или удаление от цели, переключения режима боя и т.п.
 
 Последовательность и условиям применения *ucc-команд* называются *ucc-профиль*, который можно сохранить в *xml-файл*.
@@ -39,4 +39,5 @@
 
 ---
 
-[**Вернуться к содержанию**](../index.md)
+<a href="javascript:history.back()">Назад</a>  
+[Назад к содержанию](../index.md)

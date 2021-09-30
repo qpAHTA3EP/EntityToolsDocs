@@ -1,4 +1,4 @@
-# **Принудительное завершение команды [Quester'a](./Glossary-RU.md#ref-Quester)**
+# **Принудительное завершение команды [Quester'a](../../General/Glossary-RU.md#ref-Quester)**
 
 Прерывание команды можно выполнить следующими способами:
 
@@ -10,4 +10,4 @@
 
 ---
 
-[**Вернуться к содержанию**](../index.md)
+<a href="javascript:history.back()">Назад</a>

@@ -23,4 +23,6 @@
 
 ---
 
-[**Вернуться к перечню условий**](../EntityTools-UccExtensions-RU.md#Условия)
+<a href="javascript:history.back()">Назад</a>  
+[Назад к перечню условий](../EntityTools-UccExtensions-RU.md#Условия)  
+[Назад к содержанию](../EntityTools-UccExtensions-RU.md#Команды)

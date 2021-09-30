@@ -33,4 +33,6 @@
 
 ---
 
-[**Вернуться к перечню команд**](../EntityTools-QuesterExtensions-RU.md)
+<a href="javascript:history.back()">Назад</a>  
+[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#Команды)  
+[Назад к содержанию](../../index.md)

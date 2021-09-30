@@ -37,4 +37,4 @@
 
 ---
 
-[**Вернуться к перечню условий**](EntityTools-UccExtensions-RU.md)
+<a href="javascript:history.back()">Назад</a>

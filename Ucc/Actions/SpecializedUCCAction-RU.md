@@ -50,4 +50,6 @@
 
 ---
 
-[**Вернуться к перечню команд**](../EntityTools-UccExtensions-RU.md#Команды)
+<a href="javascript:history.back()">Назад</a>  
+[Назад к перечню команд](../EntityTools-UccExtensions-RU.md#Команды)  
+[Назад к содержанию](../../index.md)

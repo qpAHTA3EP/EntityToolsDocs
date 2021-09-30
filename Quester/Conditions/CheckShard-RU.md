@@ -18,4 +18,6 @@
 
 ---
 
-[**Вернуться к перечню условий**](../EntityTools-QuesterExtensions-RU.md)
+<a href="javascript:history.back()">Назад</a>  
+[Назад к перечню условий](../EntityTools-QuesterExtensions-RU.md#условия)  
+[Назад к содержанию](../../index.md)

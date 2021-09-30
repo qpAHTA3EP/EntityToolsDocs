@@ -19,4 +19,4 @@
 
 ---
 
-[**Вернуться к содержанию**](../index.md)
+<a href="javascript:history.back()">Назад</a>

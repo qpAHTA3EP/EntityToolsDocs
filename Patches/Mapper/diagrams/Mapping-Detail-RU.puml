@@ -1,0 +1,60 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+
+start
+partition "Пользователь\nВ ИГРЕ" {
+    :Перемещение персонажа\nв начало пути\nв игровом окне|
+}
+repeat
+partition "Пользователь\nВ MAPPER'e" {
+    split
+        :Установить\nBidirectional]
+    split again
+        :Установить\nUnidirectional]
+    end split
+
+    split
+        :Изменить\nLinearPath]
+    split again
+        :Изменить\nForceLinking]
+    split again
+        :Изменить\nWaypointDistance]
+    split again
+        :Изменить\nMaxElevationDifference]
+    split again
+        :Изменить\nNodeEquivalenceDistance]
+    end split
+}
+partition "Пользователь\nВ ИГРЕ" {
+    :Перемещение персонажа\nв игровом окне|
+}
+partition "Mapper" { 
+    if(Персонаж сместился\nна WaypointDistance\nот последней\nдобавленной точки?) then (<color:black>да)
+        if(Найдена эквивалентная точка ?) then (<color:black>да)
+        else (<color:black>нет)
+            :Добавить новую\nпутевую точку]
+        endif
+    else (<color:black>нет)
+    endif
+    if (Обычный путь\nLinearPath = False ?) then (<color:black>да)
+        :Установить связь\nс ближайшими точками\nв семи направлениях]
+        note 
+            Направления определяются 
+            по ходу движения:
+            впереди, слева, справа, 
+            впереди-слева, впереди-справа,
+            позади-слева, позади-справа
+        endnote
+    endif
+    :Установить связь\nс предыдущей точкой]
+}
+
+repeat while (Продолжить\nкартографирование ?) is (<color:black>да) not (<color:black>нет)
+
+partition "Пользователь\nВ MAPPER'e" {
+    :Нажать "Stop"]
+}
+end
+
+@enduml

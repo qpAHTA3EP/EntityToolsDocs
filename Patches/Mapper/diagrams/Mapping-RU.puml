@@ -1,0 +1,35 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+
+start
+:Поместить персонажа\nв начало пути|
+repeat
+partition "Выбор режима" {
+    split
+        :Установить\nBidirectional]
+    split again
+        :Установить\nUnidirectional]
+    end split
+}
+partition "Изменение параметров" {
+    split
+        :Изменить\nLinearPath]
+    split again
+        :Изменить\nForceLinking]
+    split again
+        :Изменить\nWaypointDistance]
+    split again
+        :Изменить\nMaxElevationDifference]
+    split again
+        :Изменить\nNodeEquivalenceDistance]
+    end split
+}
+:Перемещение персонажа\nвдоль пути|
+
+repeat while (Продолжить\nкартографирование ?) is (<color:black>да) not (<color:black>нет)
+
+:Нажать "Stop"]
+end
+
+@enduml

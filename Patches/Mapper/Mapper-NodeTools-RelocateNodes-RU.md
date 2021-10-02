@@ -1,7 +1,7 @@
 # **Инструмент перемещения путевых точек (RelocateNodes)**
 
 Инструмент расположен на панели [*Node Tools*](Mapper-NodesTools-RU.md) и активируется нажатием на кнопку ![RelocateNodes](img/icons/miniNodeMove.png)  
-Hot-key: Ctrl-Shift-R (в версии 0.20.919.542)
+Hot-key: ``Ctrl-Shift-R``
 
 ## **Последовательность действий**
 

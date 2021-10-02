@@ -7,7 +7,7 @@
 Az_Tod.bin
 ```
 
-![MapperExt](img/MapperExt.png)
+<p align="center"><img src="img/MapperExt.png"></p>
 
 Пути бывают двух видов:
 - **<font color=Maroon>Двунаправленные пути (Bidirectional)</font>** позволяют навигационной подсистеме перемещать персонажа **в прямом и обратном направлении** вдоль пути.
@@ -63,13 +63,13 @@ Az_Tod.bin
    
 5. Отключите режим картографирования, нажав на кнопку [![](img/icons/miniStop.png) Stop](#ref-Stop).
 
-![Mapping](diagrams/Mapping-RU.png)
+<p align="center"><img src="diagrams/Mapping-RU.png"></p>
 
 В режиме картографирования в окне *Mapper'a* вокруг персонажа, обозначенного ![стрелкой](ing/../img/icons/charArrow.png), отображается окружность, радиус которой соответствует [*NodeEquivalenceDistance*](#ref-NodeEquivalenceDistance).  
 Желтыми точками отображаются ближайшие к персонажу путевые точки.
 
-![Mapping](img/MapperExt-Mapping.png)
-
+<!-- ![Mapping](img/MapperExt-Mapping.png) -->
+<p align="center"><img src="img/MapperExt-Mapping.png"></p>
 
 ---
 

@@ -11,7 +11,7 @@
 2. ![](img/icons/miniNodeMove.png) **<a name="ref-RelocateNodes">Relocate Nodes</a> - перемещение путевых точек**  
    Нажатие на кнопку активирует инструмент перемещения путевых точек, описанный в статье.  
    Hot-key: ``Ctrl-Shift-R``  
-   ![](img/RelocateNodes/GroupMoving.png)
+   ![GroupMoving](img/RelocateNodes/GroupMoving.png)
 
 3. ![](img/icons/miniCancel.png) **<a name="ref-DeleteNodes">Delete Nodes</a> - удаление путевых точек**  
    Нажатие на кнопку активирует инструмент удаления путевых точек, описанный в статье.  

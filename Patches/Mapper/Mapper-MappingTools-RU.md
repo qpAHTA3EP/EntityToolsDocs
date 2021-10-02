@@ -82,7 +82,7 @@ Az_Tod.bin
 
 ## **Преимущества перед [штатным Mapper'e ](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43909#p43909)**
 - В [штатном Mapper'e ](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43909#p43909) расстояние между путевыми точками ([*WaypointDistance*](#ref-WaypointDistance)) составляло всего 5 единиц, возможность его изменения отсутствовала. Это приводило к перенасыщению графа путевыми точками и повышенной вероятности циклических танцев персонажа вокруг какой нибудь точки при высокой скорости перемещения или лагах.  
-- В [штатном Mapper'e ](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43909#p43909) отсутствовала проверка на наличие "эквивалентных" вершин ([*NodeEquivalenceDistance*](#ref-NodeEquivalenceDistance)), в результате чего 
+- В [штатном Mapper'e ](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43909#p43909) отсутствовала проверка на наличие "эквивалентных" вершин ([*NodeEquivalenceDistance*](#ref-NodeEquivalenceDistance)), в результате чего меши захламлялись лишними ними данными.
 
 ---
 

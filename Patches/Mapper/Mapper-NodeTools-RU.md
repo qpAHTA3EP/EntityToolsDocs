@@ -8,9 +8,10 @@
 **<a name="ref-Undo">Undo</a> - отмена последнего действия**  
 Нажатие на кнопку отменяет результаты последнего действия в Mapper'е, не ограничиваясь изменениями, произведенными нижеописанными инструментами. -->
 
-![RelocateNodes](img/icons/miniNodeMove.png) **<a name="ref-RelocateNodes">Relocate Nodes</a> - перемещение путевых точек**  
-Нажатие на кнопку ![RelocateNodes](img/icons/miniNodeMove.png)активирует инструмент перемещения путевых точек, описанный в [статье](Mapper-NodeTools-RelocateNodes-RU.md "RelocateNodes").  
-Hot-key: ``Ctrl-Shift-R``  
+2. ![](img/icons/miniNodeMove.png) **<a name="ref-RelocateNodes">Relocate Nodes</a> - перемещение путевых точек**  
+   Нажатие на кнопку активирует инструмент перемещения путевых точек, описанный в статье.  
+   Hot-key: ``Ctrl-Shift-R``  
+   <p align="center"><img src="img/RelocateNodes/GroupMoving.png"></p>
 
 ![GroupMoving](img/RelocateNodes/GroupMoving.png)
 

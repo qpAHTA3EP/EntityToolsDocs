@@ -17,7 +17,8 @@ Hot-key: ``Ctrl+Shift+S``
 
 ![ImportFromGame](img/icons/miniClone.png) **<a name="ref-ImportFromGame">Import from Game</a>**  
 Импорт путевого графа из игры, который используется для отображения дорожки задания.
-После нажатия на кнопку открывается следующий запрос:
+После нажатия на кнопку открывается следующий запрос:  
+
 <p align="center"><img src="img/GraphTools/ImportFromGame-Request.png"></p>
 
 - **Замена существующих путевых точек на внутриигровые** будет произведена при положительном ответе (Да, или Yes). В этом случае все существующие путевые точки удаляются.
@@ -34,7 +35,8 @@ Hot-key: ``Ctrl+Shift+S``
 1. После нажатия на кнопку открывается стандартное диалоговое окно, в котором необходимо указать на файл, содержащий путевые графы для нужных карт.
    
 2. Если выбранный файл содержит путевой граф для текущей карты, откроется следующий запрос:  
-<p align="center"><img src="img/GraphTools/ImportFromProfile-Request.png"></p>  
+
+  <p align="center"><img src="img/GraphTools/ImportFromProfile-Request.png"></p>  
 
   - **Замена путевого графа для текущей карты** будет произведена при положительном ответе (Да, или Yes).
 
@@ -86,7 +88,7 @@ Hot-key: ``Ctrl+Shift+S``
 ![DistanceMeasurement](img/icons/miniRuler.png) **<a name="ref-DistanceMeasurement">Distance Measurement</a>**  
 Данный инструмент позволяет измерить линейное расстояние и длину пути между двумя точками. [Подробнее...](Mapper-GraphTools-DistanceMeasurement-RU.md)
 
-<p align="center"><img src="img/GraphTools/DistanceMeasurement.png"></p>
+<p align="center"><img src="img/GraphTools/DistanceMeasurement-NormalPath.png"></p>
 
 ---
 

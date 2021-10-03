@@ -28,13 +28,14 @@
 
 1. **[Инструменты прокладывания пути (картографирования)](Mapper-MappingTools-RU.md)**.  
    ![MappingTools](img/MapperExt-Panel-Mapping.png)
-2. **[Инструмент ручного редактирования графа](Mapper-EditTools-RU.md)**.  
+2. **[Инструменты ручного редактирования графа](Mapper-EditTools-RU.md)**.  
    ![MappingTools](img/MapperExt-Panel-EditTools.png)
 3. **[Инструменты для работы с CustomRegion](Mapper-CustomRegionTools-RU.md)**.  
    ![MappingTools](img/MapperExt-Panel-CustomRegionTools.png)
-4. **[Дополнительные инструменты](Mapper-GraphTools-RU.md)**.
+4. **[Дополнительные инструменты](Mapper-GraphTools-RU.md)**.  
    ![MappingTools](img/MapperExt-Panel-GraphTools.png)
-   
+
+
 ---
 
 <a href="javascript:history.back()">Назад</a>  

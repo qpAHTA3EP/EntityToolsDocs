@@ -1,7 +1,7 @@
 # Дополнительные инструменты (Graph Tools)
 
 Дополнительные инструменты для путевого графа размещены на панели **'Graph Tools'**  
-![Панель GraphTools](img/MapperExt-Panel-MeshesTools.png)
+![Панель GraphTools](img/MapperExt-Panel-GraphTools.png)
 
 ---
 
@@ -19,7 +19,7 @@ Hot-key: ``Ctrl+Shift+S``
 Импорт путевого графа из игры, который используется для отображения дорожки задания.
 После нажатия на кнопку открывается следующий запрос:  
 
-<p align="center"><img src="img/GraphTools/ImportFromGame-Request.png"></p>
+<p align="center"><img src="img/GraphTools/ImportFromGame-UserRequest.png"></p>
 
 - **Замена существующих путевых точек на внутриигровые** будет произведена при положительном ответе (Да, или Yes). В этом случае все существующие путевые точки удаляются.
 
@@ -36,7 +36,7 @@ Hot-key: ``Ctrl+Shift+S``
    
 2. Если выбранный файл содержит путевой граф для текущей карты, откроется следующий запрос:  
 
-  <p align="center"><img src="img/GraphTools/ImportFromProfile-Request.png"></p>  
+  <p align="center"><img src="img/GraphTools/ImportFromProfile-UserRequest.png"></p>  
 
   - **Замена путевого графа для текущей карты** будет произведена при положительном ответе (Да, или Yes).
 
@@ -61,7 +61,7 @@ Hot-key: ``Ctrl+Shift+S``
 ![AnalizeMeshes](img/icons/miniAnalize.png) **<a name="ref-MeshesInfo">MeshesInfo</a>**  
 Анализ путевого графа для текущей карты, по результатам которого выводится следующая информация:  
 
-<p align="center"><img src="img/GraphTools/MeshesInfo.png"></p>
+<p align="center"><img src="img/GraphTools/MeshesInfo-AnalysisResult.png"></p>
 
 - **Total nodes** - полное количество путевых точек в графе.
   + **correct** - количество "видимых" путевых точек, через которые навигационная подсистема может проложить путь.
@@ -76,7 +76,7 @@ Hot-key: ``Ctrl+Shift+S``
 ![MeshesCompression](img/icons/miniWizard.png) **<a name="ref-Compression">Compression</a>**  
 Оптимизация путевого графа текущей карты, состоящая в удалении "скрытых" путевых точек и связанных сними ребер, а также ребер помеченных на удаление.  
 
-<p align="center"><img src="img/GraphTools/Compression.png"></p>
+<p align="center"><img src="img/GraphTools/CompressionResult.png"></p>
 
 После обработки графа выводится сообщение с информацией об изменении количества путевых точек и ребер.
 Аналогичная операция выполняется перед сохранением путевого графа, независимо от того, выполняется это средствами Mapper'a или из Quester-редактора.

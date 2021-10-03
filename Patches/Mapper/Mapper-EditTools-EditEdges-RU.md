@@ -27,4 +27,4 @@ Hot-key: ``Ctrl-Shift-R``
 
 <a href="javascript:history.back()">Назад</a>  
 [Назад к описанию Mapper'a](Mapper-RU.md)  
-[Назад к содержанию](../../../index.md)
+[Назад к содержанию](../../index.md)

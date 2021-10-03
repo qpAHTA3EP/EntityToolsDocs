@@ -29,6 +29,7 @@
 1. **[Инструменты прокладывания пути (картографирования)](Mapper-MappingTools-RU.md)**.
 2. **[Инструмент редактирования графа](Mapper-EditTools-RU.md)**.
 2. **[Дополнительные инструменты](Mapper-GraphTools-RU.md)**.
+
 ---
 
 <a href="javascript:history.back()">Назад</a>  

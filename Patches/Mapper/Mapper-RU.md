@@ -32,8 +32,8 @@
    ![MappingTools](img/MapperExt-Panel-EditTools.png)
 3. **[Инструменты для работы с CustomRegion](Mapper-CustomRegionTools-RU.md)**.  
    ![MappingTools](img/MapperExt-Panel-CustomRegionTools.png)
-4. **[Дополнительные инструменты](Mapper-GraphTools-RU.md)**.
-   ![MappingTools](img/MapperExt-Panel-GraphTools.png)
+4. **[Дополнительные инструменты](Mapper-GraphTools-RU.md)**.  
+   ![GraphTools](img/MapperExt-Panel-GraphTools.png)
    
 ---
 

@@ -1,6 +1,6 @@
-# **Инструмент перемещения путевых точек (RelocateNodes)**
+# **Инструмент перемещения путевых точек (Relocate Nodes)**
 
-Инструмент расположен на панели [*Node Tools*](Mapper-NodesTools-RU.md) и активируется нажатием на кнопку ![RelocateNodes](img/icons/miniNodeMove.png)  
+Инструмент расположен на панели [*Graph Edit Tools*](Mapper-EditTools-RU.md) и активируется нажатием на кнопку ![RelocateNodes](img/icons/miniNodeMove.png)  
 Hot-key: ``Ctrl-Shift-R``
 
 ## **Последовательность действий**

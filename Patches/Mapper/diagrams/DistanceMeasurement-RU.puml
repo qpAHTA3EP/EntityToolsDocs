@@ -1,0 +1,45 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+
+start
+:Клик ПКМ|
+if (Нажат 'Ctrl'?) then (<color:black>да)
+    :Установка первой точки\nStart := 2DPoint]
+else (<color:black>нет)
+    :Поиск объекта под курсором]
+    if(Объект найден?) then (<color:black>да)
+        :Привязка первой точки к объекту\nStart := Object.3DLocation]
+    else (<color:black>нет)
+        end
+    endif
+endif
+repeat :Клик ПКМ|
+if (Нажат 'Ctrl'?) then (<color:black>да)
+    :Установка второй точки\nEnd := 2DPoint]
+else (<color:black>нет)
+    :Поиск объекта под курсором]
+    if (Объект найден?) then (<color:black>да)
+        :Привязка первой точки к объекту\nEnd := Object.3DLocation]
+    else (<color:black>нет)
+    endif
+endif
+repeat while(Вторая точка задана ?) is(<color:black>нет) not(<color:black>да)
+
+if (Start и End\nзаданы в 3D) then (<color:black>да)
+    :Запрос способа\nпостроения пути|
+    split
+        -> <color:black>Pathfinder;
+        :Построение пути\nPathfinder'ом]        
+    split again
+        -> <color:black>Граф;
+        :Построение пути\nAstar]
+    end split
+    :Отображения 3D пути]
+else (<color:black>нет)
+endif
+:Расчет и отображение
+линейного расстояния]
+end
+
+@enduml

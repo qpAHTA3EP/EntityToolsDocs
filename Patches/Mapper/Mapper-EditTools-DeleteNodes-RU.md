@@ -1,6 +1,7 @@
 # **Инструмент удаления путевых точек (Delete Nodes)**
 
-Инструмент расположен на панели [*Graph Edit Tools*](Mapper-EditTools-RU.md) и активируется нажатием на кнопку ![DeleteNodes](img/icons/miniCancel.png)  
+Инструмент расположен на панели [*Graph Edit Tools*](Mapper-EditTools-RU.md) и активируется нажатием кнопки ![DeleteNodes](img/icons/miniCancel.png).  
+Он предназначен для удаления **ненужных** путевых точек, имеющихся в графе.   
 Hot-key: ``Ctrl-Shift-D``
 
 ## **Последовательность действий**

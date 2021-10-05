@@ -1,6 +1,7 @@
 # **Инструмент редактирования ребер (Edit Edges)**
 
-Инструмент расположен на панели [*Graph Edit Tools*](Mapper-EditTools-RU.md) и активируется нажатием на кнопку ![EditEdges](img/icons/miniEditEdge.png)  
+Инструмент расположен на панели [*Graph Edit Tools*](Mapper-EditTools-RU.md) и активируется нажатием на кнопку ![EditEdges](img/icons/miniEditEdge.png).   
+Он предназначен для добавления или удаления ребер между **существующими** путевыми точками.  
 Hot-key: ``Ctrl-Shift-R``
 
 ## **Последовательность действий**

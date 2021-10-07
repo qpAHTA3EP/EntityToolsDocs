@@ -1,6 +1,7 @@
 # **Описание**
 **EntityTools** - это плагин для бота [Astral](https://www.neverwinter-bot.com/forums/index.php) к MMORPG ["Neverwinter Online"](https://www.arcgames.com/en/games/neverwinter/news).
 
+<p align="center"><img src="General/diagrams/C4-Context-RU.png"></p>
 
 Плагин добавляет новые команды и условия для использования в скриптах **Quester**'a - подсистемы бота, предназначенной для выполнения сюжетных заданий, прохождения подземелий и выполнения других сложных последовательностей действий. [*Подробнее...*](Quester/EntityTools-QuesterExtensions-RU.md)
 
@@ -10,7 +11,8 @@
 
 Наконец, в плагине реализованы несколько патчей, исправляющих наиболее неприятные ошибки бота, или улучшающие его функционал.
 
-![Диаграмма контекста](General/diagrams/ET-Context-RU.png)
+<p align="center"><img src="General/diagrams/С4-Component-RU.png"></p>
+<!-- ![Диаграмма контекста](General/diagrams/ET-Context-RU.png) -->
 
 ## **Содержание**
 ### **1. [Расширения для *Quester'a*](Quester/EntityTools-QuesterExtensions-RU.md)**

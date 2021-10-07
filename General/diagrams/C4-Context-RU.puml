@@ -1,0 +1,32 @@
+@startuml
+!include <C4/C4_Context>
+'!theme spacelab
+'skinparam actorStyle awesome
+
+LAYOUT_TOP_DOWN()
+'LAYOUT_WITH_LEGEND()
+
+Person(player, "Игрок")
+
+System_Ext(nwServer, "Сервер Neverwinter", "Сервер MMORPG\n'Neverwinter Online'")
+
+Boundary(c0, "Локальный компьютер") {
+    System(nw, "Neverwinter", "Клиент MMORPG\n'Neverwinter Online'")
+    Rel_L(player, nw, "Играет", "GUI")
+    Rel_L(nw, nwServer, "Обмен данными", "Интернет")
+    'Rel_L(nw, nwServer, "Данные", "Интернет")
+
+    System(bot, "Astral", "бот")
+    Rel_D(bot, nw, "Автоматичекое управление персонажем", "Инъекции")
+    'Rel_U(bot, nw, "Запись в память")
+    
+    Lay_D(nw, bot)
+}
+
+    Person_Ext(botter, "Ботовод")
+    Rel_L(botter, nw, "Управляет", "GUI")
+    Rel_L(botter, bot, "Конфигурирует", "GUI")
+
+    Lay_D(player, botter)
+
+@enduml

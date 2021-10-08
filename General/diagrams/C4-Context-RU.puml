@@ -1,10 +1,13 @@
 @startuml
-!include <C4/C4_Context>
-'!theme spacelab
-'skinparam actorStyle awesome
+'!include <C4/C4_Context>
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+skinparam BackgroundColor transparent
 
 LAYOUT_TOP_DOWN()
 'LAYOUT_WITH_LEGEND()
+
+AddRelTag("config", $lineStyle = DashedLine())
 
 Person(player, "Игрок")
 
@@ -12,21 +15,25 @@ System_Ext(nwServer, "Сервер Neverwinter", "Сервер MMORPG\n'Neverwin
 
 Boundary(c0, "Локальный компьютер") {
     System(nw, "Neverwinter", "Клиент MMORPG\n'Neverwinter Online'")
-    Rel_L(player, nw, "Играет", "GUI")
-    Rel_L(nw, nwServer, "Обмен данными", "Интернет")
-    'Rel_L(nw, nwServer, "Данные", "Интернет")
+    player <<-[thickness=4]>> nw : "**Играет**\n//[GUI]//"
+    nw <<-[thickness=4]>> nwServer : "**Обмен данными**\n//[Интернет]//"
+    'Lay_D(nwServer, nw)
 
     System(bot, "Astral", "бот")
-    Rel_D(bot, nw, "Автоматичекое управление персонажем", "Инъекции")
-    'Rel_U(bot, nw, "Запись в память")
+    nw <<-down->> bot : "**Автоматичекое управление персонажем**\n//[Инъекции]//"
+    'Rel_D(bot, nw, "Автоматичекое управление персонажем", "Инъекции")
     
     Lay_D(nw, bot)
 }
 
-    Person_Ext(botter, "Ботовод")
-    Rel_L(botter, nw, "Управляет", "GUI")
-    Rel_L(botter, bot, "Конфигурирует", "GUI")
+Person_Ext(botter, "Ботовод")
+'Rel_L(botter, nw, "Манипулирует внутриигровыми объектами", "GUI", $tags="config")
+botter  <<.[#MediumBlue;thickness=2].>> nw #text:MediumBlue :"**Манипулирует внутриигровыми объектами для конфигурации бота**\n//[GUI]//"
+'Rel_L(botter, bot, "Конфигурирует", "GUI")
+botter <<-right->> bot : "**Конфигурирует**\n//[GUI]//"
+'botter -hidden-> player
 
-    Lay_D(player, botter)
+Lay_D(nw, botter)
+'Lay_D(player, botter)
 
 @enduml

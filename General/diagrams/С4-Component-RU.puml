@@ -1,6 +1,8 @@
 @startuml
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
+skinparam BackgroundColor transparent
+
 AddElementTag("replaced", $fontColor="DarkOrange")
 AddRelTag("replace", $textColor="DarkOrange", $lineColor="DarkOrange", $lineStyle = DashedLine())
 
@@ -9,41 +11,38 @@ AddRelTag("patch", $textColor="Red", $lineColor="Red", $lineStyle = DashedLine()
 
 System(nw, "Neverwinter", "Клиент MMORPG\n'Neverwinter Online'")
 
-System_Boundary(c1, "Astral") {
-    Container(amClient, "AMClient.dll", "Подключение к серверу", $tags="replaced")
+System_Boundary(bot, "Astral") {
+    Container(myNW, "MyNW.dll", "Доступ к памяти игры и инъекции кода")
 
-    Boundary(c2, "Astral.exe") {
+    myNW <<-up->> nw : "**Чтение и запись данных**\n//[Инъекции]//"
+
+    Boundary(exe, "Astral.exe") {
+        
         Container(quester, "Quester", "Скриптовая подсистема")
-        Rel_D(quester, nw, "Взаимодействия", "Инъекция")
+        quester <<-up->> myNW : "**'Взаимодействия'**\nОбмен командами и данными"
 
-        Container(ucc, "UCC", "Боевая подсистема", $tags="patched")
-        Rel_R(ucc, nw, "Активация умений", "Инъекция")
+        Container(ucc, "UCC", "Боевая подсистема")
+        ucc <<-up->> myNW : "**'Активация умений'**\nОбмен командами и данными"
 
-        Lay_D(quester, ucc)
+        Container(nav, "Navigation", "Навигационная подсистема")
+        nav <<-up->> myNW : "**'Перемещения'**\nОбмен командами и данными"
 
-        Container(nav, "Navigation", "Навигационная подсистема", $tags="patched")
-
-        Lay_D(ucc, nav)
-
-        Rel_U(nav, nw, "Перемещения", "Инъекция")
+        quester <<-right->> nav : "Обмен командами\nи данными"
+        nav <<-right->> ucc : "Обмен командами\nи данными"
     }
-    
-    Container(et, "EntityTools.dll", "Плагин")
-    Rel_U(et, amClient, "Заменяет для внедрения патчей", $tags="replace")
-    Rel_R(et, quester, "Добавляет команды и условия")
-    Rel_R(et, ucc, "Добавляет команды и условия")
 
-    Rel_D(et, ucc, "Патчит", $tags="patch")
-    Rel_D(et, nav, "Патчит", $tags="patch")
+    Boundary(plugins, "Plugins") {
+        Container(et, "EntityTools.dll", "Плагин")
+        et -up->> ucc : "**Добавляет команды**\n**и условия**\n//[API]//"
+        et -[#DarkRed;thickness=4]->> ucc #text:DarkRed : "**Патчит**\n//[Harmony]//"
+        
+        et -up->> quester : "**Добавляет команды**\n**и условия**\n//[API]//"
+        et -[#DarkRed;thickness=4]->> quester #text:DarkRed : "**Патчит**\n//[Harmony]//"
+        
+        et -[#DarkRed;thickness=4]->> nav #text:DarkRed : "**Патчит**\n//[Harmony]//"
+    }
 
-    Container(aStar, "AStar.dll", "Поиск пути в графе", $tags="replaced")  
-    Rel_R(aStar, nav, "Путевой граф")
-    Rel_D(et, aStar, "Заменяет для расширения функциональности", $tags="replace")    
+    Lay_D(nav, et)
 }
-
-Person(botter, "Ботовод")
-Rel_D(botter, nw, "Управляет", "GUI")
-
-Rel_R(botter, quester, "Конфигурирует", "GUI")
 
 @enduml

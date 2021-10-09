@@ -5,7 +5,7 @@
 ## **Описание алгоритма**
 
 1. Бот перемещается между точками *HotSpots* производя поиск ближайшего *Entity*, удовлетворяющего критериям поиска. <br/>
-   - Патрулирование может производиться в режиме игнорирования боя [*IgnoreCombat*](#ref-IgnoreCombat).<br/>
+   - Патрулирование может производиться с запретом боя [*IgnoreCombat*](#ref-IgnoreCombat).<br/>
    - Область поиска *Entity* может быть ограничена опциями [*CustomRegions*](#ref-CustomRegions),  [*ReactionRange*](#ref-ReactionRange) и [*ReactionZRange*](#ref-ReactionZRange).
 
 2. Когда целевое *Entity* найдено, бот следует к нему по кратчайшему пути.
@@ -54,6 +54,12 @@
 Команда самостоятельно не завершается, если не задан флаг [*StopOnApproached*](#ref-StopOnApproached).
 
 Принудительное завершение команды возможно одним из способов, перечисленных в [статье](General/ForcedQuesterActionTermination-RU.md).
+
+---
+
+# **Схема функционирования**
+
+<p align="center"><img src="diagrams/MoveToEntity.png"></p>
 
 ---
 

@@ -9,9 +9,9 @@
 |<a name="ref-RandomMoveTo">***RandomMoveTo***</a>| Перемещение персонажа в случайно выбранную точку из списка *TargetLocations*. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43904#p43904)
 |<a name="ref-Grind">***Grind***</a>| Последовательное перемещение персонажа по точкам, заданным в списке *HotSpots*. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43904#p43904)
 ||**Команды взаимодействия**
-|<a name="ref-InteractSpecialNode">***InteractSpecialNode***</a>| Взаимодействие с заранее заданным игровым объектом, таким как дверь, рычаг, сундук, камень и т.д. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43905#p43905)
+|<a name="ref-InteractSpecificNode">***InteractSpecialNode***</a>| Взаимодействие с заранее заданным игровым объектом, таким как дверь, рычаг, сундук, камень и т.д. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43905#p43905)
 |<a name="ref-InteractNode">***InteractNode***</a>| Взаимодействие с неопределенным набором игровых объектов, которые будут обнаружены при последовательном перемещении персонажа по точкам, заданным в списке *HotSpots*. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43905#p43905)
-|<a name="ref-InteractSpecialNPC">***InteractSpecialNPC***</a>|  Взаимодействие с конкретным игровым персонажем (NPC). [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43905#p43905)
+|<a name="ref-InteractSpecificNPC">***InteractSpecialNPC***</a>|  Взаимодействие с конкретным игровым персонажем (NPC). [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43905#p43905)
 |<a name="ref-InteractNPC">***InteractNPC***</a>|  Взаимодействие с неопределенным набором игровых персонажей (NPC), которые будут обнаружены при последовательном перемещении персонажа по точкам, заданным в списке *HotSpots*. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43905#p43905)
 |<a name="ref-FollowNPC">***FollowNPC***</a>| Следование за определенным NPC и взаимодействие с ним (при необходимости).
 |<a name="ref-PickUpMission">***PickUpMission***</a>| Взятия нового задания (квеста) у определенного неигрового персонажа NPC. [Подробнее...](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43907#p43907)

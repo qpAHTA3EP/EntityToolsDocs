@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center"><img src="diagrams/QuesterClasses.png"></p>
+
+---
+
 ## **Команды**
 1. [MoveToEntity](Actions/MoveToEntity-RU.md) : патрулирование по заданному маршруту, поиск и нападение на заданную [*Entity*](../General/EntityIdentification-RU.md).
 2. [InteractEntities](Actions/InteractEntities-RU.md) : патрулирование по заданному маршруту, поиск и взаимодействие с заданной [*Entity*](../General/EntityIdentification-RU.md).

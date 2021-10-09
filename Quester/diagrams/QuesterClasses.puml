@@ -1,0 +1,57 @@
+@startuml
+
+' 4
+!theme cerulean
+' 4
+'!theme cerulean-outline
+' 3
+'!theme cyborg-outline
+' 2
+'!theme spacelab
+
+'skinparam BackgroundColor white
+
+rectangle "Astral"{
+    rectangle "Quester"{
+        class Profile {
+            MainActionPack.Actions : List<Action>
+            ---
+            Run() : ActionResult        
+        }
+        note top of Profile : Quester-профиль
+
+        abstract class Action{
+            NeedToRun : bool
+            Conditions : List<Condition>
+            --
+            Run() : ActionResult
+        }
+        note top of Action : Базовый класс для\nвсех quester-команд
+        Profile o-right- Action : Содержит\nсписок
+        
+        abstract class Condition{
+            IsValid : bool
+        }
+        note top of Condition : Базовый класс для\nвсех quester-условий
+        
+        'Action::Conditions o-right- Condition
+        Action o-right- Condition : Содержит\nсписок
+    }
+    'NewAction <-[hidden]- NewCondition
+
+    rectangle "EntityTools"{
+        class NewAction{
+            NeedToRun : bool
+            ---
+            Run() : ActionResult
+        }
+        Action <|-- NewAction
+
+        class NewCondition{
+            IsValid : bool 
+        }
+        Condition <|- NewCondition
+        'NewAction <-[hidden]- NewCondition
+    }
+}
+@enduml

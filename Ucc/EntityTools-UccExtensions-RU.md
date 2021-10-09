@@ -16,9 +16,11 @@
 
 ---
 
-## **Команды**
+<p align="center"><img src="diagrams/UccClasses.png"></p>
 
-![Команды](diagrams/UccActions-RU.png)
+---
+
+## **Команды**
 
 1.  [SpecializedUCCAction](Actions/SpecializedUCCAction-RU.md) : команда-обертка, обрабатывающая расширенный набор *ucc-условий*.
 2.  [PluggedSkill](Actions/PluggedSkill-RU.md) : активирует артефакт или боевое умение скакуна.

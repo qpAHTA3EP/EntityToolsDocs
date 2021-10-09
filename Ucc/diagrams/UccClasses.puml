@@ -1,0 +1,56 @@
+@startuml UccClasses
+
+' 4
+!theme cerulean
+' 4
+'!theme cerulean-outline
+' 3
+'!theme cyborg-outline
+' 2
+'!theme spacelab
+
+'skinparam BackgroundColor white
+
+rectangle "Astral"{
+    rectangle "UCC"{
+        class Profile {
+            ActionsCombat : List<Action>
+            ActionsPatrol : List<Action>
+        }
+        note top of Profile : Ucc-профиль
+
+        abstract class UCCAction{
+            NeedToRun : bool
+            Conditions : List<UCCCondition>
+            --
+            Run() : bool
+        }
+        note top of UCCAction : Базовый класс для\nвсех ucc-команд
+        Profile o-right- UCCAction : Содержит\nсписок
+        
+        class UCCCondition{
+            IsOK : bool
+        }
+        note top of UCCCondition : Базовый класс для\nвсех ucc-условий
+        
+        'UCCAction::Conditions o-right- UCCCondition
+        UCCAction o-right- UCCCondition : Содержит\nсписок
+    }
+
+    rectangle "EntityTools"{
+        class NewUccAction{
+            NeedToRun : bool
+            ---
+            Run() : bool
+        }
+        UCCAction <|-- NewUccAction
+
+        class NewUccCondition{ 
+            IsOK : bool
+        }
+        UCCCondition <|- NewUccCondition
+        'UCCCondition <-[hidden]- NewUccCondition
+        'NewUccAction <-[hidden]- NewUccCondition
+    }
+}
+@enduml

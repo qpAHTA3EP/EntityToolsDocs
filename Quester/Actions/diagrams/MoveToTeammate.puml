@@ -8,7 +8,7 @@ if(Teammate найден ?) then (<color:black>да)
     :Сборос таймера\nTeammateSearchTime]
     if(Расстояние до Teammate\nбольше CombatDistance ?) then (<color:black>да)
         if (Флаг IgnoreCombat = True) then (<color:black>да)
-            :Активация режима\nигнорирования боя]
+            :Снять запрет боя]
         else (<color:black>нет)
         endif
         :Перемещение к Teammate|
@@ -17,10 +17,10 @@ if(Teammate найден ?) then (<color:black>да)
     :Поиск противника,\nзаданного FoePreference|
     if(Противник найден ?) then (<color:black>да)
         if(AbortCombatDistance > CombatDistance) then (<color:black>да)
-            :Атаковать противника\nс отслеживанием\n AbortCombatDistance|
+            :Установить тригер\nпрерывания боя\nв случае превышения\nAbortCombatDistance]
         else (<color:black>нет)
-            :Атаковать противника|
         endif
+        :Атаковать противника|
     else (<color:black>нет)
     endif
 

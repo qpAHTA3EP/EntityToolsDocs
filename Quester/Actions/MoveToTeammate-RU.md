@@ -52,7 +52,8 @@
 ---
 
 # **Схема функционирования**
-![Схема](diagrams/MoveToTeammate.png)
+<!--![Схема](diagrams/MoveToTeammate.png) -->
+<p align="center"><img src="diagrams/MoveToTeammate.png"></p>
 
 ---
 

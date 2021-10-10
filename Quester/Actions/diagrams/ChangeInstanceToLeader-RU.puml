@@ -1,0 +1,28 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment Center
+
+start
+
+repeat
+if(Персонаж состоит\nв группе ?) then (<color:black>нет)
+    end
+else (<color:black>да)
+    if(Персонаж является\nЛидером группы ?) then (<color:black>нет)
+        if(Персонаж и Лидер\nна одной карте ?) then (<color:black>нет)
+            end
+        else (<color:black>да)
+            if(Персонаж и Лидер\nна разных Инстансах ?) then (<color:black>нет)
+                :Переместиться на инстанс\nЛидера группы]
+            else (<color:black>да)
+                end
+            endif
+        endif
+    else (<color:black>да)
+        end
+    endif
+endif
+backward :Ждать 1 с.]
+repeat while(Номер инстанса карты\nперсонажа и Лидира\nсовпадают ?) is (<color:black>нет) not (<color:black>да)
+end
+@enduml

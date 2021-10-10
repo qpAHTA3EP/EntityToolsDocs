@@ -1,0 +1,74 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment Center
+
+'skinparam BackgroundColor White
+
+start
+
+repeat
+
+'partition "Поиск" {
+    while (Target отсутствует\nИЛИ\nИстек Timeout повторного поиска?) is (<color:black>да)
+
+        :Поиск ближайшего Entity\n(ClosestEntity)|
+        :Обновить Timeout]
+        if (ClosestEntity найдено?) then (<color:black>да) 
+            if (Флаг HoldTargetEntity = True ?) then (<color:black>да) 
+            else (<color:black>нет)
+                :Target := ClosestEntity|
+            endif 
+            if (Расстояние до ClosestEntity\nменьше Distance ?) then (<color:black>да)
+                (А)
+            else (<color:black>нет)
+                break
+            endif
+        else (<color:black>нет)
+            if (Флаг IgnoreCombat = True ?) then (<color:black>да) 
+                :Установка запрета боя]
+            else (<color:black>нет)
+            endif
+        endif
+        :Перемещение к\nследующему HotSpot|
+    endwhile (<color:black>нет)
+'}
+
+
+if (Расстояние до Target\nбольше Distance ?) then (<color:black>да)
+    if (Флаг IgnoreCombat = True ?) then (<color:black>да) 
+        :Установка запрета боя]
+    else (<color:black>нет)
+    endif
+    :Перемещение к Target|
+else (<color:black>нет)
+endif
+
+
+(А)
+
+:Снять запрет боя]
+
+repeat
+if(Расстояние до ClosestEntity\nменьше Distance ?) then (<color:black>да)
+    :Взаимодействие c ClosestEntity|
+    :Последовательная активация\nпунктов Dialogs|
+else (<color:black>нет)
+endif
+backward :Атаковать ближайших\nпротивников|
+repeat while(Взаимодействие прервано\nатакой противника ?) is (<color:black>да) not (<color:black>нет)
+
+repeat
+if(Расстояние до Target\nменьше Distance ?) then (<color:black>да)
+    :Взаимодействие c Target|
+    :Последовательная активация\nпунктов Dialogs|
+else (<color:black>нет)
+endif
+backward :Атаковать ближайших\nпротивников|
+repeat while(Взаимодействие прервано\nатакой противника ?) is (<color:black>да) not (<color:black>нет)
+
+
+repeat while (Флаг StopOnApproached = False ?) is (<color:black>да) 
+
+stop
+
+@enduml

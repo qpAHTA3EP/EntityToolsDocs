@@ -58,8 +58,14 @@ endif
 
 :Снять запрет боя]
 if (Флаг АttackTargetEntity = True ?) then (<color:black>да)
-    :Атаковать ClosestEntity|
-    :Атаковать Target|
+    if(Расстояние до ClosestEntity\nменьше CombatDistance ?) then (<color:black>да)
+        :Атаковать ClosestEntity|
+    else (<color:black>нет)
+    endif
+    if(Расстояние до Target\nменьше CombatDistance ?) then (<color:black>да)
+        :Атаковать Target|
+    else (<color:black>нет)
+    endif
 else (<color:black>нет)
     :Атаковать произвольного\nврага|
 endif

@@ -53,7 +53,7 @@
 
 Команда самостоятельно не завершается, если не задан флаг [*StopOnApproached*](#ref-StopOnApproached).
 
-Принудительное завершение команды возможно одним из способов, перечисленных в [статье](General/ForcedQuesterActionTermination-RU.md).
+Принудительное завершение команды возможно одним из способов, перечисленных в [статье](ForcedQuesterActionTermination-RU.md).
 
 ---
 

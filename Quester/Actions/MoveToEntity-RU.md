@@ -5,7 +5,7 @@
 ## **Описание алгоритма**
 
 1. Бот перемещается между точками *HotSpots* производя поиск ближайшего *Entity*, удовлетворяющего критериям поиска. <br/>
-   - Патрулирование может производиться с запретом боя [*IgnoreCombat*](#ref-IgnoreCombat).<br/>
+   - Патрулирование может производиться в режиме игнорирования боя [*IgnoreCombat*](#ref-IgnoreCombat).<br/>
    - Область поиска *Entity* может быть ограничена опциями [*CustomRegions*](#ref-CustomRegions),  [*ReactionRange*](#ref-ReactionRange) и [*ReactionZRange*](#ref-ReactionZRange).
 
 2. Когда целевое *Entity* найдено, бот следует к нему по кратчайшему пути.
@@ -53,25 +53,17 @@
 
 Команда самостоятельно не завершается, если не задан флаг [*StopOnApproached*](#ref-StopOnApproached).
 
-Принудительное завершение команды возможно одним из способов, перечисленных в [статье](ForcedQuesterActionTermination-RU.md).
-
----
-
-# **Схема функционирования**
-
-<p align="center"><img src="diagrams/MoveToEntity.png"></p>
+Принудительное завершение команды возможно одним из способов, перечисленных в [статье](General/ForcedQuesterActionTermination-RU.md).
 
 ---
 
 # **Аналоги**
 
-Ближайшим аналогом является команда [***Grind***](Astral-Actions-RU.md#ref-Grind), встроенная в базовый функционал бота, преимущества перед которой состоят в следующем:
-+ возможность целенаправленного выслеживания [нужного *Entity*](#ref-EntityID "Группа опций 'Entity'");
-+ возможность управлять [режимом боя](#ref-IgnoreCombat "Группа опций 'Interruptions'") при поиске нужно *Entity*, а также [прерывать бой](#ref-AbortCombatDistance "Опция 'AbortCombatDistance'") в случае удаления от него;
-+ возможность [принудительной атаки](#ref-AttackTargetEntity "Опция 'AttackTargetEntity'") заданного *Entity*;
+Похожие команды, входящие в базовый функционал бота:
+- [***Grind***](Astral-Actions-RU.md#ref-Grind).
 
 ---
 
 <a href="javascript:history.back()">Назад</a>  
-[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#Команды)  
+[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#ref-Actions)  
 [Назад к содержанию](../../index.md)

@@ -36,5 +36,5 @@ Sign := Inferrior
 ---
 
 <a href="javascript:history.back()">Назад</a>  
-[Назад к перечню условий](../EntityTools-UccExtensions-RU.md#Условия)  
-[Назад к содержанию](../EntityTools-UccExtensions-RU.md#Команды)
+[Назад к перечню условий](../EntityTools-UccExtensions-RU.md#ref-Conditions)  
+[Назад к содержанию](../../index.md)

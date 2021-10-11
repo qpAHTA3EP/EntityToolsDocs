@@ -59,25 +59,14 @@
 
 ---
 
-# **Схема функционирования**
-
-<p align="center"><img src="diagrams/InteractEntities.png"></p>
-
----
-
 # **Аналоги**
 
-<!-- Похожие команды, входящие в базовый функционал бота:
+Похожие команды, входящие в базовый функционал бота:
 - [***InteractNPC***](Astral-Actions-RU.md#ref-InteractNPC);
-- [***FollowNPC***](Astral-Actions-RU.md#ref-FollowNPC). -->
+- [***FollowNPC***](Astral-Actions-RU.md#ref-FollowNPC).
 
-Ближайшими аналогами являются команды [***InteractNPC***](Astral-Actions-RU.md#ref-InteractNPC) и [***FollowNPC***](Astral-Actions-RU.md#ref-FollowNPC), встроенные в базовый функционал бота, преимущества перед которой состоят в следующем:
-+ гибкие опции идентификации [нужных *Entity*](#ref-EntityID "Группа опций 'Entity'");
-+ возможность взаимодействовать с движущимися *Entity*;
-+ возможность управлять [режимом боя](#ref-IgnoreCombat "Группа опций 'Interruptions'") при поиске нужно *Entity*;
-  
 ---
 
 <a href="javascript:history.back()">Назад</a>  
-[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#Команды)  
+[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#ref-Actions)  
 [Назад к содержанию](../../index.md)

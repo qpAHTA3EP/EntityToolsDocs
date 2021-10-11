@@ -52,8 +52,7 @@
 ---
 
 # **Схема функционирования**
-<!--![Схема](diagrams/MoveToTeammate.png) -->
-<p align="center"><img src="diagrams/MoveToTeammate.png"></p>
+![Схема](diagrams/MoveToTeammate.png)
 
 ---
 
@@ -63,5 +62,5 @@
 ---
 
 <a href="javascript:history.back()">Назад</a>  
-[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#Команды)  
+[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#ref-Actions)  
 [Назад к содержанию](../../index.md)

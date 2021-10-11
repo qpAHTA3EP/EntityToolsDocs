@@ -11,3 +11,4 @@
 ---
 
 <a href="javascript:history.back()">Назад</a>
+[Назад к содержанию](../../index.md)

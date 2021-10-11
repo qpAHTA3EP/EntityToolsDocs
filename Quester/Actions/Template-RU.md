@@ -45,5 +45,5 @@
 ---
 
 <a href="javascript:history.back()">Назад</a>  
-[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#Команды)  
+[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#ref-Actions)  
 [Назад к содержанию](../../index.md)

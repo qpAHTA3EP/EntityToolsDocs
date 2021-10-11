@@ -20,7 +20,7 @@
 
 ---
 
-## **Команды**
+## <a name="ref-Actions"></a>**Команды**
 
 1.  [SpecializedUCCAction](Actions/SpecializedUCCAction-RU.md) : команда-обертка, обрабатывающая расширенный набор *ucc-условий*.
 2.  [PluggedSkill](Actions/PluggedSkill-RU.md) : активирует артефакт или боевое умение скакуна.
@@ -30,7 +30,7 @@
 
 ---
 
-## **Условия**
+## <a name="ref-Conditions"></a>**Условия**
 1. [UCCConditionPack](Conditions/UCCConditionPack-RU.md) : проверка группы вложенных ucc-условий.
 2. [UCCEntityCount](Conditions/UCCEntityCount-RU.md) : подсчет количества *Entity* и сопоставление с заданной величиной.
 3. [UCCEntityCheck](Conditions/UCCEntityCheck-RU.md) : проверка заданного свойства *Entity*.

@@ -26,12 +26,6 @@
 
 ---
 
-# **Схема функционирования**
-
-<p align="center"><img src="diagrams/ChangeInstanceToLeader-RU.png"></p>
-
----
-
 # **Аналоги**
 
 Похожие команды, входящие в базовый функционал бота:
@@ -40,5 +34,5 @@
 ---
 
 <a href="javascript:history.back()">Назад</a>  
-[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#Команды)  
+[Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#ref-Actions)  
 [Назад к содержанию](../../index.md)

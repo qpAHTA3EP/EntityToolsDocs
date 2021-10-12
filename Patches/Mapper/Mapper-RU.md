@@ -35,6 +35,11 @@
 4. **[Дополнительные инструменты](Mapper-GraphTools-RU.md)**.  
    ![MappingTools](img/MapperExt-Panel-GraphTools.png)
 
+---
+
+## **Настройки отображения**
+
+Внешний вид и состав отображаемых объектов можно настроить на соответствующей [панели](GeneralOptions-RU.md), которая открывается  и закрывается нажатием кнопки [![GeneralOptions](img/icons/miniCustomization.png)](GeneralOptions-RU.md) в строке состояния.
 
 ---
 

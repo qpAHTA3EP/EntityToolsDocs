@@ -12,7 +12,7 @@
 
 ## **Отличия модифицированного Mapper отличается от [штатного](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43909#p43909)**
 
-- Собственный оптимизированный механизм отрисовки, позволяющий выбрать отображаемые объекты и их цвет;
+- Собственный оптимизированный механизм отрисовки, позволяющий выбрать [отображаемые объекты и их цвет](GeneralOptions-RU.md#ref-MeshesOptions);
 - Собственный механизм [прокладывания пути](Mapper-MappingTools-RU.md), позволяющий гибко настроить расстояние между путевыми точками и способ их соединения;
 - Собственных механизм [удаления путевых точек](Mapper-EditTools-DeleteNodes-RU.md), позволяющий предварительно выбрать удаляемое множество, а также отменить операцию;
 - Инструменты ручного [перемещения путевых точек](Mapper-EditTools-RelocateNodes-RU.md), а также [добавления и удаления ребер](Mapper-EditTools-EditEdges-RU.md);
@@ -20,26 +20,35 @@
 - Инструмент [анализа](Mapper-GraphTools-RU.md#ref-MeshesInfo) и [оптимизации](Mapper-GraphTools-RU.md#ref-Compression) графа, который удаляет скрытые (неиспользуемые) путевые точки и ребра;
 - Инструмент для [измерения расстояния](Mapper-GraphTools-DistanceMeasurement-RU.md);
 - Инструмент [осмотра](Mapper-GraphTools-RU.md#ref-ObjectInfo) любого отображаемого объекта (*Waypoint*, *Entity* или *Node*);
-- Отображение информации о координатах персонажа, скорости его перемещения, координат курсора мыши и т.д.
+- Отображение [информации](StatusBar-RU.md#ref-Info) о координатах персонажа, скорости его перемещения, координат курсора мыши и т.д.
 
 Панели инструментов Mapper'a можно перетаскивать, пристыковывать к любым границам окна, оставить плавающей в любом месте рабочего стола или закрыть.
 
-## **Описание инструментов**
+## **Описание панелей инструментов**
 
 1. **[Инструменты прокладывания пути (картографирования)](Mapper-MappingTools-RU.md)**.  
-   ![MappingTools](img/MapperExt-Panel-Mapping.png)
+   [![MappingTools](img/MapperExt-Panel-Mapping.png)](Mapper-MappingTools-RU.md)
 2. **[Инструменты ручного редактирования графа](Mapper-EditTools-RU.md)**.  
-   ![MappingTools](img/MapperExt-Panel-EditTools.png)
+   [![MappingTools](img/MapperExt-Panel-EditTools.png)](Mapper-EditTools-RU.md)
 3. **[Инструменты для работы с CustomRegion](Mapper-CustomRegionTools-RU.md)**.  
-   ![MappingTools](img/MapperExt-Panel-CustomRegionTools.png)
+   [![MappingTools](img/MapperExt-Panel-CustomRegionTools.png)](Mapper-CustomRegionTools-RU.md)
 4. **[Дополнительные инструменты](Mapper-GraphTools-RU.md)**.  
-   ![MappingTools](img/MapperExt-Panel-GraphTools.png)
+   [![MappingTools](img/MapperExt-Panel-GraphTools.png)](Mapper-GraphTools-RU.md)
+5. **[Строка состояния](StatusBar-RU.md)**
+   [![MappingTools](img/StatusBar.png)](StatusBar-RU.md)
+
+Любая панель инструментов может быть скрыта через контекстной меню, отображающееся после клика правой кнопкой мыши (ПКМ) на любой из них.  
+
+<p align="center"><img src="img/MapperExt-Panel-Tools.png"></p>
+
+Если скрыты все панели, включая строку состояния, в правом нижнем углу Mapper'a отображается иконка ![Expand](img/icons/miniExpand.png), клик на которую раскрывает строку состояния.
 
 ---
 
-## **Настройки отображения**
+## **[Настройки отображения](GeneralOptions-RU.md)**
 
-Внешний вид и состав отображаемых объектов можно настроить на соответствующей [панели](GeneralOptions-RU.md), которая открывается  и закрывается нажатием кнопки [![GeneralOptions](img/icons/miniCustomization.png)](GeneralOptions-RU.md) в строке состояния.
+Состав и цвета отображаемых объектов можно настроить на соответствующей [панели](GeneralOptions-RU.md), которая открывается  и закрывается нажатием кнопки [![GeneralOptions](img/icons/miniCustomization.png)](GeneralOptions-RU.md) в строке состояния.
+<p align="center"><img src="img/MapperExt-Objects.png"></p>
 
 ---
 

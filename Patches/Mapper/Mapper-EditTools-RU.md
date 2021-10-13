@@ -5,22 +5,20 @@
 
 ---
 
-<!-- Кнопки на панели выполняю следующие функции (слева на право):
-
-**<a name="ref-Undo">Undo</a> - отмена последнего действия**  
-Нажатие на кнопку отменяет результаты последнего действия в Mapper'е, не ограничиваясь изменениями, произведенными нижеописанными инструментами. 
+![Undo](img/icons/miniUndo.png) **<a name="ref-Undo"></a> Отмена последнего изменения**  
+Нажатие на кнопку отменяет результаты последнего действия в Mapper'е, не ограничиваясь изменениями, произведенными нижеописанными инструментами. [Подробнее...](Mapper-GraphTools-RU.md#ref-Undo)
 
 ---
--->
 
-![RelocateNodes](img/icons/miniNodeMove.png) **<a name="ref-RelocateNodes">Relocate Nodes</a> - перемещение путевых точек**  
+
+![RelocateNodes](img/icons/miniNodeMove.png) **<a name="ref-RelocateNodes"></a> Перемещение путевых точек (Relocate Nodes)**  
 Нажатие на кнопку активирует [инструмент изменения координат путевых точек](Mapper-EditTools-RelocateNodes-RU.md).  
 Hot-key: ``Ctrl-Shift-R``  
 <p align="center"><img src="img/RelocateNodes/GroupMoving.png"></p>
 
 ---
 
-![DeleteNodes](img/icons/miniCancel.png) **<a name="ref-DeleteNodes">Delete Nodes</a> - удаление путевых точек**  
+![DeleteNodes](img/icons/miniCancel.png) **<a name="ref-DeleteNodes"></a> Удаление путевых точек (Delete Nodes)**  
 Нажатие на кнопку ![DeleteNodes](img/icons/miniCancel.png) активирует [инструмент удаления путевых точек](Mapper-EditTools-DeleteNodes-RU.md).  
 Hot-key: ``Ctrl-Shift-D``
 
@@ -29,7 +27,7 @@ Hot-key: ``Ctrl-Shift-D``
 
 ---
 
-![EditEdges](img/icons/miniEditEdge.png) **<a name="ref-EditEdges">Edit Edges</a> - изменение ребер**  
+![EditEdges](img/icons/miniEditEdge.png) **<a name="ref-EditEdges"></a> Изменение ребер (Edit Edges)**  
 Нажатие на кнопку ![EditEdges](img/icons/miniEditEdge.png) активирует инструмент [изменение связей между путевыми точками](Mapper-EditTools-EditEdges-RU.md).  
 Hot-key: ``Ctrl-Shift-E``
 

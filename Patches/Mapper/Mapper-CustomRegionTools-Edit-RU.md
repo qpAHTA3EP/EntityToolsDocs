@@ -1,4 +1,4 @@
-# **Инструмент изменения CustomRegion'ов (Add CustomRegion)**
+# **Инструмент изменения CustomRegion'ов (Edit CustomRegion)**
 
 Инструмент расположен на панели [*'CustomRegion Tools'*](Mapper-CustomRegionTools-RU.md) и активируется нажатием на кнопку ![EditCustomRegion](img/icons/miniEditCR.png).   
 Он предназначен для изменения параметров существующих *CustomRegion'ов*.

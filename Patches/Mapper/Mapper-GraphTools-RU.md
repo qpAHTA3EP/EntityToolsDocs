@@ -5,17 +5,27 @@
 
 ---
 
-![Save](img/icons/miniSave.png) **<a name="ref-Save">Save</a>**  
-Сохранение в файл всех изменений, произведенных в Mapper'e, включая изменение путевого графа и [*CustomRegion*](../../General/Glossary-RU.md#ref-CustomRegion)'ов.  
+![Undo](img/icons/miniUndo.png) **<a name="ref-Undo"></a> Отмена последнего изменения**  
+Отмена изменений, произведенных в Mapper'e следующими инструментами:
+- ![RelocateNodes](img/icons/miniNodeMove.png) [Перемещение путевых точек](Mapper-EditTools-RelocateNodes-RU.md);
+- ![DeleteNodes](img/icons/miniCancel.png) [Удаление путевых точек](Mapper-EditTools-DeleteNodes-RU.md);
+- ![EditEdge](img/icons/miniEditEdge.png) [Изменение ребер](Mapper-EditTools-RelocateNodes-RU.md)
+- ![EditCustomRegion](img/icons/miniEditCR.png) [Изменение CustomRegion'a](Mapper-CustomRegionTools-Edit-RU.md).
+
+Цепочка действий, которые могут быть отменены, не ограничена.  
+Однако, после [сохранения](#ref-Save) изменений ранее совершенные действия отменить нельзя.
+
+![Save](img/icons/miniSave.png) **<a name="ref-Save"></a> Сохранение изменений**  
+Сохранение в файл quester-профиля всех изменений, произведенных в Mapper'e, включая изменение путевого графа и [*CustomRegion*](Mapper-CustomRegionTools-RU.md)'ов.  
 Перед сохранением путевой граф [оптимизируется](#ref-Compression).  
-После сохранения очередь отмены *Undo* очищается.  
-Hot-key: ``Ctrl+Shift+S``  
+Однако, после сохранения изменений ранее совершенные действия [отменить](#ref-Undo) нельзя.  
+Hot-key: ``Ctrl+Shift+S``
 
 ---
 
 ## <a name="ref-ImportMeshes"></a> **Импорт путевого графа**
 
-![ImportFromGame](img/icons/miniClone.png) **<a name="ref-ImportFromGame">Import from Game</a>**  
+![ImportFromGame](img/icons/miniClone.png) **<a name="ref-ImportFromGame"></a> Импорт из игры (Import from Game)**  
 Импорт путевого графа из игры, который используется для отображения дорожки задания.
 После нажатия на кнопку открывается следующий запрос:  
 
@@ -28,7 +38,7 @@ Hot-key: ``Ctrl+Shift+S``
 
 ---
 
-![ImportFromProfile](img/icons/miniImport.png) **<a name="ref-ImportFromProfile">Import from Profile</a>**  
+![ImportFromProfile](img/icons/miniImport.png) **<a name="ref-ImportFromProfile"></a> Импорт из файла (Import from Profile)**  
 Импорт путевых графов из файла другого quester-профиля.  
 Данная операция может быть сделана вручную, поскольку файл quester-профиля представляет собой zip-архив.
 
@@ -44,7 +54,7 @@ Hot-key: ``Ctrl+Shift+S``
 
 ---
 
-![Delete](img/icons/miniDelete.png) **<a name="ref-Delete">Delete</a>**  
+![Delete](img/icons/miniDelete.png) **<a name="ref-Delete"></a> Удаление (Delete)**  
 Удаляет путевой граф для текущей карты.  
 
 ---
@@ -59,7 +69,7 @@ Hot-key: ``Ctrl+Shift+S``
 
 ---
 
-![AnalizeMeshes](img/icons/miniAnalize.png) **<a name="ref-MeshesInfo">MeshesInfo</a>**  
+![AnalizeMeshes](img/icons/miniAnalize.png) **<a name="ref-MeshesInfo"></a> Анализ путевого графа (MeshesInfo)**  
 Анализ путевого графа для текущей карты, по результатам которого выводится следующая информация:  
 
 <p align="center"><img src="img/GraphTools/MeshesInfo-AnalysisResult.png"></p>
@@ -74,8 +84,8 @@ Hot-key: ``Ctrl+Shift+S``
 
 ---
 
-![MeshesCompression](img/icons/miniWizard.png) **<a name="ref-Compression">Compression</a>**  
-Оптимизация путевого графа текущей карты, состоящая в удалении "скрытых" путевых точек и связанных сними ребер, а также ребер помеченных на удаление.  
+![MeshesCompression](img/icons/miniWizard.png) <a name="ref-Compression"></a> **Оптимизация путевого графа (Compression)**  
+Оптимизация путевого графа текущей карты выполняется путем удаления "скрытых" путевых точек и связанных с ними ребер, а также ребер помеченных на [удаление](Mapper-EditTools-EditEdges-RU.md#ref-DeleteEdg).  
 
 <p align="center"><img src="img/GraphTools/CompressionResult.png"></p>
 
@@ -86,15 +96,15 @@ Hot-key: ``Ctrl+Shift+S``
 
 ## **Вспомогательные инструменты**
 
-![DistanceMeasurement](img/icons/miniRuler.png) **<a name="ref-DistanceMeasurement">Distance Measurement</a>**  
+![DistanceMeasurement](img/icons/miniRuler.png) <a name="ref-DistanceMeasurement"></a>**Измерение расстояния (Distance Measurement)**  
 Данный инструмент позволяет измерить линейное расстояние и длину пути между двумя точками. [Подробнее...](Mapper-GraphTools-DistanceMeasurement-RU.md)
 
 <p align="center"><img src="img/GraphTools/DistanceMeasurement-NormalPath.png"></p>
 
 ---
 
-![ObjectInfo](img/icons/miniInfo.png) **<a name="ref-ObjectInfo">ObjectInfo</a>**  
-Данный инструмент позволяет осмотреть любой объект, отображаемый в *Mapper'e*. Для этого достаточно нажать кнопку ![ObjectInfo](img/icons/miniInfo.png) и кликнуть правой кнопкой мыши (ПКМ) на интересующем объекте.
+![ObjectInfo](img/icons/miniInfo.png) <a name="ref-ObjectInfo"></a> **Осмотр объектов (ObjectInfo)**  
+Данный инструмент позволяет исследовать любой объект, отображаемый в *Mapper'e*. Для этого достаточно нажать кнопку ![ObjectInfo](img/icons/miniInfo.png) и кликнуть правой кнопкой мыши (ПКМ) на интересующем объекте.
 
 <p align="center"><img src="img/GraphTools/ObjectInfo.png"></p>
 

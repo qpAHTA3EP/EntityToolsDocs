@@ -19,3 +19,5 @@
 ### **2. [Расширения для *UCC*](Ucc/EntityTools-UccExtensions-RU.md)**
 ### **3. Инструменты:**
 #### **3.1. [Mapper](Patches/Mapper/Mapper-RU.md)** 
+#### **3.2. [EntityViewer](General/EntityIdentification-RU.md#ref-EntityViewer)**
+#### **3.2. [CustomRegionSet](General/CustomRegionSet-RU.md)**

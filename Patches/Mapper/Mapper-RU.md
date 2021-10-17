@@ -50,6 +50,12 @@
 Состав и цвета отображаемых объектов можно настроить на соответствующей [панели](GeneralOptions-RU.md), которая открывается  и закрывается нажатием кнопки [![GeneralOptions](img/icons/miniCustomization.png)](GeneralOptions-RU.md) в строке состояния.
 <p align="center"><img src="img/MapperExt-Objects.png"></p>
 
+## **[Все настройки](AllSettings-RU.md)**
+
+Полный список настроек Mapper'a доступен на панели плагина на вкладке ***Settings*** в группе ***Mapper***. 
+
+<p align="center"><img src="img/MapperExt-AllSettings.png"></p>
+
 ---
 
 <a href="javascript:history.back()">Назад</a>  

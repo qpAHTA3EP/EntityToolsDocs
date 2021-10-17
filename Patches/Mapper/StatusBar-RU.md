@@ -19,8 +19,7 @@
 ![AddCustomRegion](img/icons/miniAddCR.png) [Добавление CustomRegion](Mapper-CustomRegionTools-Add-RU.md)'a;  
 ![EditCustomRegion](img/icons/miniEditCR.png) [Изменение CustomRegion](Mapper-CustomRegionTools-Edit-RU.md)'a.
 
-Цепочка действий, которые могут быть отменены, не ограничена.  
-Однако, после [сохранения](#ref-Save) изменений нельзя отменить ранее совершенные действия.
+Следует иметь ввиду, что отменить ранее совершенные действия можно лишь до сохранения.
 
 
 ![Save](img/icons/miniSave.png) **<a name="ref-Save"></a> Сохранение изменений**  

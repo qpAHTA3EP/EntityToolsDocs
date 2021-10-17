@@ -6,14 +6,15 @@
 ---
 
 ![Undo](img/icons/miniUndo.png) **<a name="ref-Undo"></a> Отмена последнего изменения**  
-Отмена изменений, произведенных в Mapper'e следующими инструментами:
-- ![RelocateNodes](img/icons/miniNodeMove.png) [Перемещение путевых точек](Mapper-EditTools-RelocateNodes-RU.md);
-- ![DeleteNodes](img/icons/miniCancel.png) [Удаление путевых точек](Mapper-EditTools-DeleteNodes-RU.md);
-- ![EditEdge](img/icons/miniEditEdge.png) [Изменение ребер](Mapper-EditTools-RelocateNodes-RU.md)
-- ![EditCustomRegion](img/icons/miniEditCR.png) [Изменение CustomRegion'a](Mapper-CustomRegionTools-Edit-RU.md).
 
-Цепочка действий, которые могут быть отменены, не ограничена.  
-Однако, после [сохранения](#ref-Save) изменений ранее совершенные действия отменить нельзя.
+Отмена изменений, произведенных в Mapper'e следующими инструментами:  
+![RelocateNodes](img/icons/miniNodeMove.png) [Перемещение путевых точек](Mapper-EditTools-RelocateNodes-RU.md);  
+![DeleteNodes](img/icons/miniCancel.png) [Удаление путевых точек](Mapper-EditTools-DeleteNodes-RU.md);  
+![EditEdge](img/icons/miniEditEdge.png) [Изменение ребер](Mapper-EditTools-RelocateNodes-RU.md);  
+![AddCustomRegion](img/icons/miniAddCR.png) [Добавление CustomRegion](Mapper-CustomRegionTools-Add-RU.md)'a;  
+![EditCustomRegion](img/icons/miniEditCR.png) [Изменение CustomRegion](Mapper-CustomRegionTools-Edit-RU.md)'a.
+
+Следует иметь ввиду, что отменить ранее совершенные действия можно лишь до сохранения.
 
 ![Save](img/icons/miniSave.png) **<a name="ref-Save"></a> Сохранение изменений**  
 Сохранение в файл quester-профиля всех изменений, произведенных в Mapper'e, включая изменение путевого графа и [*CustomRegion*](Mapper-CustomRegionTools-RU.md)'ов.  
@@ -55,7 +56,7 @@ Hot-key: ``Ctrl+Shift+S``
 ---
 
 ![Delete](img/icons/miniDelete.png) **<a name="ref-Delete"></a> Удаление (Delete)**  
-Удаляет путевой граф для текущей карты.  
+Очистка путевого графа для текущей карты, то есть удаление всех путевых точек и ребер.  
 
 ---
 

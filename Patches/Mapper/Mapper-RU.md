@@ -26,16 +26,16 @@
 
 ## **Описание панелей инструментов**
 
-1. **[Инструменты прокладывания пути (картографирования)](Mapper-MappingTools-RU.md)**.  
-   [![MappingTools](img/MapperExt-Panel-Mapping.png)](Mapper-MappingTools-RU.md)
-2. **[Инструменты ручного редактирования графа](Mapper-EditTools-RU.md)**.  
-   [![MappingTools](img/MapperExt-Panel-EditTools.png)](Mapper-EditTools-RU.md)
-3. **[Инструменты для работы с CustomRegion](Mapper-CustomRegionTools-RU.md)**.  
-   [![MappingTools](img/MapperExt-Panel-CustomRegionTools.png)](Mapper-CustomRegionTools-RU.md)
-4. **[Дополнительные инструменты](Mapper-GraphTools-RU.md)**.  
-   [![MappingTools](img/MapperExt-Panel-GraphTools.png)](Mapper-GraphTools-RU.md)
-5. **[Строка состояния](StatusBar-RU.md)**
-   [![MappingTools](img/StatusBar.png)](StatusBar-RU.md)
+1. **[Инструменты прокладывания пути (картографирования)](Mapper-MappingTools-RU.md)**  
+   ![MappingTools](img/MapperExt-Panel-Mapping.png)
+2. **[Инструменты ручного редактирования графа](Mapper-EditTools-RU.md)**  
+   ![MappingTools](img/MapperExt-Panel-EditTools.png)
+3. **[Инструменты для работы с CustomRegion](Mapper-CustomRegionTools-RU.md)**  
+   ![MappingTools](img/MapperExt-Panel-CustomRegionTools.png)
+4. **[Дополнительные инструменты](Mapper-GraphTools-RU.md)**  
+   ![MappingTools](img/MapperExt-Panel-GraphTools.png)
+5. **[Строка состояния](StatusBar-RU.md)**  
+   ![MappingTools](img/StatusBar.png)
 
 Любая панель инструментов может быть скрыта через контекстной меню, отображающееся после клика правой кнопкой мыши (ПКМ) на любой из них.  
 

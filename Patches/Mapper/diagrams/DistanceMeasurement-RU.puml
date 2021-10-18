@@ -35,7 +35,7 @@ if (Start и End\nзаданы в 3D) then (<color:black>да)
         -> <color:black>Граф;
         :Построение пути\nAstar]
     end split
-    :Отображения 3D пути]
+    :Отображение 3D пути]
 else (<color:black>нет)
 endif
 :Расчет и отображение

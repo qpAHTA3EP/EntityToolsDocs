@@ -12,12 +12,12 @@
 Наконец, в плагине реализованы несколько патчей, исправляющих наиболее неприятные ошибки бота, или улучшающие его функционал.
 
 <p align="center"><img src="General/diagrams/С4-Component-RU.png"></p>
-<!-- ![Диаграмма контекста](General/diagrams/ET-Context-RU.png) -->
 
 ## **Содержание**
 ### **1. [Расширения для *Quester'a*](Quester/EntityTools-QuesterExtensions-RU.md)**
 ### **2. [Расширения для *UCC*](Ucc/EntityTools-UccExtensions-RU.md)**
 ### **3. Инструменты:**
-#### **3.1. [Mapper](Patches/Mapper/Mapper-RU.md)** 
-#### **3.2. [EntityViewer](General/EntityIdentification-RU.md#ref-EntityViewer)**
-#### **3.2. [CustomRegionSet](General/CustomRegionSet-RU.md)**
+#### **3.1. [Окно картографирования Mapper](Patches/Mapper/Mapper-RU.md)** 
+#### **3.2. [Окно выбора Entity](General/EntityIdentification-RU.md#ref-EntityViewer)**
+#### **3.3. [Редактор CustomRegionSet](General/CustomRegionSet-RU.md#ref-CustomRegionSet-Editor)**
+#### **3.3. [Редактор AuraViewer](General/AuraViewer-RU.md#ref-AuraViewer)**

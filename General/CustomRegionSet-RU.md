@@ -1,13 +1,13 @@
 # **CustomRegion**
 
 <a name ="ref-CustomRegion">**CustomRegion**</a> - это прямоугольная или эллиптическая область на карте в плоскости ***Oxy***, заданная разработчиком quester-профиля и используемая для определения положения персонажа  относительно неё (внутри или снаружи).<br/> 
-На скриншоте ниже в окне [Mapper](../General/Glossary-RU.md#ref-Mapper)'a отмечен прямоугольный CustomRegion ``Sahha_Playground``.
+На скриншоте ниже в окне [Mapper](../Patches/Mapper/Mapper-RU.md)'a отмечен прямоугольный CustomRegion ``Sahha_Playground``.
 
 <p align="center"><img src="img/Mapper-CustomRegion.PNG"></p>
 
 # <a name ="ref-CustomRegionSet"></a>**CustomRegionSet**
 
-Это область на карте, заданная сочетанием нескольких [CustomRegion](#def-CustomRegion)'ов, которые включены в одну из трех групп:
+Это область на карте, заданная сочетанием нескольких [CustomRegion](#ref-CustomRegion)'ов, которые включены в одну из трех групп:
 
 |**Название**|**Описание**|
 |:-----------|:-----------|

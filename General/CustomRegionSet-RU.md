@@ -1,14 +1,16 @@
-# **CustomRegionSet**
+# **CustomRegion**
 
-<a name ="def-CustomRegion">**CustomRegion**</a> - это прямоугольная или эллиптическая область на карте в плоскости ***Oxy***, заданная разработчиком quester-профиля и используемая для определения положения персонажа  относительно неё (внутри или снаружи).<br/> 
-На скриншоте ниже в окне [Mapper](../General/Glossary-RU.md#ref-Mapper)'a отмечен CustomRegion ``Sahha_Playground``<br/> 
+<a name ="ref-CustomRegion">**CustomRegion**</a> - это прямоугольная или эллиптическая область на карте в плоскости ***Oxy***, заданная разработчиком quester-профиля и используемая для определения положения персонажа  относительно неё (внутри или снаружи).<br/> 
+На скриншоте ниже в окне [Mapper](../General/Glossary-RU.md#ref-Mapper)'a отмечен прямоугольный CustomRegion ``Sahha_Playground``.
 
 <p align="center"><img src="img/Mapper-CustomRegion.PNG"></p>
 
-<a name ="def-CustomRegionSet">**CustomRegionSet**</a> - это область на карте, заданная сочетанием нескольких [CustomRegion](#def-CustomRegion)'ов, которые включены в одну из трех групп:
+# <a name ="ref-CustomRegionSet"></a>**CustomRegionSet**
 
-|**Название**|**Назначение**|
-|:-----------|:-------------|
+Это область на карте, заданная сочетанием нескольких [CustomRegion](#def-CustomRegion)'ов, которые включены в одну из трех групп:
+
+|**Название**|**Описание**|
+|:-----------|:-----------|
 |<a name ="ref-CustomRegion-UNION">***UNION***</a> | **ОБЪЕДИНЕНИЕ** регионов, которое образует допустимую область. Персонаж должен находиться в любом из отмеченных регионов, а также в области [*INTERSECTION*](#ref-CustomRegion-INTERSECTION) (если она задана). При этом запрещено нахождение в области [*EXCLUSION*](#ref-CustomRegion-EXCLUSION).
 |<a name ="ref-CustomRegion-INTERSECTION">***INTERSECTION***</a> | **ПЕРЕСЕЧЕНИЕ** регионов, образующее допустимую область. Персонаж должен находиться в каждом из отмеченных регионов, а также в области [*UNION*](#ref-CustomRegion-UNION) (если она задана). При этом запрещено нахождение в области [*EXCLUSION*](#ref-CustomRegion-EXCLUSION).
 |<a name ="ref-CustomRegion-EXCLUSION">***EXCLUSION***</a> | Регионы, которые будут **ИСКЛЮЧЕНЫ** из итоговой области. Персонажу запрещено находиться в любом из них.
@@ -38,4 +40,4 @@
 ---
 
 <a href="javascript:history.back()">Назад</a>  
-[Назад к содержанию](../../index.md)
+[Назад к содержанию](../index.md)

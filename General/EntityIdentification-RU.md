@@ -21,7 +21,7 @@
 |:-----------------|:-------------|
 |<a name ="ref-EntityID">***EntityID***</a> | Текстовый идентификатор *Entity*.
 |<a name ="ref-EntityIdType">***EntityIdType***</a> | Переключатель способа интерпретации [*EntityID*](#ref-EntityID):<br/>- ***Simple*** : Простая текстовая строка. <br/>В начале и в конце строки допускается использование символа подстановки ``"*"``, заменяющего произвольное число алфавитно-цифровых символов;<br/>- ***Regex*** : Регулярное выражение, составленное по правилам [.Net Framework](https://docs.microsoft.com/ru-ru/dotnet/standard/base-types/regular-expressions).
-|<a name ="ref-EntityNameType">***EntityNameType***</a> | Переключатель, которые задает свойство *Entity*, с которым сопоставляется идентификатор [*EntityID*](#ref-EntityID):<br/>- ***InternalName*** : [*EntityID*](#ref-EntityID) сопоставляется с [*Entity.InternalName*](#ref-Entity-InternalName);<br/>- ***NameUntranslated*** : [*EntityID*](#ref-EntityID) сопоставляется с [*Entity.NameUntranslated*](#ref-Entity-NameUntranslated);<br/>- ***Empty*** : безымянное *Entity*, у которого все вышеуказанные идентификаторы должны пустые. Такие *Entity* обычно являются частью анимации боевых умений.
+|<a name ="ref-EntityNameType">***EntityNameType***</a> | Переключатель, которые задает свойство *Entity*, с которым сопоставляется идентификатор [*EntityID*](#ref-EntityID):<br/>- ***InternalName*** : [*EntityID*](#ref-EntityID) сопоставляется с [*Entity.InternalName*](#ref-Entity-InternalName);<br/>- ***NameUntranslated*** : [*EntityID*](#ref-EntityID) сопоставляется с [*Entity.NameUntranslated*](#ref-Entity-NameUntranslated);<br/>- ***Empty*** : безымянное *Entity*, у которого все вышеуказанные идентификаторы пусты. Такие *Entity* обычно являются частью анимации боевых умений.
 |<a name ="ref-EntitySetType">***EntitySetType***</a> | ***Дополнительная опция***, используемая в некоторых командах и условиях и позволяющая изменить множество *Entity*, в котором производится поиск:<br>- ***Complete*** : Все видимые боту *Entity* (значение по умолчанию). Если опция отсутствует, то поиск производится в данном множестве;<br/>- ***Contacts*** : Видимые боту *Entity*, с которыми можно произвести ***взаимодействие***. Как правило это дружественные *NPC*, торговцы и т.п.
 
 ---
@@ -31,13 +31,15 @@
 Для этого предназначено окно **EntitySelectForm**.
 
 Основная часть окна занята таблицей, содержащей перечень *Entity*, окружающих персонажа.  
+Следует отметить, что бот видит не всех *Entity* на карте, а лишь тех, которые расположены от него на небольшом расстоянии, которое зависит от вида *Entity*. Обычно оно составляет 600-800 единиц.
 
 По центру в нижней части окна расположено поле редактирования [*EntityID*](#ref-EntityID).  
-Добавить идентификатор [*EntityID*](#ref-EntityID) из таблицы можно перетащив её в поле редактирования, удерживая клавишу ``Ctrl``.  
+Добавить идентификатор [*EntityID*](#ref-EntityID) из таблицы можно перетащив соответствующую строку в поле редактирования, удерживая клавишу ``Ctrl``.  
+При этом в поле редактирования будет добавлен идентификатор, заданный признаком [*EntityNameType*](#ref-EntityNameType).  
 
-![Окно выбора Entity](./img/EntitySelectForm.PNG)
+<p align="center"><img src="img/EntitySelectForm.PNG"></p>
 
-Слева от поля редактирования [*EntityID*](#ref-EntityID) расположены переключатели, задающие признаки [*EntityIdType*](#ref-EntityIdType) и [*EntityNameType*](#ref-EntityNameType).
+Слева от поля редактирования [*EntityID*](#ref-EntityID) расположены переключатели признаков [*EntityIdType*](#ref-EntityIdType) и [*EntityNameType*](#ref-EntityNameType).
 
 
 Справа от поля редактирования [*EntityID*](#ref-EntityID) расположены кнопки:

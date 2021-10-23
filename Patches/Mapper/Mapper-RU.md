@@ -10,7 +10,7 @@
 |:------------:|:---------------------:|
 |![Mapper](img/Mapper_Square.png)|![MapperExt](img/MapperExt_Square.png)|
 
-## **Отличия модифицированного Mapper отличается от [штатного](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43909#p43909)**
+## **Отличия модифицированного Mapper от [штатного](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43909#p43909)**
 
 - Собственный оптимизированный механизм отрисовки, позволяющий выбрать [отображаемые объекты и их цвет](GeneralOptions-RU.md#ref-MeshesOptions);
 - Собственный механизм [прокладывания пути](Mapper-MappingTools-RU.md), позволяющий гибко настроить расстояние между путевыми точками и способ их соединения;

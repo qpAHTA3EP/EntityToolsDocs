@@ -17,7 +17,8 @@
 ### **1. [Расширения для *Quester'a*](Quester/EntityTools-QuesterExtensions-RU.md)**
 ### **2. [Расширения для *UCC*](Ucc/EntityTools-UccExtensions-RU.md)**
 ### **3. Инструменты:**
-- **[Окно картографирования Mapper](Patches/Mapper/Mapper-RU.md)** 
+- **[Окно картографирования (Mapper)](Patches/Mapper/Mapper-RU.md)** 
 - **[Окно выбора Entity](General/EntityIdentification-RU.md#ref-EntityViewer)**
 - **[Редактор CustomRegionSet](General/CustomRegionSet-RU.md#ref-CustomRegionSet-Editor)**
 - **[Редактор AuraViewer](General/AuraViewer-RU.md#ref-AuraViewer)**
+- **[Помощник зачарования (EnchantHelper)](MainPanel/EnchantHelper-RU.md)**

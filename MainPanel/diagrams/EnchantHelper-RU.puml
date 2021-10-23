@@ -1,0 +1,52 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+
+start
+
+:Активация EnchantHelper]
+
+repeat
+
+partition "Выбор предмета\n(Игрок)" {
+    split 
+        -> <color:black>Инвентарь;
+        :Открыть Инвентарь]
+    split again
+        -> <color:black>Персонаж;
+        :Открыть листок\nПерсонажа]
+    split again
+        -> <color:black>Спутник;
+        :Открыть окно\nСпутника]
+    end split
+    :ПКМ на предмете]
+}
+
+partition "EnchantHelper" {
+    :Активация окна зачарование\nчерез пункт контекстного меню\n'Зачаровать предмет']
+}
+
+partition "Выбор действия" {
+    split 
+        -> <color:black>Зачарование;
+        :Выбор волшебного камня (руны)\nв выпадающем списке\nпустой ячейки]
+        partition "EnchantHelper" {
+            :Активация кнопки 'Зачаровать']
+            :Подтверждение зачарования\nв модальном окне]
+        }
+    split again
+        -> <color:black>Извлечение;
+        :Нажать кнопку рядом\nс ячейко с камнем (руной)]
+        partition "EnchantHelper" {
+            :Активация пункта меню 'Извлечь']
+            :Подтверждение оплаты\nза извлечение камня (руны)\nв модальном окне]
+        }
+    end split
+}
+
+backward :Ждать действий\nИгрока.]
+repeat while (EnchantHelper активен ?) is (<color:black>да) not (<color:black>нет)  
+
+end
+
+@enduml

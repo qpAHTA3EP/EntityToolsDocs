@@ -26,6 +26,12 @@
 
 ---
 
+# **Блок-схема**
+
+<p align="center"><img src="diagrams/ChangeInstanceToLeader-RU.png"></p>
+
+---
+
 # **Аналоги**
 
 Похожие команды, входящие в базовый функционал бота:

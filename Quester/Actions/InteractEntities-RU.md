@@ -67,6 +67,12 @@
 
 ---
 
+# **Блок-схема**
+
+<p align="center"><img src="diagrams/InteractEntities.png"></p>
+
+---
+
 <a href="javascript:history.back()">Назад</a>  
 [Назад к перечню команд](../EntityTools-QuesterExtensions-RU.md#ref-Actions)  
 [Назад к содержанию](../../index.md)

@@ -9,16 +9,17 @@
 
 Более того, в плагине реализованы специальные инструменты для разработчиков скриптов для **Quester**'а. Некоторые инструменты заменяют стандартные, например, такие как Mapper, а другие используются для настройки новых команд и условий. [*Подробнее...*](Patches/Mapper/Mapper-RU.md)
 
-Наконец, в плагине реализованы несколько патчей, исправляющих наиболее неприятные ошибки бота, или улучшающие его функционал.
+Наконец, в плагине реализованы несколько [патчей](Patches/Overview-RU.md), исправляющих наиболее неприятные ошибки бота, или улучшающие его функционал.
 
 <p align="center"><img src="General/diagrams/С4-Component-RU.png"></p>
 
 ## **Содержание**
 ### **1. [Расширения для *Quester'a*](Quester/EntityTools-QuesterExtensions-RU.md)**
 ### **2. [Расширения для *UCC*](Ucc/EntityTools-UccExtensions-RU.md)**
+### **4. [Главная панель плагина](MainPanel/Overview-RU.md)**
 ### **3. Инструменты:**
 - **[Окно картографирования (Mapper)](Patches/Mapper/Mapper-RU.md)** 
 - **[Окно выбора Entity](General/EntityIdentification-RU.md#ref-EntityViewer)**
 - **[Редактор CustomRegionSet](General/CustomRegionSet-RU.md#ref-CustomRegionSet-Editor)**
-- **[Редактор AuraViewer](General/AuraViewer-RU.md#ref-AuraViewer)**
+- **[Редактор AuraViewer](MainPanel/AuraViewer-RU.md#ref-AuraViewer)**
 - **[Помощник зачарования (EnchantHelper)](MainPanel/EnchantHelper-RU.md)**

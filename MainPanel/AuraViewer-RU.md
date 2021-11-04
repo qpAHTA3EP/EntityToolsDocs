@@ -1,6 +1,6 @@
 # **Ауры**
 
-<a name = "def-Aura">***Аура (Aura)***</a> - это любой усиливающий (баф) или ослабляющий (дебаф) эффект наложенный на персонажа и других *Entity*.
+<a name = "ref-Aura">***Аура (Aura)***</a> - это любой усиливающий (баф) или ослабляющий (дебаф) эффект наложенный на персонажа и других *Entity*.
 
 # <a name = "ref-AuraViewer"></a> **Окно AuraViewer**
 
@@ -9,7 +9,7 @@
 
 |Штатный AuraDetector|Модифицированный AuraViewer|
 |:-----:|:--------------:|
-|![AuraDetector](img/AuraDetector.png)|![AuraViewer](img/AuraViewer.png)|
+|![AuraDetector](img/AuraViewer/AuraDetector.png)|![AuraViewer](img/AuraViewer/AuraViewer.png)|
 
 1. Вверху окна справа от метки ``Select entity which to search an Aura`` расположен переключатель, позволяющий выбрать объект, ауры которого исследуются:
    - **Player** - персонаж;

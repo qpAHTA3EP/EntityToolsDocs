@@ -9,7 +9,7 @@
 
 <p align="center"><img src="img/Panel-Main-EnchantHelper.png"></p>
 
-## **Алгоритм функционирования**
+## **Алгоритм**
 
 1. Активируйте ***EnchantHelper*** на панели плагина **EntityTools** на вкладке *Utilites*.
 2. Откройте листок персонажа, инвентарь или окно спутника.

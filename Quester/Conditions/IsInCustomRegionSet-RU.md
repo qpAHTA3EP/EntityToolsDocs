@@ -19,7 +19,7 @@
 
 # **Аналоги**
 Похожие условия, входящие в базовый функционал бота:
-- [***IsInCustomRegion***](Astral-Actions-RU.md#ref-IsInCustomRegion);
+- [***IsInCustomRegion***](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43910#p43910);
 
 ---
 

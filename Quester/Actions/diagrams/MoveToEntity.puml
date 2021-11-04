@@ -1,7 +1,7 @@
 @startuml
 !theme spacelab
 skinparam DefaultTextAlignment Center
-
+'skinparam ConditionStyle InsideDiamond
 'skinparam BackgroundColor White
 
 start

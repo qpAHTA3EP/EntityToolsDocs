@@ -16,11 +16,11 @@
 ## **Содержание**
 ### **1. [Расширения для *Quester'a*](Quester/EntityTools-QuesterExtensions-RU.md)**
 ### **2. [Расширения для *UCC*](Ucc/EntityTools-UccExtensions-RU.md)**
-### **4. [Главная панель плагина](MainPanel/Overview-RU.md)**
-### **5. Инструменты:**
+### **3. [Главная панель плагина](MainPanel/Overview-RU.md)**
+### **4. Инструменты:**
 - **[Окно картографирования (Mapper)](Patches/Mapper/Mapper-RU.md)** 
 - **[Окно выбора Entity](General/EntityIdentification-RU.md#ref-EntityViewer)**
 - **[Редактор CustomRegionSet](General/CustomRegionSet-RU.md#ref-CustomRegionSet-Editor)**
 - **[Редактор AuraViewer](MainPanel/AuraViewer-RU.md#ref-AuraViewer)**
-- **[Помощник зачарования (EnchantHelper)](MainPanel/EnchantHelper-RU.md)**
-### **6. [Патчи](Patches/Overview-RU.md)**
+- **[Помощник зачарования (EnchantHelper)](MainPanel/EnchantHelper-RU.md)**  
+### **5. [Патчи](Patches/Overview-RU.md)**

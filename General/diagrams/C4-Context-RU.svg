@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="419px" preserveAspectRatio="none" style="width:614px;height:419px;background:#00000000;" version="1.1" viewBox="0 0 614 419" width="614px" zoomAndPan="magnify"><defs/><g><!--MD5=[a6327fbf02f41d1072347f46f6d9818e]
+cluster c0--><rect height="406.5" style="stroke:#444444;stroke-width:1.0;fill:none;stroke-dasharray:7.0,7.0;" width="222" x="95" y="7"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="186" x="113" y="35.6094">Локальный компьютер</text><!--MD5=[1a7ecd2acfad38652379a8abeab8586b]
+entity nw--><rect fill="#1168BD" height="108.0469" style="stroke:#3C7FC0;stroke-width:1.5;" width="145" x="155.5" y="56"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="53" x="201.5" y="78.457">«system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="92" x="182" y="97.7031">Neverwinter</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="230" y="115.752"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="173" y="133.3613">Клиент MMORPG</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="165.5" y="150.9707">'Neverwinter Online'</text><!--MD5=[943a728237655bc9344eb86c044ec590]
+entity bot--><rect fill="#1168BD" height="90.4375" style="stroke:#3C7FC0;stroke-width:1.5;" width="73" x="134.5" y="307.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="53" x="144.5" y="329.957">«system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="44" x="149" y="349.2031">Astral</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="173" y="367.252"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="23" x="161.5" y="384.8613">бот</text><!--MD5=[d8eca564858595245321772129d300af]
+entity player--><rect fill="#08427B" height="103.2188" style="stroke:#073B6F;stroke-width:1.5;" width="72" x="7" y="58.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="52" x="17" y="80.957">«person»</text><image height="48" width="48" x="19" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABuUlEQVR42u2Yv0oEMRDGp/QRfIR7BVs7Gx9AH0CwtrtKLNXSRsRSG8HCxkbQVrSykoOrzlILC9v4gwMRNptMMsnu3nHDFMcSLh/f/PsmsrY5HpTLUgHaOri8uHt+eJm8vs/wm8e38fn9aPekB0D7p7df3z+uxYC4sXfWEaD17SPIcAqDreqAQBMgpmnHV091ASm5+W8EtxYgQuCyDF7LA+JPXa5RieUBwbwzWHlAVLIFEB2rMKCk4rK0AC0gZzN9/S8soOnHpwWQvhtpATE4h5XUlrKnIKp06uxCS5poCzs6stvjzuF1XfmRVG4ZkihHMSp5SuXGJGG5LEAVPSIpb4qJfIQzQeF6OMORGXSHbCjLuAb1CYhti7whQHQ5PLrlcHh+kiAyN/RxFE0/9OYvH+dJw33gw/nB4bYa5Ltmokl4MTXqMi+sMFtSfFBEDWoD67bUkPSa+d/Gk3i7i6tvxE4LyLhgGOeu9ELPXzLFAVHJrkNrZreUFfN28S9l1x27upVSLwp5hlIYFqBm8a8ADRxQJIfszy72ZxrpeKxGR6xnltEbupkbXtkpbQsh6ozhV8kDCni1dcT8F2bsoAKLcdt7AAAAAElFTkSuQmCC" y="83.5938"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="47" x="19.5" y="148.2031">Игрок</text><!--MD5=[904a6287fbd4f8a7097aac63663a43a9]
+entity nwServer--><rect fill="#999999" height="108.0469" style="stroke:#8A8A8A;stroke-width:1.5;" width="176" x="432" y="56"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="104" x="468" y="78.457">«external_system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="156" x="442" y="97.7031">Сервер Neverwinter</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="522" y="115.752"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="464" y="133.3613">Сервер MMORPG</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="457.5" y="150.9707">'Neverwinter Online'</text><!--MD5=[170d39b91b8240fa65c9283d33d67f23]
+entity botter--><rect fill="#686868" height="103.2188" style="stroke:#8A8A8A;stroke-width:1.5;" width="123" x="333.5" y="301"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="103" x="343.5" y="323.457">«external_person»</text><image height="48" width="48" x="371" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABkElEQVR42u2YrY+EMBDF5889vRqNRqPRaDQajT6Nxnd/YZPLJUA7dFpgN/vUhjTblzdfbyo/N4N8FKGqqvq+H8fxd8EwDG3bFkVxAaGmaeZ5djuAYlmWJxF6PB6I4RRAreyEYOMRZo2u6/ISUmrzHwQ3FyFC4KKArukJ8acuFlRiekIo7wxIT4hKthCiYyUmdKi4LC1AS8jZoK//tyU0TZOFkL4baQkxOO+V1JaypyCydOroQjs00d52dES3x7qu89qPQ+UWYYliHKNSp6PamCwsl3mkokccyptkJh/jTFC4flyAzaA7RFP5xDXoSkJsW+QNAeoWBLccDr9OEkTmhj6OoumHm/nLx1fScF+5gB8c3qtBvmsmmvgXU6Mv26TlV0uSD4ogkNazbksOS6+Z/3s6yWZ3cflB7LSEjAuGce7KJfL8JVOYEJXsTsQ6uyWtmbebf0m77tjdraR6UYgDTuFehNbF/yV0c0KBHLI/u9ifaeTksRocsRuzjN5wztzYtJ2ytxDizups8Djg79YRwhNbRegxSU73LwAAAABJRU5ErkJggg==" y="326.0938"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="70" x="360" y="390.7031">Ботовод</text><!--MD5=[458afe9fca6c3845955f13e94e2c9b9f]
+link player to nw--><path d="M87.26,110 C105.22,110 126.55,110 147.1,110 " fill="none" id="player-nw" style="stroke:#666666;stroke-width:4.0;"/><polygon fill="#666666" points="155.23,110,147.23,107,147.23,113,155.23,110" style="stroke:#666666;stroke-width:4.0;"/><polygon fill="#666666" points="79.11,110,87.11,113,87.11,107,79.11,110" style="stroke:#666666;stroke-width:4.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="39" x="97.75" y="88.457">Играет</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="28" x="103.25" y="103.5508">[GUI]</text><!--MD5=[b936147dc7c05f22edfc036941600e8b]
+link nw to nwServer--><path d="M308.6,110 C344.2,110 386.32,110 423.57,110 " fill="none" id="nw-nwServer" style="stroke:#666666;stroke-width:4.0;"/><polygon fill="#666666" points="431.93,110,423.93,107,423.93,113,431.93,110" style="stroke:#666666;stroke-width:4.0;"/><polygon fill="#666666" points="300.55,110,308.55,113,308.55,107,300.55,110" style="stroke:#666666;stroke-width:4.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="95" x="318.75" y="88.457">Обмен данными</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="72" x="330.25" y="103.5508">[Интернет]</text><!--MD5=[1bf7cc89f6bfb2eb0c68c28231ff7536]
+link nw to bot--><path d="M156.49,170.85 C151.1,178.1 146.43,185.85 143,194 C128.89,227.51 136.53,267.93 147.37,299.43 " fill="none" id="nw-bot" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="150.18,307.24,150.2889,298.6967,144.6445,300.7317,150.18,307.24" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="161.63,164.33,154.3205,168.7539,159.0317,172.4693,161.63,164.33" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="88" x="171.5" y="222.457">Автоматичекое</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="146" x="144" y="237.5508">управление персонажем</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="185.5" y="252.6445">[Инъекции]</text><!--MD5=[1bf7cc89f6bfb2eb0c68c28231ff7536]
+link nw to bot--><!--MD5=[69a17e2ae57379bf6715bd15b140864f]
+link botter to nw--><path d="M388.98,292.46 C383.4,260.89 372.67,222.72 352,194 C340.18,177.57 324.02,163.44 307.28,151.73 " fill="none" id="botter-nw" style="stroke:#0000CD;stroke-width:2.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#0000CD" points="300.59,147.2,305.5341,154.1682,308.8968,149.1991,300.59,147.2" style="stroke:#0000CD;stroke-width:2.0;"/><polygon fill="#0000CD" points="390.35,300.75,392.0112,292.369,386.0908,293.3433,390.35,300.75" style="stroke:#0000CD;stroke-width:2.0;"/><text fill="#0000CD" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="84" x="398" y="207.457">Манипулирует</text><text fill="#0000CD" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="97" x="391.5" y="222.5508">внутриигровыми</text><text fill="#0000CD" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="89" x="395.5" y="237.6445">объектами для</text><text fill="#0000CD" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="113" x="385" y="252.7383">конфигурации бота</text><text fill="#0000CD" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="28" x="427.5" y="267.832">[GUI]</text><!--MD5=[c438257a747b72ed1281cf63624390b3]
+link nw to botter--><!--MD5=[85c82838252f2a9dec713ec6056a3d17]
+link botter to bot--><path d="M325.01,352.5 C289.53,352.5 247.46,352.5 216.27,352.5 " fill="none" id="botter-bot" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="207.99,352.5,215.99,355.5,215.99,349.5,207.99,352.5" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="333.41,352.5,325.41,349.5,325.41,355.5,333.41,352.5" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="89" x="226" y="330.957">Конфигурирует</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="28" x="256.5" y="346.0508">[GUI]</text><!--MD5=[6c8d29fe1c92f9d6aa23dba087cbbc13]
+@startuml
+'!include <C4/C4_Context>
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+skinparam BackgroundColor transparent
+
+LAYOUT_TOP_DOWN()
+'LAYOUT_WITH_LEGEND()
+
+AddRelTag("config", $lineStyle = DashedLine())
+
+Person(player, "Игрок")
+
+System_Ext(nwServer, "Сервер Neverwinter", "Сервер MMORPG\n'Neverwinter Online'")
+
+Boundary(c0, "Локальный компьютер") {
+    System(nw, "Neverwinter", "Клиент MMORPG\n'Neverwinter Online'")
+    player <<-[thickness=4]>> nw : "**Играет**\n//[GUI]//"
+    nw <<-[thickness=4]>> nwServer : "**Обмен данными**\n//[Интернет]//"
+    'Lay_D(nwServer, nw)
+
+    System(bot, "Astral", "бот")
+    nw <<-down->> bot : "**Автоматичекое управление персонажем**\n//[Инъекции]//"
+    'Rel_D(bot, nw, "Автоматичекое управление персонажем", "Инъекции")
+    
+    Lay_D(nw, bot)
+}
+
+Person_Ext(botter, "Ботовод")
+'Rel_L(botter, nw, "Манипулирует внутриигровыми объектами", "GUI", $tags="config")
+botter  <<.[#MediumBlue;thickness=2].>> nw #text:MediumBlue :"**Манипулирует внутриигровыми объектами для конфигурации бота**\n//[GUI]//"
+'Rel_L(botter, bot, "Конфигурирует", "GUI")
+botter <<-right->> bot : "**Конфигурирует**\n//[GUI]//"
+'botter -hidden-> player
+
+Lay_D(nw, botter)
+'Lay_D(player, botter)
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam shadowing<<legendArea>> false
+skinparam rectangle<<legendArea>> {
+    backgroundcolor #00000000
+    bordercolor #00000000
+}
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam actor {
+    StereotypeFontSize 12
+    shadowing false
+    style awesome
+}
+
+skinparam person {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam package {
+    StereotypeFontSize 6
+    StereotypeFontColor transparent
+    FontStyle plain
+    BackgroundColor transparent
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 6
+    StereotypeFontColor transparent
+    FontColor #444444
+    BorderColor #444444
+    BackgroundColor transparent
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam database<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam queue<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam actor<<person>> {
+    StereotypeFontColor #08427B
+    FontColor #08427B
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam person<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam database<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam actor<<external_person>> {
+    StereotypeFontColor #686868
+    FontColor #686868
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam person<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam queue<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam actor<<system>> {
+    StereotypeFontColor #1168BD
+    FontColor #1168BD
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam person<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam actor<<external_system>> {
+    StereotypeFontColor #999999
+    FontColor #999999
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam person<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+sprite $person2 [48x48/16] {
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000002578888300000000005888864100000000000
+0000000007DFFFFFFFFD9643347BFFFFFFFFFB4000000000
+00000004EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB10000000
+0000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD2000000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+00003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+0000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF50000
+0003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD0000
+0009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+0009FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFF2000
+0003FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFD0000
+0000BFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFF50000
+00003FFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFB00000
+000006FFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFE100000
+0000007FFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFD2000000
+00000004EFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFB10000000
+0000000007DF8FFFFFFFFFFFFFFFFFFFFFF8FB4000000000
+000000000002578888888888888888888864100000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam queue<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam actor<<container>> {
+    StereotypeFontColor #438DD5
+    FontColor #438DD5
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam person<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+skinparam rectangle<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam database<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam queue<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam actor<<external_container>> {
+    StereotypeFontColor #B3B3B3
+    FontColor #B3B3B3
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam person<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam BackgroundColor transparent
+
+top to bottom direction
+
+skinparam arrow<<config>> {
+    Color ;line.dashed
+}
+
+
+rectangle "<$person>\n==Игрок" <<person>> as player 
+
+rectangle "==Сервер Neverwinter\n\n Сервер MMORPG\n'Neverwinter Online'" <<external_system>> as nwServer 
+
+rectangle "==Локальный компьютер" <<boundary>> as c0  {
+    rectangle "==Neverwinter\n\n Клиент MMORPG\n'Neverwinter Online'" <<system>> as nw 
+    player <<-[thickness=4]>> nw : "**Играет**\n//[GUI]//"
+    nw <<-[thickness=4]>> nwServer : "**Обмен данными**\n//[Интернет]//"
+
+    rectangle "==Astral\n\n бот" <<system>> as bot 
+    nw <<-down->> bot : "**Автоматичекое управление персонажем**\n//[Инъекции]//"
+    
+    nw -[hidden]D- bot
+}
+
+rectangle "<$person>\n==Ботовод" <<external_person>> as botter 
+botter  <<.[#MediumBlue;thickness=2].>> nw #text:MediumBlue :"**Манипулирует внутриигровыми объектами для конфигурации бота**\n//[GUI]//"
+botter <<-right->> bot : "**Конфигурирует**\n//[GUI]//"
+
+nw -[hidden]D- botter
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

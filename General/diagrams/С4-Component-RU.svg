@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="814px" preserveAspectRatio="none" style="width:893px;height:814px;background:#00000000;" version="1.1" viewBox="0 0 893 814" width="893px" zoomAndPan="magnify"><defs/><g><!--MD5=[51fe817e498f28135d14ca22adcd7507]
+cluster bot--><rect height="615" style="stroke:#444444;stroke-width:1.0;fill:none;stroke-dasharray:7.0,7.0;" width="880" x="7" y="193"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="44" x="425" y="221.6094">Astral</text><text fill="#444444" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="47" x="423.5" y="237.582">[System]</text><!--MD5=[aac12be8747799c46aacfc1ed8ac0abb]
+cluster exe--><rect height="135" style="stroke:#444444;stroke-width:1.0;fill:none;stroke-dasharray:7.0,7.0;" width="832" x="31" y="435"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="75" x="409.5" y="463.6094">Astral.exe</text><!--MD5=[f37f0077b0e42f424c43ac6386b5c03a]
+cluster plugins--><rect height="135" style="stroke:#444444;stroke-width:1.0;fill:none;stroke-dasharray:7.0,7.0;" width="162" x="363" y="649"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="58" x="415" y="677.6094">Plugins</text><!--MD5=[acfa904aeb215f2b00700cfd83a4b085]
+entity myNW--><rect fill="#438DD5" height="85.4063" style="stroke:#3C7FC0;stroke-width:1.5;" width="171" x="377.5" y="257"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="65" x="430.5" y="279.457">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="71" x="427.5" y="298.7031">MyNW.dll</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="148" x="387.5" y="314.6758">[Доступ к памяти игры и</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="88" x="419" y="329.7695">инъекции кода]</text><!--MD5=[e6d09c4c2a8661b1736894ff92601754]
+entity quester--><rect fill="#438DD5" height="70.3125" style="stroke:#3C7FC0;stroke-width:1.5;" width="175" x="47.5" y="484"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="65" x="102.5" y="506.457">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="60" x="105" y="525.7031">Quester</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="155" x="57.5" y="541.6758">[Скриптовая подсистема]</text><!--MD5=[702e340d7597eb5436a5cf51c6952b22]
+entity ucc--><rect fill="#438DD5" height="70.3125" style="stroke:#3C7FC0;stroke-width:1.5;" width="143" x="703.5" y="484"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="65" x="742.5" y="506.457">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="36" x="757" y="525.7031">UCC</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="123" x="713.5" y="541.6758">[Боевая подсистема]</text><!--MD5=[617242ce4fabecb6886af5595b72eef3]
+entity nav--><rect fill="#438DD5" height="70.3125" style="stroke:#3C7FC0;stroke-width:1.5;" width="192" x="367" y="484"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="65" x="430.5" y="506.457">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="82" x="422" y="525.7031">Navigation</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="172" x="377" y="541.6758">[Навигационная подсистема]</text><!--MD5=[08e2259f31da2710fd763290193804e0]
+entity et--><rect fill="#438DD5" height="70.3125" style="stroke:#3C7FC0;stroke-width:1.5;" width="129" x="379.5" y="698"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="65" x="411.5" y="720.457">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="109" x="389.5" y="739.7031">EntityTools.dll</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="49" x="419.5" y="755.6758">[Плагин]</text><!--MD5=[1a7ecd2acfad38652379a8abeab8586b]
+entity nw--><rect fill="#1168BD" height="108.0469" style="stroke:#3C7FC0;stroke-width:1.5;" width="145" x="390.5" y="7"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="53" x="436.5" y="29.457">«system»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="92" x="417" y="48.7031">Neverwinter</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="0" x="465" y="66.752"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="408" y="84.3613">Клиент MMORPG</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="400.5" y="101.9707">'Neverwinter Online'</text><!--MD5=[9be29a57d0462bef4a0904124a843be7]
+link nw to myNW--><path d="M463,123.3 C463,162.38 463,212.36 463,248.93 " fill="none" id="nw-myNW" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="463,256.98,466,248.98,460,248.98,463,256.98" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="463,115.08,460,123.08,466,123.08,463,115.08" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="144" x="464" y="158.457">Чтение и запись данных</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="504.5" y="173.5508">[Инъекции]</text><!--MD5=[f7b3246fc3008d3c205b93e6e031e0ac]
+link myNW to quester--><path d="M375.46,346.09 C360.75,354.37 345.79,363.19 332,372 C279.78,405.37 223.25,448 184.19,478.57 " fill="none" id="myNW-quester" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="177.59,483.75,185.7366,481.1746,182.0344,476.4529,177.59,483.75" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="382.66,342.07,374.2125,343.3503,377.1372,348.5891,382.66,342.07" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="104" x="341.5" y="385.457">'Взаимодействия'</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="118" x="333" y="400.5508">Обмен командами и</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="53" x="367" y="415.6445">данными</text><!--MD5=[bc0f9d34723382929b6459f536f842c0]
+link myNW to ucc--><path d="M551.75,346.12 C566.13,354.31 580.67,363.09 594,372 C642.98,404.74 694.93,447.59 730.55,478.39 " fill="none" id="myNW-ucc" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="737,483.99,732.9233,476.4813,728.9913,481.0133,737,483.99" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="544.7,342.15,550.1967,348.6911,553.1424,343.4639,544.7,342.15" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="112" x="661.5" y="385.457">'Активация умений'</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="118" x="657" y="400.5508">Обмен командами и</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="53" x="691" y="415.6445">данными</text><!--MD5=[487dd758cbb34b260fbc492372841b44]
+link myNW to nav--><path d="M463,350.4 C463,388.27 463,439.77 463,475.65 " fill="none" id="myNW-nav" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="463,483.96,466,475.96,460,475.96,463,483.96" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="463,342.18,460,350.18,466,350.18,463,342.18" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="88" x="480.5" y="385.457">'Перемещения'</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="118" x="464" y="400.5508">Обмен командами и</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="53" x="498" y="415.6445">данными</text><!--MD5=[250239e037b92e5b03d1e446f5846940]
+link quester to nav--><path d="M231.06,519 C271.13,519 317.78,519 358.68,519 " fill="none" id="quester-nav" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="366.78,519,358.78,516,358.78,522,366.78,519" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="222.9,519,230.9,522,230.9,516,222.9,519" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="108" x="240.75" y="497.457">Обмен командами</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="63" x="263.25" y="512.5508">и данными</text><!--MD5=[49a2e62fc1896aab7726d49ad8ef7774]
+link nav to ucc--><path d="M567.42,519 C609.14,519 656.4,519 695.28,519 " fill="none" id="nav-ucc" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="703.44,519,695.44,516,695.44,522,703.44,519" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="559.16,519,567.16,522,567.16,516,559.16,519" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="108" x="577.25" y="497.457">Обмен командами</text><text fill="#666666" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="63" x="599.75" y="512.5508">и данными</text><!--MD5=[52085f246ce56d03a3b245b91a934341]
+reverse link ucc to et--><path d="M695.79,541.41 C663.45,552.1 626.54,566.88 596,586 C546.84,616.77 500.29,665.41 471.96,697.99 " fill="none" id="ucc-backto-et" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="703.48,538.92,694.9453,538.5218,696.7879,544.2319,703.48,538.92" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="120" x="597" y="599.457">Добавляет команды</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="59" x="627.5" y="614.5508">и условия</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="26" x="644" y="629.6445">[API]</text><!--MD5=[96229e533bb65c28c94af8aa226d6e36]
+link et to ucc--><path d="M508.68,723.51 C570.22,712.37 662.07,687.41 722,633 C742.68,614.22 755.98,585.7 764.08,562.01 " fill="none" id="et-to-ucc" style="stroke:#8B0000;stroke-width:4.0;"/><polygon fill="#8B0000" points="766.63,554.18,761.3031,560.8601,767.009,562.7156,766.63,554.18" style="stroke:#8B0000;stroke-width:4.0;"/><text fill="#8B0000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="40" x="763.5" y="606.957">Патчит</text><text fill="#8B0000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="57" x="755" y="622.0508">[Harmony]</text><!--MD5=[49270789fa5a01cba9374d15c196e6c4]
+reverse link quester to et--><path d="M129.12,562.03 C128.2,585.31 131.24,613.4 147,633 C203.21,702.88 310.34,723.81 379.4,729.85 " fill="none" id="quester-backto-et" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="129.59,554.02,126.1238,561.8293,132.1133,562.1829,129.59,554.02" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="120" x="148" y="599.457">Добавляет команды</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="59" x="178.5" y="614.5508">и условия</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="26" x="195" y="629.6445">[API]</text><!--MD5=[51029d38157193148be3b4d569620618]
+link et to quester--><path d="M406.28,697.77 C364.77,660.48 300.33,603.76 273,586 C257.32,575.8 239.82,566.22 222.69,557.69 " fill="none" id="et-to-quester" style="stroke:#8B0000;stroke-width:4.0;"/><polygon fill="#8B0000" points="215.37,554.1,221.2286,560.3191,223.8733,554.9334,215.37,554.1" style="stroke:#8B0000;stroke-width:4.0;"/><text fill="#8B0000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="40" x="337.5" y="606.957">Патчит</text><text fill="#8B0000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="57" x="329" y="622.0508">[Harmony]</text><!--MD5=[adc4c651fc6a08a6cc80280d0bc9c2fa]
+link et to nav--><path d="M424.77,697.77 C410.52,667.79 395.68,623.31 409,586 C412.19,577.07 417.16,568.47 422.83,560.61 " fill="none" id="et-to-nav" style="stroke:#8B0000;stroke-width:4.0;"/><polygon fill="#8B0000" points="427.73,554.18,420.4941,558.7234,425.2657,562.3609,427.73,554.18" style="stroke:#8B0000;stroke-width:4.0;"/><text fill="#8B0000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="40" x="418.5" y="606.957">Патчит</text><text fill="#8B0000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="57" x="410" y="622.0508">[Harmony]</text><!--MD5=[de4f0773209470fd3b21f0c90cfdd960]
+link nav to et--><!--MD5=[5428bf9ea620474874a73759b18f0160]
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+skinparam BackgroundColor transparent
+
+AddElementTag("replaced", $fontColor="DarkOrange")
+AddRelTag("replace", $textColor="DarkOrange", $lineColor="DarkOrange", $lineStyle = DashedLine())
+
+AddElementTag("patched", $fontColor="DarkRed")
+AddRelTag("patch", $textColor="Red", $lineColor="Red", $lineStyle = DashedLine())
+
+System(nw, "Neverwinter", "Клиент MMORPG\n'Neverwinter Online'")
+
+System_Boundary(bot, "Astral") {
+    Container(myNW, "MyNW.dll", "Доступ к памяти игры и инъекции кода")
+
+    myNW <<-up->> nw : "**Чтение и запись данных**\n//[Инъекции]//"
+
+    Boundary(exe, "Astral.exe") {
+        
+        Container(quester, "Quester", "Скриптовая подсистема")
+        quester <<-up->> myNW : "**'Взаимодействия'**\nОбмен командами и данными"
+
+        Container(ucc, "UCC", "Боевая подсистема")
+        ucc <<-up->> myNW : "**'Активация умений'**\nОбмен командами и данными"
+
+        Container(nav, "Navigation", "Навигационная подсистема")
+        nav <<-up->> myNW : "**'Перемещения'**\nОбмен командами и данными"
+
+        quester <<-right->> nav : "Обмен командами\nи данными"
+        nav <<-right->> ucc : "Обмен командами\nи данными"
+    }
+
+    Boundary(plugins, "Plugins") {
+        Container(et, "EntityTools.dll", "Плагин")
+        et -up->> ucc : "**Добавляет команды**\n**и условия**\n//[API]//"
+        et -[#DarkRed;thickness=4]->> ucc #text:DarkRed : "**Патчит**\n//[Harmony]//"
+        
+        et -up->> quester : "**Добавляет команды**\n**и условия**\n//[API]//"
+        et -[#DarkRed;thickness=4]->> quester #text:DarkRed : "**Патчит**\n//[Harmony]//"
+        
+        et -[#DarkRed;thickness=4]->> nav #text:DarkRed : "**Патчит**\n//[Harmony]//"
+    }
+
+    Lay_D(nav, et)
+}
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam shadowing<<legendArea>> false
+skinparam rectangle<<legendArea>> {
+    backgroundcolor #00000000
+    bordercolor #00000000
+}
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam actor {
+    StereotypeFontSize 12
+    shadowing false
+    style awesome
+}
+
+skinparam person {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam package {
+    StereotypeFontSize 6
+    StereotypeFontColor transparent
+    FontStyle plain
+    BackgroundColor transparent
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 6
+    StereotypeFontColor transparent
+    FontColor #444444
+    BorderColor #444444
+    BackgroundColor transparent
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam database<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam queue<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam actor<<person>> {
+    StereotypeFontColor #08427B
+    FontColor #08427B
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam person<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam database<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam actor<<external_person>> {
+    StereotypeFontColor #686868
+    FontColor #686868
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam person<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam queue<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam actor<<system>> {
+    StereotypeFontColor #1168BD
+    FontColor #1168BD
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam person<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam actor<<external_system>> {
+    StereotypeFontColor #999999
+    FontColor #999999
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam person<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+sprite $person2 [48x48/16] {
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000002578888300000000005888864100000000000
+0000000007DFFFFFFFFD9643347BFFFFFFFFFB4000000000
+00000004EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB10000000
+0000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD2000000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+00003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+0000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF50000
+0003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD0000
+0009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+0009FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFF2000
+0003FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFD0000
+0000BFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFF50000
+00003FFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFB00000
+000006FFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFE100000
+0000007FFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFD2000000
+00000004EFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFB10000000
+0000000007DF8FFFFFFFFFFFFFFFFFFFFFF8FB4000000000
+000000000002578888888888888888888864100000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam queue<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam actor<<container>> {
+    StereotypeFontColor #438DD5
+    FontColor #438DD5
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam person<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+skinparam rectangle<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam database<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam queue<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam actor<<external_container>> {
+    StereotypeFontColor #B3B3B3
+    FontColor #B3B3B3
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam person<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam BackgroundColor transparent
+
+skinparam rectangle<<replaced>> {
+    StereotypeFontColor DarkOrange
+    FontColor DarkOrange
+}
+skinparam database<<replaced>> {
+    StereotypeFontColor DarkOrange
+    FontColor DarkOrange
+}
+skinparam queue<<replaced>> {
+    StereotypeFontColor DarkOrange
+    FontColor DarkOrange
+}
+skinparam actor<<replaced>> {
+}
+skinparam person<<replaced>> {
+    StereotypeFontColor DarkOrange
+    FontColor DarkOrange
+}
+
+
+skinparam arrow<<replace>> {
+    Color DarkOrange;text:DarkOrange;line.dashed
+}
+
+
+skinparam rectangle<<patched>> {
+    StereotypeFontColor DarkRed
+    FontColor DarkRed
+}
+skinparam database<<patched>> {
+    StereotypeFontColor DarkRed
+    FontColor DarkRed
+}
+skinparam queue<<patched>> {
+    StereotypeFontColor DarkRed
+    FontColor DarkRed
+}
+skinparam actor<<patched>> {
+}
+skinparam person<<patched>> {
+    StereotypeFontColor DarkRed
+    FontColor DarkRed
+}
+
+
+skinparam arrow<<patch>> {
+    Color Red;text:Red;line.dashed
+}
+
+
+rectangle "==Neverwinter\n\n Клиент MMORPG\n'Neverwinter Online'" <<system>> as nw 
+
+rectangle "==Astral\n<size:12>[System]</size>" <<boundary>> as bot  {
+    rectangle "==MyNW.dll\n//<size:12>[Доступ к памяти игры и инъекции кода]</size>//" <<container>> as myNW 
+
+    myNW <<-up->> nw : "**Чтение и запись данных**\n//[Инъекции]//"
+
+    rectangle "==Astral.exe" <<boundary>> as exe  {
+        
+        rectangle "==Quester\n//<size:12>[Скриптовая подсистема]</size>//" <<container>> as quester 
+        quester <<-up->> myNW : "**'Взаимодействия'**\nОбмен командами и данными"
+
+        rectangle "==UCC\n//<size:12>[Боевая подсистема]</size>//" <<container>> as ucc 
+        ucc <<-up->> myNW : "**'Активация умений'**\nОбмен командами и данными"
+
+        rectangle "==Navigation\n//<size:12>[Навигационная подсистема]</size>//" <<container>> as nav 
+        nav <<-up->> myNW : "**'Перемещения'**\nОбмен командами и данными"
+
+        quester <<-right->> nav : "Обмен командами\nи данными"
+        nav <<-right->> ucc : "Обмен командами\nи данными"
+    }
+
+    rectangle "==Plugins" <<boundary>> as plugins  {
+        rectangle "==EntityTools.dll\n//<size:12>[Плагин]</size>//" <<container>> as et 
+        et -up->> ucc : "**Добавляет команды**\n**и условия**\n//[API]//"
+        et -[#DarkRed;thickness=4]->> ucc #text:DarkRed : "**Патчит**\n//[Harmony]//"
+        
+        et -up->> quester : "**Добавляет команды**\n**и условия**\n//[API]//"
+        et -[#DarkRed;thickness=4]->> quester #text:DarkRed : "**Патчит**\n//[Harmony]//"
+        
+        et -[#DarkRed;thickness=4]->> nav #text:DarkRed : "**Патчит**\n//[Harmony]//"
+    }
+
+    nav -[hidden]D- et
+}
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

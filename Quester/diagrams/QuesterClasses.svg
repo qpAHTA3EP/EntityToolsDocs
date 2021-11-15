@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="590.625px" preserveAspectRatio="none" style="width:880px;height:590px;background:#00000000;" version="1.1" viewBox="0 0 880 590" width="880.2083px" zoomAndPan="magnify"><defs><linearGradient id="gylvo58eb8sv40" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#59B6EC"/><stop offset="100%" stop-color="#2FA4E7"/></linearGradient><linearGradient id="gylvo58eb8sv41" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#2FA4E7"/><stop offset="100%" stop-color="#2683B9"/></linearGradient><linearGradient id="gylvo58eb8sv42" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#35638F"/><stop offset="100%" stop-color="#033C73"/></linearGradient></defs><g><!--MD5=[202f333e6d0b65bc11207b1312ee9cc4]
+cluster Astral--><rect height="577.0833" rx="4.1667" ry="4.1667" style="stroke:#59B6EC;stroke-width:2.0833333333333335;fill:none;" width="866.6667" x="7.2917" y="7.2917"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="420.3125" y="27.1505">Astral</text><!--MD5=[dfda2b6e5fa0fa2beb359c84e8826d99]
+cluster Quester--><rect height="302.0833" rx="4.1667" ry="4.1667" style="stroke:#59B6EC;stroke-width:2.0833333333333335;fill:none;" width="816.6667" x="32.2917" y="60.4167"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="55.2083" x="413.0208" y="80.2755">Quester</text><!--MD5=[09da66281a84c9bc991ae2049fcdf5fb]
+cluster EntityTools--><rect height="162.5" rx="4.1667" ry="4.1667" style="stroke:#59B6EC;stroke-width:2.0833333333333335;fill:none;" width="346.875" x="482.2917" y="396.875"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="76.0417" x="617.7083" y="416.7338">EntityTools</text><!--MD5=[7b57f7066b803747d2119f99dd1555d4]
+class Profile--><rect codeLine="15" fill="url(#gylvo58eb8sv40)" height="101.3763" id="Profile" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="250" x="48.9583" y="232.2917"/><rect fill="url(#gylvo58eb8sv41)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#gylvo58eb8sv41);stroke-width:1.0416666666666667;" width="250" x="48.9583" y="232.2917"/><rect fill="url(#gylvo58eb8sv41)" height="4.1667" style="stroke:url(#gylvo58eb8sv41);stroke-width:1.0416666666666667;" width="250" x="48.9583" y="264.15"/><rect codeLine="15" fill="none" height="101.3763" id="Profile" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="250" x="48.9583" y="232.2917"/><ellipse cx="144.2708" cy="250.3042" fill="#EDF0F2" rx="10.4167" ry="10.4167" style="stroke:#BABDBF;stroke-width:1.0416666666666667;"/><path d="M145.8171,247.3907 Q145.931,247.228 146.0693,247.1466 Q146.2077,247.0652 146.3704,247.0652 Q146.6471,247.0652 146.818,247.2605 Q146.9889,247.4559 146.9889,247.8953 L146.9889,248.9695 Q146.9889,249.409 146.818,249.6043 Q146.6471,249.7996 146.3704,249.7996 Q146.11,249.7996 145.9635,249.6531 Q145.8171,249.5229 145.7357,249.1323 Q145.7031,248.8719 145.5729,248.7417 Q145.3125,248.465 144.8649,248.3022 Q144.4173,248.1394 143.9616,248.1394 Q143.4082,248.1394 142.9362,248.3836 Q142.4642,248.6277 142.1061,249.173 Q141.748,249.7182 141.748,250.4832 L141.748,251.297 Q141.748,252.1922 142.4072,252.7944 Q143.0664,253.3966 144.222,253.3966 Q144.9219,253.3966 145.4102,253.2176 Q145.6868,253.1036 145.9961,252.7781 Q146.1914,252.5828 146.3053,252.5258 Q146.4193,252.4689 146.5495,252.4689 Q146.8099,252.4689 146.9971,252.656 Q147.1842,252.8432 147.1842,253.1036 Q147.1842,253.3641 146.9238,253.657 Q146.5495,254.0802 145.9635,254.3243 Q145.1823,254.6499 144.2383,254.6499 Q143.1152,254.6499 142.2363,254.1941 Q141.5039,253.8361 140.9993,253.0385 Q140.4948,252.241 140.4948,251.3133 L140.4948,250.4669 Q140.4948,249.4904 140.9505,248.644 Q141.4063,247.7976 142.2119,247.3419 Q143.0176,246.8862 143.9128,246.8862 Q144.4661,246.8862 144.9382,247.0083 Q145.4102,247.1303 145.8171,247.3907 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="169.2708" y="255.2755">Profile</text><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="50" x2="297.9167" y1="268.3167" y2="268.3167"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="227.0833" x="60.4167" y="289.2115">MainActionPack.Actions : List&lt;Action&gt;</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="50" x2="297.9167" y1="300.9923" y2="300.9923"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="119.7917" x="60.4167" y="321.8872">Run() : ActionResult</text><path d="M98.9583,116.6667 L98.9583,144.3583 A4.1667,4.1667 0 0 0 103.125,148.525 L169.7917,148.525 L173.9583,232.125 L178.125,148.525 L244.7917,148.525 A4.1667,4.1667 0 0 0 248.9583,144.3583 L248.9583,122.9167 L238.5417,112.5 L103.125,112.5 A4.1667,4.1667 0 0 0 98.9583,116.6667 " fill="url(#gylvo58eb8sv42)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><path d="M238.5417,112.5 L238.5417,120.8333 A2.0833,2.0833 0 0 0 240.625,122.9167 L248.9583,122.9167 L238.5417,112.5 " fill="url(#gylvo58eb8sv42)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="117.7083" x="110.4167" y="135.4838">Quester-профиль</text><!--MD5=[f8e7078f77c005d15b486c0c98deb1e6]
+class Action--><rect codeLine="22" fill="url(#gylvo58eb8sv40)" height="125.7187" id="Action" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="193.75" x="417.7083" y="219.7917"/><rect fill="url(#gylvo58eb8sv41)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#gylvo58eb8sv41);stroke-width:1.0416666666666667;" width="193.75" x="417.7083" y="219.7917"/><rect fill="url(#gylvo58eb8sv41)" height="4.1667" style="stroke:url(#gylvo58eb8sv41);stroke-width:1.0416666666666667;" width="193.75" x="417.7083" y="251.65"/><rect codeLine="22" fill="none" height="125.7187" id="Action" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="193.75" x="417.7083" y="219.7917"/><ellipse cx="485.9375" cy="237.8042" fill="#8FB961" rx="10.4167" ry="10.4167" style="stroke:#5C862E;stroke-width:1.0416666666666667;"/><path d="M487.5651,239.9526 L484.5378,239.9526 L484.2285,240.7176 L484.5378,240.7176 Q484.9772,240.7176 485.1725,240.8885 Q485.3678,241.0594 485.3678,241.3523 Q485.3678,241.629 485.1725,241.7999 Q484.9772,241.9708 484.5378,241.9708 L482.8451,241.9708 Q482.3893,241.9708 482.2021,241.7999 Q482.015,241.629 482.015,241.3361 Q482.015,241.0594 482.2184,240.8803 Q482.4219,240.7013 482.8776,240.7176 L484.847,235.8185 L484.0332,235.8185 Q483.5775,235.8185 483.3822,235.6476 Q483.1868,235.4767 483.1868,235.2 Q483.1868,234.907 483.3822,234.7361 Q483.5775,234.5652 484.0332,234.5652 L486.735,234.5652 L489.2253,240.7176 Q489.6647,240.7176 489.7949,240.8152 Q490.0879,241.0105 490.0879,241.3523 Q490.0879,241.629 489.8926,241.7999 Q489.6973,241.9708 489.2578,241.9708 L487.5651,241.9708 Q487.1094,241.9708 486.9222,241.7999 Q486.735,241.629 486.735,241.3361 Q486.735,241.0594 486.9222,240.8885 Q487.1094,240.7176 487.5651,240.7176 L487.8743,240.7176 L487.5651,239.9526 Z M487.0605,238.6993 L486.0514,236.2254 L485.026,238.6993 L487.0605,238.6993 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="38.5417" x="510.9375" y="242.7755">Action</text><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="418.75" x2="610.4167" y1="255.8167" y2="255.8167"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="106.25" x="429.1667" y="276.7115">NeedToRun : bool</text><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="170.8333" x="429.1667" y="301.0539">Conditions : List&lt;Condition&gt;</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="418.75" x2="610.4167" y1="312.8347" y2="312.8347"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="119.7917" x="429.1667" y="333.7296">Run() : ActionResult</text><path d="M429.1667,109.375 L429.1667,152.2583 A4.1667,4.1667 0 0 0 433.3333,156.425 L510.4167,156.425 L514.5833,219.7396 L518.75,156.425 L595.8333,156.425 A4.1667,4.1667 0 0 0 600,152.2583 L600,115.625 L589.5833,105.2083 L433.3333,105.2083 A4.1667,4.1667 0 0 0 429.1667,109.375 " fill="url(#gylvo58eb8sv42)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><path d="M589.5833,105.2083 L589.5833,113.5417 A2.0833,2.0833 0 0 0 591.6667,115.625 L600,115.625 L589.5833,105.2083 " fill="url(#gylvo58eb8sv42)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="122.9167" x="440.625" y="128.1921">Базовый класс для</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="138.5417" x="440.625" y="143.3838">всех quester-команд</text><!--MD5=[a030fa97ffb865708cae79f6847e8968]
+class Condition--><rect codeLine="31" fill="url(#gylvo58eb8sv40)" height="77.034" id="Condition" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="102.0833" x="730.2083" y="244.2708"/><rect fill="url(#gylvo58eb8sv41)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#gylvo58eb8sv41);stroke-width:1.0416666666666667;" width="102.0833" x="730.2083" y="244.2708"/><rect fill="url(#gylvo58eb8sv41)" height="4.1667" style="stroke:url(#gylvo58eb8sv41);stroke-width:1.0416666666666667;" width="102.0833" x="730.2083" y="276.1292"/><rect codeLine="31" fill="none" height="77.034" id="Condition" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="102.0833" x="730.2083" y="244.2708"/><ellipse cx="745.7292" cy="262.2833" fill="#8FB961" rx="10.4167" ry="10.4167" style="stroke:#5C862E;stroke-width:1.0416666666666667;"/><path d="M747.3568,264.4318 L744.3294,264.4318 L744.0202,265.1967 L744.3294,265.1967 Q744.7689,265.1967 744.9642,265.3676 Q745.1595,265.5385 745.1595,265.8315 Q745.1595,266.1082 744.9642,266.2791 Q744.7689,266.45 744.3294,266.45 L742.6367,266.45 Q742.181,266.45 741.9938,266.2791 Q741.8066,266.1082 741.8066,265.8152 Q741.8066,265.5385 742.0101,265.3595 Q742.2135,265.1805 742.6693,265.1967 L744.6387,260.2976 L743.8249,260.2976 Q743.3691,260.2976 743.1738,260.1267 Q742.9785,259.9559 742.9785,259.6792 Q742.9785,259.3862 743.1738,259.2153 Q743.3691,259.0444 743.8249,259.0444 L746.5267,259.0444 L749.0169,265.1967 Q749.4564,265.1967 749.5866,265.2944 Q749.8796,265.4897 749.8796,265.8315 Q749.8796,266.1082 749.6842,266.2791 Q749.4889,266.45 749.0495,266.45 L747.3568,266.45 Q746.901,266.45 746.7139,266.2791 Q746.5267,266.1082 746.5267,265.8152 Q746.5267,265.5385 746.7139,265.3676 Q746.901,265.1967 747.3568,265.1967 L747.666,265.1967 L747.3568,264.4318 Z M746.8522,263.1785 L745.8431,260.7045 L744.8177,263.1785 L746.8522,263.1785 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="58.3333" x="764.6875" y="267.2546">Condition</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="731.25" x2="831.25" y1="280.2958" y2="280.2958"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="79.1667" x="741.6667" y="301.1907">IsValid : bool</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="731.25" x2="831.25" y1="312.9715" y2="312.9715"/><path d="M657.2917,109.375 L657.2917,152.2583 A4.1667,4.1667 0 0 0 661.4583,156.425 L746.6458,156.425 L772.0729,244.0208 L754.9792,156.425 L828.125,156.425 A4.1667,4.1667 0 0 0 832.2917,152.2583 L832.2917,115.625 L821.875,105.2083 L661.4583,105.2083 A4.1667,4.1667 0 0 0 657.2917,109.375 " fill="url(#gylvo58eb8sv42)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><path d="M821.875,105.2083 L821.875,113.5417 A2.0833,2.0833 0 0 0 823.9583,115.625 L832.2917,115.625 L821.875,105.2083 " fill="url(#gylvo58eb8sv42)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="122.9167" x="668.75" y="128.1921">Базовый класс для</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="668.75" y="143.3838">всех quester-условий</text><!--MD5=[e03b03f843bcb3e6a771ba2bdff5e533]
+class NewAction--><rect codeLine="42" fill="url(#gylvo58eb8sv40)" height="101.3763" id="NewAction" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="142.7083" x="499.4792" y="441.6667"/><rect fill="url(#gylvo58eb8sv41)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#gylvo58eb8sv41);stroke-width:1.0416666666666667;" width="142.7083" x="499.4792" y="441.6667"/><rect fill="url(#gylvo58eb8sv41)" height="4.1667" style="stroke:url(#gylvo58eb8sv41);stroke-width:1.0416666666666667;" width="142.7083" x="499.4792" y="473.525"/><rect codeLine="42" fill="none" height="101.3763" id="NewAction" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="142.7083" x="499.4792" y="441.6667"/><ellipse cx="528.5938" cy="459.6792" fill="#EDF0F2" rx="10.4167" ry="10.4167" style="stroke:#BABDBF;stroke-width:1.0416666666666667;"/><path d="M530.14,456.7657 Q530.2539,456.603 530.3923,456.5216 Q530.5306,456.4402 530.6934,456.4402 Q530.9701,456.4402 531.141,456.6355 Q531.3118,456.8309 531.3118,457.2703 L531.3118,458.3445 Q531.3118,458.784 531.141,458.9793 Q530.9701,459.1746 530.6934,459.1746 Q530.4329,459.1746 530.2865,459.0281 Q530.14,458.8979 530.0586,458.5073 Q530.026,458.2469 529.8958,458.1167 Q529.6354,457.84 529.1878,457.6772 Q528.7402,457.5144 528.2845,457.5144 Q527.7311,457.5144 527.2591,457.7586 Q526.7871,458.0027 526.429,458.548 Q526.071,459.0932 526.071,459.8582 L526.071,460.672 Q526.071,461.5672 526.7301,462.1694 Q527.3893,462.7716 528.5449,462.7716 Q529.2448,462.7716 529.7331,462.5926 Q530.0098,462.4786 530.319,462.1531 Q530.5143,461.9578 530.6283,461.9008 Q530.7422,461.8439 530.8724,461.8439 Q531.1328,461.8439 531.32,462.031 Q531.5072,462.2182 531.5072,462.4786 Q531.5072,462.7391 531.2467,463.032 Q530.8724,463.4552 530.2865,463.6993 Q529.5052,464.0249 528.5612,464.0249 Q527.4382,464.0249 526.5592,463.5691 Q525.8268,463.2111 525.3223,462.4135 Q524.8177,461.616 524.8177,460.6883 L524.8177,459.8419 Q524.8177,458.8654 525.2734,458.019 Q525.7292,457.1726 526.5348,456.7169 Q527.3405,456.2612 528.2357,456.2612 Q528.7891,456.2612 529.2611,456.3833 Q529.7331,456.5053 530.14,456.7657 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="68.75" x="550.5729" y="464.6505">NewAction</text><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="500.5208" x2="641.1458" y1="477.6917" y2="477.6917"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="106.25" x="510.9375" y="498.5865">NeedToRun : bool</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="500.5208" x2="641.1458" y1="510.3673" y2="510.3673"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="119.7917" x="510.9375" y="531.2622">Run() : ActionResult</text><!--MD5=[c8301784b8790305260cea7d6583b1f2]
+class NewCondition--><rect codeLine="49" fill="url(#gylvo58eb8sv40)" height="77.034" id="NewCondition" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="133.3333" x="679.1667" y="453.6458"/><rect fill="url(#gylvo58eb8sv41)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#gylvo58eb8sv41);stroke-width:1.0416666666666667;" width="133.3333" x="679.1667" y="453.6458"/><rect fill="url(#gylvo58eb8sv41)" height="4.1667" style="stroke:url(#gylvo58eb8sv41);stroke-width:1.0416666666666667;" width="133.3333" x="679.1667" y="485.5042"/><rect codeLine="49" fill="none" height="77.034" id="NewCondition" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="133.3333" x="679.1667" y="453.6458"/><ellipse cx="693.75" cy="471.6583" fill="#EDF0F2" rx="10.4167" ry="10.4167" style="stroke:#BABDBF;stroke-width:1.0416666666666667;"/><path d="M695.2962,468.7449 Q695.4102,468.5822 695.5485,468.5008 Q695.6868,468.4194 695.8496,468.4194 Q696.1263,468.4194 696.2972,468.6147 Q696.4681,468.81 696.4681,469.2495 L696.4681,470.3237 Q696.4681,470.7631 696.2972,470.9585 Q696.1263,471.1538 695.8496,471.1538 Q695.5892,471.1538 695.4427,471.0073 Q695.2962,470.8771 695.2148,470.4865 Q695.1823,470.226 695.0521,470.0958 Q694.7917,469.8191 694.3441,469.6564 Q693.8965,469.4936 693.4408,469.4936 Q692.8874,469.4936 692.4154,469.7378 Q691.9434,469.9819 691.5853,470.5271 Q691.2272,471.0724 691.2272,471.8374 L691.2272,472.6512 Q691.2272,473.5463 691.8864,474.1486 Q692.5456,474.7508 693.7012,474.7508 Q694.401,474.7508 694.8893,474.5717 Q695.166,474.4578 695.4753,474.1323 Q695.6706,473.937 695.7845,473.88 Q695.8984,473.823 696.0286,473.823 Q696.2891,473.823 696.4762,474.0102 Q696.6634,474.1974 696.6634,474.4578 Q696.6634,474.7182 696.403,475.0112 Q696.0286,475.4344 695.4427,475.6785 Q694.6615,476.004 693.7174,476.004 Q692.5944,476.004 691.7155,475.5483 Q690.9831,475.1902 690.4785,474.3927 Q689.974,473.5952 689.974,472.6674 L689.974,471.8211 Q689.974,470.8445 690.4297,469.9982 Q690.8854,469.1518 691.6911,468.6961 Q692.4967,468.2404 693.3919,468.2404 Q693.9453,468.2404 694.4173,468.3624 Q694.8893,468.4845 695.2962,468.7449 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="91.6667" x="712.5" y="476.6296">NewCondition</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="680.2083" x2="811.4583" y1="489.6708" y2="489.6708"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="79.1667" x="690.625" y="510.5657">IsValid : bool</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="680.2083" x2="811.4583" y1="522.3465" y2="522.3465"/><!--MD5=[6679cb0ad6a252019eeb59dd9cb7b9fe]
+reverse link Profile to Action--><path codeLine="29" d="M313.1771,282.8125 C348.1771,282.8125 385,282.8125 417.4375,282.8125 " fill="none" id="Profile-backto-Action" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon points="299.3438,282.8125,305.5938,286.9792,311.8438,282.8125,305.5938,278.6458,299.3438,282.8125" style="stroke:#2FA4E7;stroke-width:3.125;fill:none;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="69.7917" x="323.4375" y="255.7963">Содержит</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="44.7917" x="335.9375" y="270.988">список</text><!--MD5=[7f7bb156d54a6ec72371f7ab00eb01b2]
+reverse link Action to Condition--><path codeLine="37" d="M625.3854,282.8125 C661.6771,282.8125 700.2604,282.8125 729.9583,282.8125 " fill="none" id="Action-backto-Condition" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon points="611.6146,282.8125,617.8646,286.9792,624.1146,282.8125,617.8646,278.6458,611.6146,282.8125" style="stroke:#2FA4E7;stroke-width:3.125;fill:none;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="69.7917" x="635.9375" y="255.7963">Содержит</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="44.7917" x="648.4375" y="270.988">список</text><!--MD5=[626fe4a83f6ad6b66720ae4dab6cffd5]
+reverse link Action to NewAction--><path codeLine="47" d="M536.9792,366.3854 C543.875,391.8125 551.2604,419.0104 557.3646,441.4896 " fill="none" id="Action-backto-NewAction" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="none" points="529.875,368.0625,531.4583,346.0521,543.9583,364.25,529.875,368.0625" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[b8b3f27c08e821599a50d432bc76c51e]
+reverse link Condition to NewCondition--><path codeLine="52" d="M771.2708,342.25 C765.1771,377.9271 757.5625,422.5 752.2604,453.5417 " fill="none" id="Condition-backto-NewCondition" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="none" points="764.1354,340.6979,774.8333,321.3958,778.5104,343.1563,764.1354,340.6979" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[7a68578e68c6d20343faaba9a0044085]
+@startuml
+
+' 4
+!theme cerulean
+' 4
+'!theme cerulean-outline
+' 3
+'!theme cyborg-outline
+' 2
+'!theme spacelab
+
+'skinparam BackgroundColor white
+
+rectangle "Astral"{
+    rectangle "Quester"{
+        class Profile {
+            MainActionPack.Actions : List<Action>
+            - - -
+            Run() : ActionResult        
+        }
+        note top of Profile : Quester-профиль
+
+        abstract class Action{
+            NeedToRun : bool
+            Conditions : List<Condition>
+            - -
+            Run() : ActionResult
+        }
+        note top of Action : Базовый класс для\nвсех quester-команд
+        Profile o-right- Action : Содержит\nсписок
+        
+        abstract class Condition{
+            IsValid : bool
+        }
+        note top of Condition : Базовый класс для\nвсех quester-условий
+        
+        'Action::Conditions o-right- Condition
+        Action o-right- Condition : Содержит\nсписок
+    }
+    'NewAction <-[hidden]- NewCondition
+
+    rectangle "EntityTools"{
+        class NewAction{
+            NeedToRun : bool
+            - - -
+            Run() : ActionResult
+        }
+        Action <|- - NewAction
+
+        class NewCondition{
+            IsValid : bool 
+        }
+        Condition <|- NewCondition
+        'NewAction <-[hidden]- NewCondition
+    }
+}
+@enduml
+
+@startuml
+
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            8
+skinparam ParticipantPadding     40
+skinparam BoxPadding             40
+skinparam Padding                5
+skinparam ArrowColor             #868E96
+skinparam stereotype {
+    CBackgroundColor #EDF0F2
+    CBorderColor #BABDBF
+    ABackgroundColor #8FB961
+    ABorderColor #5C862E
+    IBackgroundColor #D2494E
+    IBorderColor #9F161B
+    EBackgroundColor #E47833
+    EBorderColor #B14500
+    NBackgroundColor #35638F
+    NBorderColor #02305C
+}
+skinparam title {
+	FontColor	                 #2FA4E7
+	BorderColor	                 #BABDBF
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #EDF0F2-#E9ECEF
+}
+
+
+skinparam legend {
+	BackgroundColor #E9ECEF
+	BorderColor #BABDBF
+	FontColor #343A40
+}
+
+skinparam swimlane {
+	BorderColor #033C73
+	BorderThickness 2
+	TitleBackgroundColor  #EDF0F2-#E9ECEF
+	TitleFontColor #2FA4E7
+}
+
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	BarColor #73A839
+	StartColor #033C73
+	EndColor #033C73
+	DiamondBackgroundColor #FFF-#EDF0F2
+  	DiamondBorderColor #BABDBF
+	DiamondFontColor #343A40
+}
+
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam sequence {
+	BorderColor #2FA4E7
+	TitleFontColor #2FA4E7
+	BackgroundColor transparent
+	StartColor #2FA4E7
+	EndColor #2FA4E7
+	BoxBackgroundColor #F8F9FA
+	BoxBorderColor #868E96
+	BoxFontColor #343A40
+	LifeLineBorderColor #BABDBF
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #EDF0F2
+	GroupBorderColor #868E96
+	GroupFontColor #343A40
+	GroupHeaderFontColor #033C73
+	DividerBackgroundColor #FFF-#F8F9FA
+    DividerBorderColor #868E96
+    DividerBorderThickness 2
+    DividerFontColor #343A40
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #868E96
+	ReferenceFontColor #343A40
+	ReferenceHeaderFontColor #033C73
+}
+
+
+skinparam partition {
+	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+}
+
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #35638F-#033C73
+	BorderColor #033C73
+	FontColor #FFF
+}
+
+
+skinparam artifact {
+	BackgroundColor #FFF-#F8F9FA
+	BorderColor #BABDBF
+	FontColor #343A40
+}
+
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+}
+
+
+skinparam interface {
+	BackgroundColor  #D2494E
+	BorderColor  #C71C22
+	FontColor #343A40
+}
+
+
+skinparam storage {
+	BackgroundColor #E47833-#DD5600
+  	BorderColor #DD5600
+	FontColor #FFF
+}
+
+
+skinparam node {
+	BackgroundColor #EDF0F2-#E9ECEF
+	BorderColor #E9ECEF
+	FontColor #343A40
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #2FA4E7
+}
+
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	HeaderBackgroundColor #2FA4E7-#2683B9
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #F8F9FA
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #343A40
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam rectangle {
+	FontColor #2FA4E7
+	BorderColor #59B6EC
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam package {
+	FontColor #2FA4E7
+	BorderColor #59B6EC
+	BackgroundColor transparent
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #FFF-#EDF0F2
+  	BorderColor #DD5600
+	FontColor #DD5600
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #FFF-#EDF0F2
+  	BorderColor #033C73
+	FontColor #033C73
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	BorderColor #2683B9
+	StartColor #033C73
+	EndColor #033C73
+	AttributeFontColor #343A40
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+}
+
+
+skinparam card {
+	BackgroundColor #35638F-#033C73
+	BorderColor #033C73
+	FontColor #FFF
+}
+
+
+skinparam file {
+	BackgroundColor #EDF0F2-#E9ECEF
+	BorderColor #033C73
+	FontColor #868E96
+
+}
+
+
+
+
+rectangle "Astral"{
+    rectangle "Quester"{
+        class Profile {
+            MainActionPack.Actions : List<Action>
+            - - -
+            Run() : ActionResult        
+        }
+        note top of Profile : Quester-профиль
+
+        abstract class Action{
+            NeedToRun : bool
+            Conditions : List<Condition>
+            - -
+            Run() : ActionResult
+        }
+        note top of Action : Базовый класс для\nвсех quester-команд
+        Profile o-right- Action : Содержит\nсписок
+        
+        abstract class Condition{
+            IsValid : bool
+        }
+        note top of Condition : Базовый класс для\nвсех quester-условий
+        
+        Action o-right- Condition : Содержит\nсписок
+    }
+
+    rectangle "EntityTools"{
+        class NewAction{
+            NeedToRun : bool
+            - - -
+            Run() : ActionResult
+        }
+        Action <|- - NewAction
+
+        class NewCondition{
+            IsValid : bool 
+        }
+        Condition <|- NewCondition
+    }
+}
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

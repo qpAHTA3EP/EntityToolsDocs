@@ -28,14 +28,9 @@
 
 ---
 
-# **Завершение команды**
-
-Принудительное завершение команды возможно одним из [перечисленных в статье способов](./../../General/ForcedQuesterActionTermination-RU.md).
-
----
-
 # **Блок-схема**
-![Блок-схема](diagrams/название_команды-RU.png)
+<p align="center"><img src="diagrams/SpecializedUCCAction-RU.svg"></p>
+
 ---
 
 # **Аналоги**

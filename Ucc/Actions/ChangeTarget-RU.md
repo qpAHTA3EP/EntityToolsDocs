@@ -33,7 +33,7 @@
 ---
 
 # **Блок-схема**
-![Блок-схема](diagrams/ChangeTarget_complete-RU.png)
+<p align="center"><img src="diagrams/ChangeTarget_complete-RU.svg"></p>
 
 ---
 

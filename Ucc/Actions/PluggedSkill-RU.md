@@ -34,7 +34,7 @@
 ---
 
 # **Блок-схема**
-![Блок-схема](diagrams/PluggedSkill-RU.png)
+<p align="center"><img src="diagrams/PluggedSkill-RU.svg"></p>
 
 ---
 

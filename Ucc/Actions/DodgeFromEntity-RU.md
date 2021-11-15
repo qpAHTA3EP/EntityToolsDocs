@@ -33,7 +33,7 @@
 ---
 
 # **Блок-схема**
-![Блок-схема](diagrams/DodgeFromEntity-RU.png)
+<p align="center"><img src="diagrams/DodgeFromEntity-RU.svg"></p>
 
 ---
 

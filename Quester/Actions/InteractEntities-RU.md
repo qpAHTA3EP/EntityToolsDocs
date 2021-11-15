@@ -69,7 +69,7 @@
 
 # **Блок-схема**
 
-<p align="center"><img src="diagrams/InteractEntities.png"></p>
+<p align="center"><img src="diagrams/InteractEntities.svg"></p>
 
 ---
 

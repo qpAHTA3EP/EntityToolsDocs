@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="320.8333px" preserveAspectRatio="none" style="width:355px;height:320px;background:#00000000;" version="1.1" viewBox="0 0 355 320" width="355.2083px" zoomAndPan="magnify"><defs><linearGradient id="g1t17i6qhqq5xq0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient><linearGradient id="g1t17i6qhqq5xq1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient></defs><g><ellipse cx="242.1875" cy="20.8333" fill="#3399F3" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect fill="url(#g1t17i6qhqq5xq0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="112.5" x="185.9375" y="52.0833"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="191.1458" x2="191.1458" y1="52.0833" y2="98.525"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="293.2292" x2="293.2292" y1="52.0833" y2="98.525"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="81.25" x="201.5625" y="80.2755">Поиск Entity</text><polygon fill="url(#g1t17i6qhqq5xq1)" points="183.3333,119.3583,301.0417,119.3583,313.5417,132.1625,301.0417,144.9666,183.3333,144.9666,170.8333,132.1625,183.3333,119.3583" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="107.2917" x="188.5417" y="137.1338">Entity найдена?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="148.9583" y="124.3296">да</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="318.75" y="124.3296">нет</text><polygon fill="url(#g1t17i6qhqq5xq1)" points="82.8125,155.3833,238.0208,155.3833,250.5208,175.7833,238.0208,196.1833,82.8125,196.1833,70.3125,175.7833,82.8125,155.3833" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="139.5833" x="90.625" y="173.1588">Расстояние до Entity</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="144.7917" x="88.0208" y="188.3504">меньше EntityRadius?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="48.4375" y="167.9504">да</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="255.7292" y="167.9504">нет</text><rect fill="url(#g1t17i6qhqq5xq0)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="96.875" x="11.4583" y="206.5999"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="16.6667" x2="16.6667" y1="206.5999" y2="268.2332"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="103.125" x2="103.125" y1="206.5999" y2="268.2332"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="65.625" x="27.0833" y="234.7921">Удаление</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="57.2917" x="31.25" y="249.9837">от Entity</text><ellipse cx="59.8958" cy="299.4832" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="53.4508" x2="66.3408" y1="293.0383" y2="305.9282"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="66.3408" x2="53.4508" y1="293.0383" y2="305.9282"/><ellipse cx="260.9375" cy="217.0166" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="254.4925" x2="267.3825" y1="210.5716" y2="223.4616"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="267.3825" x2="254.4925" y1="210.5716" y2="223.4616"/><ellipse cx="323.9583" cy="165.8" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="317.5133" x2="330.4033" y1="159.355" y2="172.245"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="330.4033" x2="317.5133" y1="159.355" y2="172.245"/><line style="stroke:#446E9B;stroke-width:1.5625;fill:none;" x1="242.1875" x2="242.1875" y1="31.25" y2="52.0833"/><polygon fill="#446E9B" points="238.0208,41.6667,242.1875,52.0833,246.3542,41.6667,242.1875,45.8333" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="59.8958" x2="59.8958" y1="268.2332" y2="289.0666"/><polygon fill="#446E9B" points="55.7292,278.6499,59.8958,289.0666,64.0625,278.6499,59.8958,282.8166" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="70.3125" x2="59.8958" y1="175.7833" y2="175.7833"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="59.8958" x2="59.8958" y1="175.7833" y2="206.5999"/><polygon fill="#446E9B" points="55.7292,196.1833,59.8958,206.5999,64.0625,196.1833,59.8958,200.3499" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="250.5208" x2="260.9375" y1="175.7833" y2="175.7833"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="260.9375" x2="260.9375" y1="175.7833" y2="206.5999"/><polygon fill="#446E9B" points="256.7708,196.1833,260.9375,206.5999,265.1042,196.1833,260.9375,200.3499" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="170.8333" x2="160.4167" y1="132.1625" y2="132.1625"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="160.4167" x2="160.4167" y1="132.1625" y2="155.3833"/><polygon fill="#446E9B" points="156.25,144.9666,160.4167,155.3833,164.5833,144.9666,160.4167,149.1333" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="313.5417" x2="323.9583" y1="132.1625" y2="132.1625"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="323.9583" x2="323.9583" y1="132.1625" y2="155.3833"/><polygon fill="#446E9B" points="319.7917,144.9666,323.9583,155.3833,328.125,144.9666,323.9583,149.1333" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="242.1875" x2="242.1875" y1="98.525" y2="119.3583"/><polygon fill="#446E9B" points="238.0208,108.9417,242.1875,119.3583,246.3542,108.9417,242.1875,113.1083" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><!--MD5=[a7affdf9372bca953337b8f47d65d73a]
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+skinparam ConditionEndStyle hline
+
+start
+:Поиск Entity|
+if (Entity найдена?) then (<color:black>да) 
+    if(Расстояние до Entity\nменьше EntityRadius?) then (<color:black>да)
+        :Удаление\nот Entity|
+        end
+    else (<color:black>нет) 
+        end
+    endif
+else (<color:black>нет)
+    end
+endif
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor $DARk
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam DefaultTextAlignment center
+skinparam ConditionEndStyle hline
+
+start
+:Поиск Entity|
+if (Entity найдена?) then (<color:black>да) 
+    if(Расстояние до Entity\nменьше EntityRadius?) then (<color:black>да)
+        :Удаление\nот Entity|
+        end
+    else (<color:black>нет) 
+        end
+    endif
+else (<color:black>нет)
+    end
+endif
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

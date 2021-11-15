@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="590.625px" preserveAspectRatio="none" style="width:888px;height:590px;background:#00000000;" version="1.1" viewBox="0 0 888 590" width="888.5417px" zoomAndPan="magnify"><defs><linearGradient id="g1mdsoxnjs5bg30" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#59B6EC"/><stop offset="100%" stop-color="#2FA4E7"/></linearGradient><linearGradient id="g1mdsoxnjs5bg31" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#2FA4E7"/><stop offset="100%" stop-color="#2683B9"/></linearGradient><linearGradient id="g1mdsoxnjs5bg32" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#35638F"/><stop offset="100%" stop-color="#033C73"/></linearGradient></defs><g><!--MD5=[202f333e6d0b65bc11207b1312ee9cc4]
+cluster Astral--><rect height="577.0833" rx="4.1667" ry="4.1667" style="stroke:#59B6EC;stroke-width:2.0833333333333335;fill:none;" width="875" x="7.2917" y="7.2917"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="424.4792" y="27.1505">Astral</text><!--MD5=[37f49dbb0b0823173e0b6ac84260dd49]
+cluster UCC--><rect height="302.0833" rx="4.1667" ry="4.1667" style="stroke:#59B6EC;stroke-width:2.0833333333333335;fill:none;" width="825" x="32.2917" y="60.4167"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="29.1667" x="430.2083" y="80.2755">UCC</text><!--MD5=[09da66281a84c9bc991ae2049fcdf5fb]
+cluster EntityTools--><rect height="162.5" rx="4.1667" ry="4.1667" style="stroke:#59B6EC;stroke-width:2.0833333333333335;fill:none;" width="358.3333" x="472.9167" y="396.875"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="76.0417" x="614.0625" y="416.7338">EntityTools</text><!--MD5=[7b57f7066b803747d2119f99dd1555d4]
+class Profile--><rect codeLine="15" fill="url(#g1mdsoxnjs5bg30)" height="101.3763" id="Profile" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="201.0417" x="49.4792" y="232.2917"/><rect fill="url(#g1mdsoxnjs5bg31)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g1mdsoxnjs5bg31);stroke-width:1.0416666666666667;" width="201.0417" x="49.4792" y="232.2917"/><rect fill="url(#g1mdsoxnjs5bg31)" height="4.1667" style="stroke:url(#g1mdsoxnjs5bg31);stroke-width:1.0416666666666667;" width="201.0417" x="49.4792" y="264.15"/><rect codeLine="15" fill="none" height="101.3763" id="Profile" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="201.0417" x="49.4792" y="232.2917"/><ellipse cx="120.3125" cy="250.3042" fill="#EDF0F2" rx="10.4167" ry="10.4167" style="stroke:#BABDBF;stroke-width:1.0416666666666667;"/><path d="M121.8587,247.3907 Q121.9727,247.228 122.111,247.1466 Q122.2493,247.0652 122.4121,247.0652 Q122.6888,247.0652 122.8597,247.2605 Q123.0306,247.4559 123.0306,247.8953 L123.0306,248.9695 Q123.0306,249.409 122.8597,249.6043 Q122.6888,249.7996 122.4121,249.7996 Q122.1517,249.7996 122.0052,249.6531 Q121.8587,249.5229 121.7773,249.1323 Q121.7448,248.8719 121.6146,248.7417 Q121.3542,248.465 120.9066,248.3022 Q120.459,248.1394 120.0033,248.1394 Q119.4499,248.1394 118.9779,248.3836 Q118.5059,248.6277 118.1478,249.173 Q117.7897,249.7182 117.7897,250.4832 L117.7897,251.297 Q117.7897,252.1922 118.4489,252.7944 Q119.1081,253.3966 120.2637,253.3966 Q120.9635,253.3966 121.4518,253.2176 Q121.7285,253.1036 122.0378,252.7781 Q122.2331,252.5828 122.347,252.5258 Q122.4609,252.4689 122.5911,252.4689 Q122.8516,252.4689 123.0387,252.656 Q123.2259,252.8432 123.2259,253.1036 Q123.2259,253.3641 122.9655,253.657 Q122.5911,254.0802 122.0052,254.3243 Q121.224,254.6499 120.2799,254.6499 Q119.1569,254.6499 118.278,254.1941 Q117.5456,253.8361 117.041,253.0385 Q116.5365,252.241 116.5365,251.3133 L116.5365,250.4669 Q116.5365,249.4904 116.9922,248.644 Q117.4479,247.7976 118.2536,247.3419 Q119.0592,246.8862 119.9544,246.8862 Q120.5078,246.8862 120.9798,247.0083 Q121.4518,247.1303 121.8587,247.3907 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="145.3125" y="255.2755">Profile</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="50.5208" x2="249.4792" y1="268.3167" y2="268.3167"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="178.125" x="60.9375" y="289.2115">ActionsCombat : List&lt;Action&gt;</text><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="165.625" x="60.9375" y="313.5539">ActionsPatrol : List&lt;Action&gt;</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="50.5208" x2="249.4792" y1="325.3347" y2="325.3347"/><path d="M90.625,116.6667 L90.625,144.3583 A4.1667,4.1667 0 0 0 94.7917,148.525 L145.8333,148.525 L150,232.125 L154.1667,148.525 L205.2083,148.525 A4.1667,4.1667 0 0 0 209.375,144.3583 L209.375,122.9167 L198.9583,112.5 L94.7917,112.5 A4.1667,4.1667 0 0 0 90.625,116.6667 " fill="url(#g1mdsoxnjs5bg32)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><path d="M198.9583,112.5 L198.9583,120.8333 A2.0833,2.0833 0 0 0 201.0417,122.9167 L209.375,122.9167 L198.9583,112.5 " fill="url(#g1mdsoxnjs5bg32)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="86.4583" x="102.0833" y="135.4838">Ucc-профиль</text><!--MD5=[f32f6910578ce721db0783b1ac4ba422]
+class UCCAction--><rect codeLine="21" fill="url(#g1mdsoxnjs5bg30)" height="125.7187" id="UCCAction" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="220.8333" x="368.75" y="219.7917"/><rect fill="url(#g1mdsoxnjs5bg31)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g1mdsoxnjs5bg31);stroke-width:1.0416666666666667;" width="220.8333" x="368.75" y="219.7917"/><rect fill="url(#g1mdsoxnjs5bg31)" height="4.1667" style="stroke:url(#g1mdsoxnjs5bg31);stroke-width:1.0416666666666667;" width="220.8333" x="368.75" y="251.65"/><rect codeLine="21" fill="none" height="125.7187" id="UCCAction" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="220.8333" x="368.75" y="219.7917"/><ellipse cx="437.5" cy="237.8042" fill="#8FB961" rx="10.4167" ry="10.4167" style="stroke:#5C862E;stroke-width:1.0416666666666667;"/><path d="M439.1276,239.9526 L436.1003,239.9526 L435.791,240.7176 L436.1003,240.7176 Q436.5397,240.7176 436.735,240.8885 Q436.9303,241.0594 436.9303,241.3523 Q436.9303,241.629 436.735,241.7999 Q436.5397,241.9708 436.1003,241.9708 L434.4076,241.9708 Q433.9518,241.9708 433.7646,241.7999 Q433.5775,241.629 433.5775,241.3361 Q433.5775,241.0594 433.7809,240.8803 Q433.9844,240.7013 434.4401,240.7176 L436.4095,235.8185 L435.5957,235.8185 Q435.14,235.8185 434.9447,235.6476 Q434.7493,235.4767 434.7493,235.2 Q434.7493,234.907 434.9447,234.7361 Q435.14,234.5652 435.5957,234.5652 L438.2975,234.5652 L440.7878,240.7176 Q441.2272,240.7176 441.3574,240.8152 Q441.6504,241.0105 441.6504,241.3523 Q441.6504,241.629 441.4551,241.7999 Q441.2598,241.9708 440.8203,241.9708 L439.1276,241.9708 Q438.6719,241.9708 438.4847,241.7999 Q438.2975,241.629 438.2975,241.3361 Q438.2975,241.0594 438.4847,240.8885 Q438.6719,240.7176 439.1276,240.7176 L439.4368,240.7176 L439.1276,239.9526 Z M438.623,238.6993 L437.6139,236.2254 L436.5885,238.6993 L438.623,238.6993 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="64.5833" x="462.5" y="242.7755">UCCAction</text><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="369.7917" x2="588.5417" y1="255.8167" y2="255.8167"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="106.25" x="380.2083" y="276.7115">NeedToRun : bool</text><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="197.9167" x="380.2083" y="301.0539">Conditions : List&lt;UCCCondition&gt;</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="369.7917" x2="588.5417" y1="312.8347" y2="312.8347"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="71.875" x="380.2083" y="333.7296">Run() : bool</text><path d="M401.5625,109.375 L401.5625,152.2583 A4.1667,4.1667 0 0 0 405.7292,156.425 L475,156.425 L479.1667,219.7396 L483.3333,156.425 L552.6042,156.425 A4.1667,4.1667 0 0 0 556.7708,152.2583 L556.7708,115.625 L546.3542,105.2083 L405.7292,105.2083 A4.1667,4.1667 0 0 0 401.5625,109.375 " fill="url(#g1mdsoxnjs5bg32)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><path d="M546.3542,105.2083 L546.3542,113.5417 A2.0833,2.0833 0 0 0 548.4375,115.625 L556.7708,115.625 L546.3542,105.2083 " fill="url(#g1mdsoxnjs5bg32)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="122.9167" x="413.0208" y="128.1921">Базовый класс для</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="108.3333" x="413.0208" y="143.3838">всех ucc-команд</text><!--MD5=[af2f10abc1489aba018d22ea8d109cab]
+class UCCCondition--><rect codeLine="30" fill="url(#g1mdsoxnjs5bg30)" height="77.034" id="UCCCondition" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="132.2917" x="707.8125" y="244.2708"/><rect fill="url(#g1mdsoxnjs5bg31)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g1mdsoxnjs5bg31);stroke-width:1.0416666666666667;" width="132.2917" x="707.8125" y="244.2708"/><rect fill="url(#g1mdsoxnjs5bg31)" height="4.1667" style="stroke:url(#g1mdsoxnjs5bg31);stroke-width:1.0416666666666667;" width="132.2917" x="707.8125" y="276.1292"/><rect codeLine="30" fill="none" height="77.034" id="UCCCondition" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="132.2917" x="707.8125" y="244.2708"/><ellipse cx="722.3958" cy="262.2833" fill="#EDF0F2" rx="10.4167" ry="10.4167" style="stroke:#BABDBF;stroke-width:1.0416666666666667;"/><path d="M723.9421,259.3699 Q724.056,259.2072 724.1943,259.1258 Q724.3327,259.0444 724.4954,259.0444 Q724.7721,259.0444 724.943,259.2397 Q725.1139,259.435 725.1139,259.8745 L725.1139,260.9487 Q725.1139,261.3881 724.943,261.5835 Q724.7721,261.7788 724.4954,261.7788 Q724.235,261.7788 724.0885,261.6323 Q723.9421,261.5021 723.8607,261.1115 Q723.8281,260.851 723.6979,260.7208 Q723.4375,260.4441 722.9899,260.2814 Q722.5423,260.1186 722.0866,260.1186 Q721.5332,260.1186 721.0612,260.3628 Q720.5892,260.6069 720.2311,261.1521 Q719.873,261.6974 719.873,262.4624 L719.873,263.2762 Q719.873,264.1713 720.5322,264.7736 Q721.1914,265.3758 722.347,265.3758 Q723.0469,265.3758 723.5352,265.1967 Q723.8118,265.0828 724.1211,264.7573 Q724.3164,264.562 724.4303,264.505 Q724.5443,264.448 724.6745,264.448 Q724.9349,264.448 725.1221,264.6352 Q725.3092,264.8224 725.3092,265.0828 Q725.3092,265.3432 725.0488,265.6362 Q724.6745,266.0594 724.0885,266.3035 Q723.3073,266.629 722.3633,266.629 Q721.2402,266.629 720.3613,266.1733 Q719.6289,265.8152 719.1243,265.0177 Q718.6198,264.2202 718.6198,263.2924 L718.6198,262.4461 Q718.6198,261.4695 719.0755,260.6232 Q719.5313,259.7768 720.3369,259.3211 Q721.1426,258.8654 722.0378,258.8654 Q722.5911,258.8654 723.0632,258.9874 Q723.5352,259.1095 723.9421,259.3699 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="90.625" x="741.1458" y="267.2546">UCCCondition</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="708.8542" x2="839.0625" y1="280.2958" y2="280.2958"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="67.7083" x="719.2708" y="301.1907">IsOK : bool</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="708.8542" x2="839.0625" y1="312.9715" y2="312.9715"/><path d="M684.8958,109.375 L684.8958,152.2583 A4.1667,4.1667 0 0 0 689.0625,156.425 L760.2292,156.425 L771.0729,244.0208 L768.5625,156.425 L835.9375,156.425 A4.1667,4.1667 0 0 0 840.1042,152.2583 L840.1042,115.625 L829.6875,105.2083 L689.0625,105.2083 A4.1667,4.1667 0 0 0 684.8958,109.375 " fill="url(#g1mdsoxnjs5bg32)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><path d="M829.6875,105.2083 L829.6875,113.5417 A2.0833,2.0833 0 0 0 831.7708,115.625 L840.1042,115.625 L829.6875,105.2083 " fill="url(#g1mdsoxnjs5bg32)" style="stroke:#033C73;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="122.9167" x="696.3542" y="128.1921">Базовый класс для</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="696.3542" y="143.3838">всех ucc-условий</text><!--MD5=[cf19c2ecc09fd2267e9be2b73044a1d6]
+class NewUccAction--><rect codeLine="40" fill="url(#g1mdsoxnjs5bg30)" height="101.3763" id="NewUccAction" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="132.2917" x="490.1042" y="441.6667"/><rect fill="url(#g1mdsoxnjs5bg31)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g1mdsoxnjs5bg31);stroke-width:1.0416666666666667;" width="132.2917" x="490.1042" y="441.6667"/><rect fill="url(#g1mdsoxnjs5bg31)" height="4.1667" style="stroke:url(#g1mdsoxnjs5bg31);stroke-width:1.0416666666666667;" width="132.2917" x="490.1042" y="473.525"/><rect codeLine="40" fill="none" height="101.3763" id="NewUccAction" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="132.2917" x="490.1042" y="441.6667"/><ellipse cx="504.6875" cy="459.6792" fill="#EDF0F2" rx="10.4167" ry="10.4167" style="stroke:#BABDBF;stroke-width:1.0416666666666667;"/><path d="M506.2337,456.7657 Q506.3477,456.603 506.486,456.5216 Q506.6243,456.4402 506.7871,456.4402 Q507.0638,456.4402 507.2347,456.6355 Q507.4056,456.8309 507.4056,457.2703 L507.4056,458.3445 Q507.4056,458.784 507.2347,458.9793 Q507.0638,459.1746 506.7871,459.1746 Q506.5267,459.1746 506.3802,459.0281 Q506.2337,458.8979 506.1523,458.5073 Q506.1198,458.2469 505.9896,458.1167 Q505.7292,457.84 505.2816,457.6772 Q504.834,457.5144 504.3783,457.5144 Q503.8249,457.5144 503.3529,457.7586 Q502.8809,458.0027 502.5228,458.548 Q502.1647,459.0932 502.1647,459.8582 L502.1647,460.672 Q502.1647,461.5672 502.8239,462.1694 Q503.4831,462.7716 504.6387,462.7716 Q505.3385,462.7716 505.8268,462.5926 Q506.1035,462.4786 506.4128,462.1531 Q506.6081,461.9578 506.722,461.9008 Q506.8359,461.8439 506.9661,461.8439 Q507.2266,461.8439 507.4137,462.031 Q507.6009,462.2182 507.6009,462.4786 Q507.6009,462.7391 507.3405,463.032 Q506.9661,463.4552 506.3802,463.6993 Q505.599,464.0249 504.6549,464.0249 Q503.5319,464.0249 502.653,463.5691 Q501.9206,463.2111 501.416,462.4135 Q500.9115,461.616 500.9115,460.6883 L500.9115,459.8419 Q500.9115,458.8654 501.3672,458.019 Q501.8229,457.1726 502.6286,456.7169 Q503.4342,456.2612 504.3294,456.2612 Q504.8828,456.2612 505.3548,456.3833 Q505.8268,456.5053 506.2337,456.7657 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="90.625" x="523.4375" y="464.6505">NewUccAction</text><line style="stroke:#2FA4E7;stroke-width:1.5625;" x1="491.1458" x2="621.3542" y1="477.6917" y2="477.6917"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="106.25" x="501.5625" y="498.5865">NeedToRun : bool</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="491.1458" x2="621.3542" y1="510.3673" y2="510.3673"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="71.875" x="501.5625" y="531.2622">Run() : bool</text><!--MD5=[b6d3c27d7a1916c29231312cf5a66170]
+class NewUccCondition--><rect codeLine="47" fill="url(#g1mdsoxnjs5bg30)" height="77.034" id="NewUccCondition" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="155.2083" x="658.8542" y="453.6458"/><rect fill="url(#g1mdsoxnjs5bg31)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g1mdsoxnjs5bg31);stroke-width:1.0416666666666667;" width="155.2083" x="658.8542" y="453.6458"/><rect fill="url(#g1mdsoxnjs5bg31)" height="4.1667" style="stroke:url(#g1mdsoxnjs5bg31);stroke-width:1.0416666666666667;" width="155.2083" x="658.8542" y="485.5042"/><rect codeLine="47" fill="none" height="77.034" id="NewUccCondition" rx="4.1667" ry="4.1667" style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" width="155.2083" x="658.8542" y="453.6458"/><ellipse cx="673.4375" cy="471.6583" fill="#EDF0F2" rx="10.4167" ry="10.4167" style="stroke:#BABDBF;stroke-width:1.0416666666666667;"/><path d="M674.9837,468.7449 Q675.0977,468.5822 675.236,468.5008 Q675.3743,468.4194 675.5371,468.4194 Q675.8138,468.4194 675.9847,468.6147 Q676.1556,468.81 676.1556,469.2495 L676.1556,470.3237 Q676.1556,470.7631 675.9847,470.9585 Q675.8138,471.1538 675.5371,471.1538 Q675.2767,471.1538 675.1302,471.0073 Q674.9837,470.8771 674.9023,470.4865 Q674.8698,470.226 674.7396,470.0958 Q674.4792,469.8191 674.0316,469.6564 Q673.584,469.4936 673.1283,469.4936 Q672.5749,469.4936 672.1029,469.7378 Q671.6309,469.9819 671.2728,470.5271 Q670.9147,471.0724 670.9147,471.8374 L670.9147,472.6512 Q670.9147,473.5463 671.5739,474.1486 Q672.2331,474.7508 673.3887,474.7508 Q674.0885,474.7508 674.5768,474.5717 Q674.8535,474.4578 675.1628,474.1323 Q675.3581,473.937 675.472,473.88 Q675.5859,473.823 675.7161,473.823 Q675.9766,473.823 676.1637,474.0102 Q676.3509,474.1974 676.3509,474.4578 Q676.3509,474.7182 676.0905,475.0112 Q675.7161,475.4344 675.1302,475.6785 Q674.349,476.004 673.4049,476.004 Q672.2819,476.004 671.403,475.5483 Q670.6706,475.1902 670.166,474.3927 Q669.6615,473.5952 669.6615,472.6674 L669.6615,471.8211 Q669.6615,470.8445 670.1172,469.9982 Q670.5729,469.1518 671.3786,468.6961 Q672.1842,468.2404 673.0794,468.2404 Q673.6328,468.2404 674.1048,468.3624 Q674.5768,468.4845 674.9837,468.7449 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="113.5417" x="692.1875" y="476.6296">NewUccCondition</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="659.8958" x2="813.0208" y1="489.6708" y2="489.6708"/><text fill="#F8F9FA" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="67.7083" x="670.3125" y="510.5657">IsOK : bool</text><line style="stroke:#2FA4E7;stroke-width:1.0416666666666667;" x1="659.8958" x2="813.0208" y1="522.3465" y2="522.3465"/><!--MD5=[b9ba6bdeb6cc73c953edc7fd774d0e57]
+reverse link Profile to UCCAction--><path codeLine="28" d="M264.3229,282.8125 C298.1354,282.8125 335.0625,282.8125 368.625,282.8125 " fill="none" id="Profile-backto-UCCAction" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon points="250.5521,282.8125,256.8021,286.9792,263.0521,282.8125,256.8021,278.6458,250.5521,282.8125" style="stroke:#2FA4E7;stroke-width:3.125;fill:none;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="69.7917" x="274.7396" y="255.7963">Содержит</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="44.7917" x="287.2396" y="270.988">список</text><!--MD5=[22778eedb529ab0e9ef2971e8d72db9e]
+reverse link UCCAction to UCCCondition--><path codeLine="36" d="M603.3958,282.8125 C639.2188,282.8125 676.9167,282.8125 707.7292,282.8125 " fill="none" id="UCCAction-backto-UCCCondition" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon points="589.7708,282.8125,596.0208,286.9792,602.2708,282.8125,596.0208,278.6458,589.7708,282.8125" style="stroke:#2FA4E7;stroke-width:3.125;fill:none;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="69.7917" x="613.8021" y="255.7963">Содержит</text><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="44.7917" x="626.3021" y="270.988">список</text><!--MD5=[cbd65cf82c18b45c1725907b960ceb7f]
+reverse link UCCAction to NewUccAction--><path codeLine="45" d="M509.5729,365.625 C519.1146,391.2708 529.3438,418.7813 537.7917,441.4896 " fill="none" id="UCCAction-backto-NewUccAction" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="none" points="502.7188,368.1146,502.2917,346.0521,516.3854,363.0313,502.7188,368.1146" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[76908334d97de522d4613d6ef73356ec]
+reverse link UCCCondition to NewUccCondition--><path codeLine="50" d="M763.3958,342.25 C756.9375,377.9271 748.875,422.5 743.2604,453.5417 " fill="none" id="UCCCondition-backto-NewUccCondition" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="none" points="756.2813,340.5938,767.1667,321.3958,770.6354,343.1875,756.2813,340.5938" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[522f03d1cff5b1919253389544f5e7f4]
+@startuml UccClasses
+
+' 4
+!theme cerulean
+' 4
+'!theme cerulean-outline
+' 3
+'!theme cyborg-outline
+' 2
+'!theme spacelab
+
+'skinparam BackgroundColor white
+
+rectangle "Astral"{
+    rectangle "UCC"{
+        class Profile {
+            ActionsCombat : List<Action>
+            ActionsPatrol : List<Action>
+        }
+        note top of Profile : Ucc-профиль
+
+        abstract class UCCAction{
+            NeedToRun : bool
+            Conditions : List<UCCCondition>
+            - -
+            Run() : bool
+        }
+        note top of UCCAction : Базовый класс для\nвсех ucc-команд
+        Profile o-right- UCCAction : Содержит\nсписок
+        
+        class UCCCondition{
+            IsOK : bool
+        }
+        note top of UCCCondition : Базовый класс для\nвсех ucc-условий
+        
+        'UCCAction::Conditions o-right- UCCCondition
+        UCCAction o-right- UCCCondition : Содержит\nсписок
+    }
+
+    rectangle "EntityTools"{
+        class NewUccAction{
+            NeedToRun : bool
+            - - -
+            Run() : bool
+        }
+        UCCAction <|- - NewUccAction
+
+        class NewUccCondition{ 
+            IsOK : bool
+        }
+        UCCCondition <|- NewUccCondition
+        'UCCCondition <-[hidden]- NewUccCondition
+        'NewUccAction <-[hidden]- NewUccCondition
+    }
+}
+@enduml
+
+@startuml UccClasses
+
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            8
+skinparam ParticipantPadding     40
+skinparam BoxPadding             40
+skinparam Padding                5
+skinparam ArrowColor             #868E96
+skinparam stereotype {
+    CBackgroundColor #EDF0F2
+    CBorderColor #BABDBF
+    ABackgroundColor #8FB961
+    ABorderColor #5C862E
+    IBackgroundColor #D2494E
+    IBorderColor #9F161B
+    EBackgroundColor #E47833
+    EBorderColor #B14500
+    NBackgroundColor #35638F
+    NBorderColor #02305C
+}
+skinparam title {
+	FontColor	                 #2FA4E7
+	BorderColor	                 #BABDBF
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #EDF0F2-#E9ECEF
+}
+
+
+skinparam legend {
+	BackgroundColor #E9ECEF
+	BorderColor #BABDBF
+	FontColor #343A40
+}
+
+skinparam swimlane {
+	BorderColor #033C73
+	BorderThickness 2
+	TitleBackgroundColor  #EDF0F2-#E9ECEF
+	TitleFontColor #2FA4E7
+}
+
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	BarColor #73A839
+	StartColor #033C73
+	EndColor #033C73
+	DiamondBackgroundColor #FFF-#EDF0F2
+  	DiamondBorderColor #BABDBF
+	DiamondFontColor #343A40
+}
+
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam sequence {
+	BorderColor #2FA4E7
+	TitleFontColor #2FA4E7
+	BackgroundColor transparent
+	StartColor #2FA4E7
+	EndColor #2FA4E7
+	BoxBackgroundColor #F8F9FA
+	BoxBorderColor #868E96
+	BoxFontColor #343A40
+	LifeLineBorderColor #BABDBF
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #EDF0F2
+	GroupBorderColor #868E96
+	GroupFontColor #343A40
+	GroupHeaderFontColor #033C73
+	DividerBackgroundColor #FFF-#F8F9FA
+    DividerBorderColor #868E96
+    DividerBorderThickness 2
+    DividerFontColor #343A40
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #868E96
+	ReferenceFontColor #343A40
+	ReferenceHeaderFontColor #033C73
+}
+
+
+skinparam partition {
+	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+}
+
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #35638F-#033C73
+	BorderColor #033C73
+	FontColor #FFF
+}
+
+
+skinparam artifact {
+	BackgroundColor #FFF-#F8F9FA
+	BorderColor #BABDBF
+	FontColor #343A40
+}
+
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+}
+
+
+skinparam interface {
+	BackgroundColor  #D2494E
+	BorderColor  #C71C22
+	FontColor #343A40
+}
+
+
+skinparam storage {
+	BackgroundColor #E47833-#DD5600
+  	BorderColor #DD5600
+	FontColor #FFF
+}
+
+
+skinparam node {
+	BackgroundColor #EDF0F2-#E9ECEF
+	BorderColor #E9ECEF
+	FontColor #343A40
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #2FA4E7
+}
+
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	HeaderBackgroundColor #2FA4E7-#2683B9
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #F8F9FA
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #343A40
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam rectangle {
+	FontColor #2FA4E7
+	BorderColor #59B6EC
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam package {
+	FontColor #2FA4E7
+	BorderColor #59B6EC
+	BackgroundColor transparent
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #FFF-#EDF0F2
+  	BorderColor #DD5600
+	FontColor #DD5600
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #FFF-#EDF0F2
+  	BorderColor #033C73
+	FontColor #033C73
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	BorderColor #2683B9
+	StartColor #033C73
+	EndColor #033C73
+	AttributeFontColor #343A40
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+}
+
+
+skinparam card {
+	BackgroundColor #35638F-#033C73
+	BorderColor #033C73
+	FontColor #FFF
+}
+
+
+skinparam file {
+	BackgroundColor #EDF0F2-#E9ECEF
+	BorderColor #033C73
+	FontColor #868E96
+
+}
+
+
+
+
+rectangle "Astral"{
+    rectangle "UCC"{
+        class Profile {
+            ActionsCombat : List<Action>
+            ActionsPatrol : List<Action>
+        }
+        note top of Profile : Ucc-профиль
+
+        abstract class UCCAction{
+            NeedToRun : bool
+            Conditions : List<UCCCondition>
+            - -
+            Run() : bool
+        }
+        note top of UCCAction : Базовый класс для\nвсех ucc-команд
+        Profile o-right- UCCAction : Содержит\nсписок
+        
+        class UCCCondition{
+            IsOK : bool
+        }
+        note top of UCCCondition : Базовый класс для\nвсех ucc-условий
+        
+        UCCAction o-right- UCCCondition : Содержит\nсписок
+    }
+
+    rectangle "EntityTools"{
+        class NewUccAction{
+            NeedToRun : bool
+            - - -
+            Run() : bool
+        }
+        UCCAction <|- - NewUccAction
+
+        class NewUccCondition{ 
+            IsOK : bool
+        }
+        UCCCondition <|- NewUccCondition
+    }
+}
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

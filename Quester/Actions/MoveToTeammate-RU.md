@@ -52,7 +52,7 @@
 ---
 
 # **Блок-Схема**
-![Схема](diagrams/MoveToTeammate.png)
+<p align="center"><img src="diagrams/MoveToTeammate.svg"></p>
 
 ---
 

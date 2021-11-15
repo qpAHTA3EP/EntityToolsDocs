@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="818.75px" preserveAspectRatio="none" style="width:613px;height:818px;background:#00000000;" version="1.1" viewBox="0 0 613 818" width="613.5417px" zoomAndPan="magnify"><defs><linearGradient id="gbavxp9llo4bf0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient><linearGradient id="gbavxp9llo4bf1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient></defs><g><ellipse cx="306.7708" cy="20.8333" fill="#3399F3" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect height="163.8041" rx="4.1667" ry="4.1667" style="stroke:#446E9B;stroke-width:2.0833333333333335;fill:none;" width="443.75" x="84.8958" y="41.6667"/><path d="M261.9792,41.6667 L261.9792,59.9833 L251.5625,70.4 L84.8958,70.4 " fill="none" style="stroke:#446E9B;stroke-width:2.0833333333333335;"/><text fill="#446E9B" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="156.25" x="93.2292" y="60.4838">Идентификация Power</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="201.5625" x2="413.0208" y1="88.1083" y2="88.1083"/><rect fill="url(#gbavxp9llo4bf0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="183.3333" x="109.8958" y="118.1"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="152.0833" x="125.5208" y="146.2921">Выбор умения скакуна</text><rect fill="url(#gbavxp9llo4bf0)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="181.25" x="322.3958" y="110.5042"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="391.6667" y="138.6963">Выбор</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="150" x="338.0208" y="153.8879">Артефактного умения</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="201.5625" x2="413.0208" y1="192.9708" y2="192.9708"/><rect height="163.8041" rx="4.1667" ry="4.1667" style="stroke:#446E9B;stroke-width:2.0833333333333335;fill:none;" width="590.625" x="11.4583" y="215.8875"/><path d="M189.5833,215.8875 L189.5833,234.2041 L179.1667,244.6208 L11.4583,244.6208 " fill="none" style="stroke:#446E9B;stroke-width:2.0833333333333335;"/><text fill="#446E9B" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="157.2917" x="19.7917" y="234.7046">Идентификация Target</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="92.7083" x2="497.9167" y1="262.3291" y2="262.3291"/><rect fill="url(#gbavxp9llo4bf0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="137.5" x="23.9583" y="292.3208"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="106.25" x="39.5833" y="320.5129">Target := Player</text><rect fill="url(#gbavxp9llo4bf0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="186.4583" x="190.625" y="292.3208"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="155.2083" x="206.25" y="320.5129">Target := StrongestAdd</text><rect fill="url(#gbavxp9llo4bf0)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="183.3333" x="406.25" y="284.7249"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="61.4583" x="467.1875" y="312.9171">Target :=</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="152.0833" x="421.875" y="328.1087">StrongestTeamMember</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="92.7083" x2="497.9167" y1="367.1916" y2="367.1916"/><rect fill="url(#gbavxp9llo4bf0)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="128.125" x="242.7083" y="545.2332"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="247.9167" x2="247.9167" y1="545.2332" y2="606.8665"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="365.625" x2="365.625" y1="545.2332" y2="606.8665"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="96.875" x="258.3333" y="573.4253">Перемещение</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="54.1667" x="279.6875" y="588.6169">к Target</text><polygon fill="url(#gbavxp9llo4bf1)" points="229.1667,472.879,384.375,472.879,396.875,493.279,384.375,513.679,229.1667,513.679,216.6667,493.279,229.1667,472.879" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="316.1458" y="531.4545">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="144.7917" x="234.375" y="490.6545">Расстояние до Target</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="106.25" x="253.6458" y="505.8462">больше Radius?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="402.0833" y="485.4462">нет</text><polygon fill="url(#gbavxp9llo4bf1)" points="306.7708,627.6998,319.2708,640.1998,306.7708,652.6998,294.2708,640.1998,306.7708,627.6998" style="stroke:#6B6B6B;stroke-width:1.5625;"/><polygon fill="url(#gbavxp9llo4bf1)" points="248.9583,400.5249,364.5833,400.5249,377.0833,420.9249,364.5833,441.3249,248.9583,441.3249,236.4583,420.9249,248.9583,400.5249" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="316.1458" y="459.1003">нет</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="105.2083" x="254.1667" y="418.3004">Target является</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="91.6667" x="260.9375" y="433.492">персонажем?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="382.2917" y="413.092">да</text><polygon fill="url(#gbavxp9llo4bf1)" points="306.7708,673.5331,319.2708,686.0331,306.7708,698.5331,294.2708,686.0331,306.7708,673.5331" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#gbavxp9llo4bf0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="156.25" x="228.6458" y="719.3665"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="233.8542" x2="233.8542" y1="719.3665" y2="765.8081"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="379.6875" x2="379.6875" y1="719.3665" y2="765.8081"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="125" x="244.2708" y="747.5586">Активация Умения</text><ellipse cx="306.7708" cy="797.0581" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="300.3258" x2="313.2158" y1="790.6131" y2="803.5031"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="313.2158" x2="300.3258" y1="790.6131" y2="803.5031"/><line style="stroke:#446E9B;stroke-width:1.5625;fill:none;" x1="201.5625" x2="201.5625" y1="89.6708" y2="118.1"/><polygon fill="#446E9B" points="197.3958,107.6833,201.5625,118.1,205.7292,107.6833,201.5625,111.85" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="210.9375" y="108.8567">Mount</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="413.0208" x2="413.0208" y1="89.6708" y2="110.5042"/><polygon fill="#446E9B" points="408.8542,100.0875,413.0208,110.5042,417.1875,100.0875,413.0208,104.2542" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="422.3958" y="105.0588">Artifact</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="201.5625" x2="201.5625" y1="164.5416" y2="192.9708"/><polygon fill="#446E9B" points="197.3958,182.5541,201.5625,192.9708,205.7292,182.5541,201.5625,186.7208" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="413.0208" x2="413.0208" y1="172.1375" y2="192.9708"/><polygon fill="#446E9B" points="408.8542,182.5541,413.0208,192.9708,417.1875,182.5541,413.0208,186.7208" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="306.7708" x2="306.7708" y1="31.25" y2="88.1083"/><polygon fill="#446E9B" points="302.6042,77.6917,306.7708,88.1083,310.9375,77.6917,306.7708,81.8583" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="92.7083" x2="92.7083" y1="263.8916" y2="292.3208"/><polygon fill="#446E9B" points="88.5417,281.9041,92.7083,292.3208,96.875,281.9041,92.7083,286.0708" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="102.0833" y="283.0775">Self</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="283.8542" x2="283.8542" y1="263.8916" y2="292.3208"/><polygon fill="#446E9B" points="279.6875,281.9041,283.8542,292.3208,288.0208,281.9041,283.8542,286.0708" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="293.2292" y="283.0775">Foe</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="497.9167" x2="497.9167" y1="263.8916" y2="284.7249"/><polygon fill="#446E9B" points="493.75,274.3083,497.9167,284.7249,502.0833,274.3083,497.9167,278.4749" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="507.2917" y="279.2796">Friend</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="92.7083" x2="92.7083" y1="338.7624" y2="367.1916"/><polygon fill="#446E9B" points="88.5417,356.7749,92.7083,367.1916,96.875,356.7749,92.7083,360.9416" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="283.8542" x2="283.8542" y1="338.7624" y2="367.1916"/><polygon fill="#446E9B" points="279.6875,356.7749,283.8542,367.1916,288.0208,356.7749,283.8542,360.9416" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="497.9167" x2="497.9167" y1="346.3582" y2="367.1916"/><polygon fill="#446E9B" points="493.75,356.7749,497.9167,367.1916,502.0833,356.7749,497.9167,360.9416" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="306.7708" x2="306.7708" y1="194.5333" y2="262.3291"/><polygon fill="#446E9B" points="302.6042,251.9124,306.7708,262.3291,310.9375,251.9124,306.7708,256.0791" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="306.7708" x2="306.7708" y1="513.679" y2="545.2332"/><polygon fill="#446E9B" points="302.6042,534.8165,306.7708,545.2332,310.9375,534.8165,306.7708,538.9832" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="396.875" x2="409.375" y1="493.279" y2="493.279"/><polygon fill="#446E9B" points="405.2083,566.8915,409.375,577.3081,413.5417,566.8915,409.375,571.0581" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="409.375" x2="409.375" y1="493.279" y2="640.1998"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="409.375" x2="319.2708" y1="640.1998" y2="640.1998"/><polygon fill="#446E9B" points="329.6875,636.0331,319.2708,640.1998,329.6875,644.3665,325.5208,640.1998" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="306.7708" x2="306.7708" y1="606.8665" y2="627.6998"/><polygon fill="#446E9B" points="302.6042,617.2831,306.7708,627.6998,310.9375,617.2831,306.7708,621.4498" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="306.7708" x2="306.7708" y1="441.3249" y2="472.879"/><polygon fill="#446E9B" points="302.6042,462.4624,306.7708,472.879,310.9375,462.4624,306.7708,466.629" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="377.0833" x2="419.7917" y1="420.9249" y2="420.9249"/><polygon fill="#446E9B" points="415.625,564.1998,419.7917,574.6165,423.9583,564.1998,419.7917,568.3665" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="419.7917" x2="419.7917" y1="420.9249" y2="686.0331"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="419.7917" x2="319.2708" y1="686.0331" y2="686.0331"/><polygon fill="#446E9B" points="329.6875,681.8665,319.2708,686.0331,329.6875,690.1998,325.5208,686.0331" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="306.7708" x2="306.7708" y1="652.6998" y2="673.5331"/><polygon fill="#446E9B" points="302.6042,663.1165,306.7708,673.5331,310.9375,663.1165,306.7708,667.2831" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="306.7708" x2="306.7708" y1="368.7541" y2="400.5249"/><polygon fill="#446E9B" points="302.6042,390.1082,306.7708,400.5249,310.9375,390.1082,306.7708,394.2749" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="306.7708" x2="306.7708" y1="698.5331" y2="719.3665"/><polygon fill="#446E9B" points="302.6042,708.9498,306.7708,719.3665,310.9375,708.9498,306.7708,713.1165" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="306.7708" x2="306.7708" y1="765.8081" y2="786.6414"/><polygon fill="#446E9B" points="302.6042,776.2248,306.7708,786.6414,310.9375,776.2248,306.7708,780.3914" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><!--MD5=[1eb2b4f4d9d4e228126e767044a748be]
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+
+start
+partition "Идентификация Power" {
+split 
+    -> <color:black>Mount;
+    :Выбор умения скакуна]
+split again
+    -> <color:black>Artifact;
+    :Выбор\nАртефактного умения]
+end split
+}
+
+partition "Идентификация Target" {
+split 
+    -> <color:black>Self;
+    :Target := Player]
+split again
+    -> <color:black>Foe;
+    :Target := StrongestAdd]
+split again
+    -> <color:black>Friend;
+    :Target :=\nStrongestTeamMember]
+end split
+}
+
+
+if (Target является\nперсонажем?) then (<color:black>да)     
+else (<color:black>нет) 
+    if(Расстояние до Target\nбольше Radius?) then (<color:black>да)
+        :Перемещение\nк Target|
+    else (<color:black>нет) 
+    endif
+endif
+
+:Активация Умения|
+
+end
+
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor $DARk
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam DefaultTextAlignment center
+
+start
+partition "Идентификация Power" {
+split 
+    -> <color:black>Mount;
+    :Выбор умения скакуна]
+split again
+    -> <color:black>Artifact;
+    :Выбор\nАртефактного умения]
+end split
+}
+
+partition "Идентификация Target" {
+split 
+    -> <color:black>Self;
+    :Target := Player]
+split again
+    -> <color:black>Foe;
+    :Target := StrongestAdd]
+split again
+    -> <color:black>Friend;
+    :Target :=\nStrongestTeamMember]
+end split
+}
+
+
+if (Target является\nперсонажем?) then (<color:black>да)     
+else (<color:black>нет) 
+    if(Расстояние до Target\nбольше Radius?) then (<color:black>да)
+        :Перемещение\nк Target|
+    else (<color:black>нет) 
+    endif
+endif
+
+:Активация Умения|
+
+end
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

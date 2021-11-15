@@ -28,7 +28,7 @@
 
 # **Блок-схема**
 
-<p align="center"><img src="diagrams/ChangeInstanceToLeader-RU.png"></p>
+<p align="center"><img src="diagrams/ChangeInstanceToLeader-RU.svg"></p>
 
 ---
 

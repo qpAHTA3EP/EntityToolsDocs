@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="509.375px" preserveAspectRatio="none" style="width:598px;height:509px;background:#00000000;" version="1.1" viewBox="0 0 598 509" width="598.9583px" zoomAndPan="magnify"><defs><linearGradient id="gyqzxiq48hovx0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient><linearGradient id="gyqzxiq48hovx1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient></defs><g><ellipse cx="160.8073" cy="20.8333" fill="#3399F3" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><polygon fill="url(#gyqzxiq48hovx0)" points="93.099,97.9167,228.5156,97.9167,241.0156,118.3167,228.5156,138.7166,93.099,138.7166,80.599,118.3167,93.099,97.9167" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="125" x="98.3073" y="115.6921">Персонаж состоит</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="69.7917" x="125.9115" y="130.8838">в группе ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="51.4323" y="110.4838">нет</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="246.224" y="110.4838">да</text><ellipse cx="25" cy="159.55" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="18.555" x2="31.445" y1="153.105" y2="165.995"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="31.445" x2="18.555" y1="153.105" y2="165.995"/><polygon fill="url(#gyqzxiq48hovx0)" points="267.4479,149.1333,409.1146,149.1333,421.6146,169.5333,409.1146,189.9333,267.4479,189.9333,254.9479,169.5333,267.4479,149.1333" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="131.25" x="272.6563" y="166.9088">Персонаж является</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="122.9167" x="276.8229" y="182.1004">Лидером группы ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="225.7813" y="161.7004">нет</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="426.8229" y="161.7004">да</text><polygon fill="url(#gyqzxiq48hovx0)" points="115.625,200.3499,254.1667,200.3499,266.6667,220.7499,254.1667,241.1499,115.625,241.1499,103.125,220.7499,115.625,200.3499" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="128.125" x="120.8333" y="218.1254">Персонаж и Лидер</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="117.7083" x="126.0417" y="233.3171">на одной карте ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="73.9583" y="212.9171">нет</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="271.875" y="212.9171">да</text><ellipse cx="56.25" cy="261.9832" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="49.805" x2="62.695" y1="255.5383" y2="268.4282"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="62.695" x2="49.805" y1="255.5383" y2="268.4282"/><polygon fill="url(#gyqzxiq48hovx0)" points="231.25,251.5666,395.8333,251.5666,408.3333,271.9666,395.8333,292.3665,231.25,292.3665,218.75,271.9666,231.25,251.5666" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="128.125" x="249.4792" y="269.342">Персонаж и Лидер</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="154.1667" x="236.4583" y="284.5337">на разных Инстансах ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="189.5833" y="264.1337">нет</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="413.5417" y="264.1337">да</text><rect fill="url(#gyqzxiq48hovx1)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="210.4167" x="103.125" y="302.7832"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="179.1667" x="118.75" y="330.9753">Переместиться на инстанс</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="103.125" x="156.7708" y="346.167">Лидера группы</text><ellipse cx="418.75" cy="313.1999" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="412.305" x2="425.195" y1="306.7549" y2="319.6449"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="425.195" x2="412.305" y1="306.7549" y2="319.6449"/><ellipse cx="464.3229" cy="210.7666" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="457.8779" x2="470.7679" y1="204.3216" y2="217.2116"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="470.7679" x2="457.8779" y1="204.3216" y2="217.2116"/><polygon fill="url(#gyqzxiq48hovx0)" points="160.8073,52.0833,173.3073,64.5833,160.8073,77.0833,148.3073,64.5833,160.8073,52.0833" style="stroke:#6B6B6B;stroke-width:1.5625;"/><polygon fill="url(#gyqzxiq48hovx0)" points="79.0365,385.2498,242.5781,385.2498,255.0781,413.2456,242.5781,441.2415,79.0365,441.2415,66.5365,413.2456,79.0365,385.2498" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="170.1823" y="459.0169">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="153.125" x="84.2448" y="403.0253">Номер инстанса карты</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="143.75" x="88.9323" y="418.217">персонажа и Лидира</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="85.4167" x="118.099" y="433.4086">совпадают ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="260.2865" y="405.4128">нет</text><rect fill="url(#gyqzxiq48hovx1)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="103.125" x="485.1563" y="235.9416"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="71.875" x="500.7813" y="264.1337">Ждать 1 с.</text><ellipse cx="160.8073" cy="488.1165" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="154.3623" x2="167.2523" y1="481.6715" y2="494.5614"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="167.2523" x2="154.3623" y1="481.6715" y2="494.5614"/><line style="stroke:#446E9B;stroke-width:1.5625;fill:none;" x1="218.75" x2="208.3333" y1="271.9666" y2="271.9666"/><line style="stroke:#446E9B;stroke-width:1.5625;fill:none;" x1="208.3333" x2="208.3333" y1="271.9666" y2="302.7832"/><polygon fill="#446E9B" points="204.1667,292.3665,208.3333,302.7832,212.5,292.3665,208.3333,296.5332" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="408.3333" x2="418.75" y1="271.9666" y2="271.9666"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="418.75" x2="418.75" y1="271.9666" y2="302.7832"/><polygon fill="#446E9B" points="414.5833,292.3665,418.75,302.7832,422.9167,292.3665,418.75,296.5332" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="208.3333" x2="208.3333" y1="364.4165" y2="369.6248"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="208.3333" x2="160.8073" y1="369.6248" y2="369.6248"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="103.125" x2="56.25" y1="220.7499" y2="220.7499"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="56.25" x2="56.25" y1="220.7499" y2="251.5666"/><polygon fill="#446E9B" points="52.0833,241.1499,56.25,251.5666,60.4167,241.1499,56.25,245.3166" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="266.6667" x2="313.5417" y1="220.7499" y2="220.7499"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="313.5417" x2="313.5417" y1="220.7499" y2="251.5666"/><polygon fill="#446E9B" points="309.375,241.1499,313.5417,251.5666,317.7083,241.1499,313.5417,245.3166" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="254.9479" x2="184.8958" y1="169.5333" y2="169.5333"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="184.8958" x2="184.8958" y1="169.5333" y2="200.3499"/><polygon fill="#446E9B" points="180.7292,189.9333,184.8958,200.3499,189.0625,189.9333,184.8958,194.0999" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="421.6146" x2="464.3229" y1="169.5333" y2="169.5333"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="464.3229" x2="464.3229" y1="169.5333" y2="200.3499"/><polygon fill="#446E9B" points="460.1563,189.9333,464.3229,200.3499,468.4896,189.9333,464.3229,194.0999" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="80.599" x2="25" y1="118.3167" y2="118.3167"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="25" x2="25" y1="118.3167" y2="149.1333"/><polygon fill="#446E9B" points="20.8333,138.7166,25,149.1333,29.1667,138.7166,25,142.8833" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="241.0156" x2="338.2813" y1="118.3167" y2="118.3167"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="338.2813" x2="338.2813" y1="118.3167" y2="149.1333"/><polygon fill="#446E9B" points="334.1146,138.7166,338.2813,149.1333,342.4479,138.7166,338.2813,142.8833" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="160.8073" x2="160.8073" y1="77.0833" y2="97.9167"/><polygon fill="#446E9B" points="156.6406,87.5,160.8073,97.9167,164.974,87.5,160.8073,91.6667" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="255.0781" x2="536.7188" y1="413.2456" y2="413.2456"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="536.7188" x2="536.7188" y1="282.3832" y2="413.2456"/><polygon fill="#446E9B" points="532.5521,292.7999,536.7188,282.3832,540.8854,292.7999,536.7188,288.6332" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="536.7188" x2="536.7188" y1="64.5833" y2="235.9416"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="536.7188" x2="173.3073" y1="64.5833" y2="64.5833"/><polygon fill="#446E9B" points="183.724,60.4167,173.3073,64.5833,183.724,68.75,179.5573,64.5833" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="160.8073" x2="160.8073" y1="369.6248" y2="385.2498"/><polygon fill="#446E9B" points="156.6406,374.8332,160.8073,385.2498,164.974,374.8332,160.8073,378.9998" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="160.8073" x2="160.8073" y1="31.25" y2="52.0833"/><polygon fill="#446E9B" points="156.6406,41.6667,160.8073,52.0833,164.974,41.6667,160.8073,45.8333" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="160.8073" x2="160.8073" y1="441.2415" y2="477.6998"/><polygon fill="#446E9B" points="156.6406,467.2831,160.8073,477.6998,164.974,467.2831,160.8073,471.4498" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><!--MD5=[b17f0691fb38a5ab4deca0ed68a2a4ee]
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment Center
+
+start
+
+repeat
+if(Персонаж состоит\nв группе ?) then (<color:black>нет)
+    end
+else (<color:black>да)
+    if(Персонаж является\nЛидером группы ?) then (<color:black>нет)
+        if(Персонаж и Лидер\nна одной карте ?) then (<color:black>нет)
+            end
+        else (<color:black>да)
+            if(Персонаж и Лидер\nна разных Инстансах ?) then (<color:black>нет)
+                :Переместиться на инстанс\nЛидера группы]
+            else (<color:black>да)
+                end
+            endif
+        endif
+    else (<color:black>да)
+        end
+    endif
+endif
+backward :Ждать 1 с.]
+repeat while(Номер инстанса карты\nперсонажа и Лидира\nсовпадают ?) is (<color:black>нет) not (<color:black>да)
+end
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor $DARk
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam DefaultTextAlignment Center
+
+start
+
+repeat
+if(Персонаж состоит\nв группе ?) then (<color:black>нет)
+    end
+else (<color:black>да)
+    if(Персонаж является\nЛидером группы ?) then (<color:black>нет)
+        if(Персонаж и Лидер\nна одной карте ?) then (<color:black>нет)
+            end
+        else (<color:black>да)
+            if(Персонаж и Лидер\nна разных Инстансах ?) then (<color:black>нет)
+                :Переместиться на инстанс\nЛидера группы]
+            else (<color:black>да)
+                end
+            endif
+        endif
+    else (<color:black>да)
+        end
+    endif
+endif
+backward :Ждать 1 с.]
+repeat while(Номер инстанса карты\nперсонажа и Лидира\nсовпадают ?) is (<color:black>нет) not (<color:black>да)
+end
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

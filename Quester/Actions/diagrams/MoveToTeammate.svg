@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1242.7083px" preserveAspectRatio="none" style="width:525px;height:1242px;background:#00000000;" version="1.1" viewBox="0 0 525 1242" width="525px" zoomAndPan="magnify"><defs><linearGradient id="g1ez0yz4vx3c9c0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient><linearGradient id="g1ez0yz4vx3c9c1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient></defs><g><ellipse cx="302.0833" cy="20.8333" fill="#3399F3" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><polygon fill="url(#g1ez0yz4vx3c9c0)" points="229.6875,134.55,374.4792,134.55,386.9792,147.3541,374.4792,160.1583,229.6875,160.1583,217.1875,147.3541,229.6875,134.55" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="134.375" x="234.8958" y="152.3254">Teammate найден ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="195.3125" y="139.5213">да</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="392.1875" y="139.5213">нет</text><rect fill="url(#g1ez0yz4vx3c9c1)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="175" x="84.8958" y="170.575"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="117.1875" y="198.7671">Сборос таймера</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="143.75" x="100.5208" y="213.9587">TeammateSearchTime</text><rect fill="url(#g1ez0yz4vx3c9c1)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="150" x="97.3958" y="382.5582"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="118.75" x="113.0208" y="410.7503">Снять запрет боя</text><polygon fill="url(#g1ez0yz4vx3c9c0)" points="77.6042,325.3957,267.1875,325.3957,279.6875,338.1999,267.1875,351.004,77.6042,351.004,65.1042,338.1999,77.6042,325.3957" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="181.7708" y="368.7795">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="179.1667" x="82.8125" y="343.1712">Флаг IgnoreCombat = True</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="284.8958" y="330.367">нет</text><polygon fill="url(#g1ez0yz4vx3c9c0)" points="172.3958,467.4123,184.8958,479.9123,172.3958,492.4123,159.8958,479.9123,172.3958,467.4123" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g1ez0yz4vx3c9c1)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="212.5" x="66.1458" y="513.2456"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="71.3542" x2="71.3542" y1="513.2456" y2="559.6873"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="273.4375" x2="273.4375" y1="513.2456" y2="559.6873"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="181.25" x="81.7708" y="541.4378">Перемещение к Teammate</text><polygon fill="url(#g1ez0yz4vx3c9c0)" points="80.2083,253.0416,264.5833,253.0416,277.0833,273.4416,264.5833,293.8416,80.2083,293.8416,67.7083,273.4416,80.2083,253.0416" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="181.7708" y="311.617">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="170.8333" x="86.9792" y="270.8171">Расстояние до Teammate</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="173.9583" x="85.4167" y="286.0087">больше CombatDistance ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="282.2917" y="265.6087">нет</text><polygon fill="url(#g1ez0yz4vx3c9c0)" points="172.3958,580.5206,184.8958,593.0206,172.3958,605.5206,159.8958,593.0206,172.3958,580.5206" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g1ez0yz4vx3c9c1)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="201.0417" x="71.875" y="626.354"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="77.0833" x2="77.0833" y1="626.354" y2="687.9873"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="267.7083" x2="267.7083" y1="626.354" y2="687.9873"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="128.125" x="108.3333" y="654.5461">Поиск противника,</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="169.7917" x="87.5" y="669.7378">заданного FoePreference</text><rect fill="url(#g1ez0yz4vx3c9c1)" height="92.0166" style="stroke:#304D6D;stroke-width:1.5625;" width="178.125" x="83.3333" y="823.1455"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="128.125" x="108.3333" y="851.3377">Установить тригер</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="117.1875" y="866.5293">прерывания боя</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="146.875" x="98.9583" y="881.721">в случае превышения</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="101.0417" y="896.9126">AbortCombatDistance</text><polygon fill="url(#g1ez0yz4vx3c9c0)" points="33.3333,765.9831,311.4583,765.9831,323.9583,778.7872,311.4583,791.5914,33.3333,791.5914,20.8333,778.7872,33.3333,765.9831" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="181.7708" y="809.3669">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="267.7083" x="38.5417" y="783.7585">AbortCombatDistance &gt; CombatDistance</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="329.1667" y="770.9544">нет</text><polygon fill="url(#g1ez0yz4vx3c9c0)" points="172.3958,941.3976,184.8958,953.8976,172.3958,966.3976,159.8958,953.8976,172.3958,941.3976" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g1ez0yz4vx3c9c1)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="185.4167" x="79.6875" y="987.2309"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="84.8958" x2="84.8958" y1="987.2309" y2="1033.6726"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="259.8958" x2="259.8958" y1="987.2309" y2="1033.6726"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="154.1667" x="95.3125" y="1015.4231">Атаковать противника</text><polygon fill="url(#g1ez0yz4vx3c9c0)" points="97.9167,708.8206,246.875,708.8206,259.375,721.6248,246.875,734.4289,97.9167,734.4289,85.4167,721.6248,97.9167,708.8206" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="181.7708" y="752.2044">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="138.5417" x="103.125" y="726.5961">Противник найден ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="264.5833" y="713.7919">нет</text><polygon fill="url(#g1ez0yz4vx3c9c0)" points="172.3958,1054.5059,184.8958,1067.0059,172.3958,1079.5059,159.8958,1067.0059,172.3958,1054.5059" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g1ez0yz4vx3c9c1)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="103.125" x="380.2083" y="170.575"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="71.875" x="395.8333" y="198.7671">Ждать 1 с.</text><polygon fill="url(#g1ez0yz4vx3c9c0)" points="302.0833,1085.7559,314.5833,1098.2559,302.0833,1110.7559,289.5833,1098.2559,302.0833,1085.7559" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g1ez0yz4vx3c9c1)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="195.8333" x="204.1667" y="52.0833"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="209.375" x2="209.375" y1="52.0833" y2="113.7166"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="394.7917" x2="394.7917" y1="52.0833" y2="113.7166"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="245.8333" y="80.2755">Поиск Teammate</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="164.5833" x="219.7917" y="95.4671">с учетом CustomRegions</text><polygon fill="url(#g1ez0yz4vx3c9c0)" points="193.2292,1131.5893,410.9375,1131.5893,423.4375,1159.5851,410.9375,1187.5809,193.2292,1187.5809,180.7292,1159.5851,193.2292,1131.5893" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="200" x="202.0833" y="1149.3647">Флаг StopOnApproach = False</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="9.375" x="297.3958" y="1164.5564">И</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="207.2917" x="198.4375" y="1179.748">TeammateSearchTime НЕ истек</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="428.6458" y="1151.7522">да</text><ellipse cx="302.0833" cy="1219.8725" rx="11.4583" ry="11.4583" style="stroke:#3399F3;stroke-width:1.0416666666666667;fill:none;"/><ellipse cx="302.0833" cy="1219.8725" fill="#3399F3" rx="6.25" ry="6.25" style="stroke:#194C79;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="351.004" y2="382.5582"/><polygon fill="#446E9B" points="168.2292,372.1415,172.3958,382.5582,176.5625,372.1415,172.3958,376.3082" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="279.6875" x2="292.1875" y1="338.1999" y2="338.1999"/><polygon fill="#446E9B" points="288.0208,400.4186,292.1875,410.8353,296.3542,400.4186,292.1875,404.5853" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="292.1875" x2="292.1875" y1="338.1999" y2="479.9123"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="292.1875" x2="184.8958" y1="479.9123" y2="479.9123"/><polygon fill="#446E9B" points="195.3125,475.7456,184.8958,479.9123,195.3125,484.079,191.1458,479.9123" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="428.9998" y2="467.4123"/><polygon fill="#446E9B" points="168.2292,456.9956,172.3958,467.4123,176.5625,456.9956,172.3958,461.1623" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="492.4123" y2="513.2456"/><polygon fill="#446E9B" points="168.2292,502.829,172.3958,513.2456,176.5625,502.829,172.3958,506.9956" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="293.8416" y2="325.3957"/><polygon fill="#446E9B" points="168.2292,314.979,172.3958,325.3957,176.5625,314.979,172.3958,319.1457" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="277.0833" x2="302.6042" y1="273.4416" y2="273.4416"/><polygon fill="#446E9B" points="298.4375,439.4165,302.6042,449.8332,306.7708,439.4165,302.6042,443.5832" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="302.6042" x2="302.6042" y1="273.4416" y2="593.0206"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="302.6042" x2="184.8958" y1="593.0206" y2="593.0206"/><polygon fill="#446E9B" points="195.3125,588.854,184.8958,593.0206,195.3125,597.1873,191.1458,593.0206" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="559.6873" y2="580.5206"/><polygon fill="#446E9B" points="168.2292,570.104,172.3958,580.5206,176.5625,570.104,172.3958,574.2706" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="232.2083" y2="253.0416"/><polygon fill="#446E9B" points="168.2292,242.6249,172.3958,253.0416,176.5625,242.6249,172.3958,246.7916" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="605.5206" y2="626.354"/><polygon fill="#446E9B" points="168.2292,615.9373,172.3958,626.354,176.5625,615.9373,172.3958,620.104" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="791.5914" y2="823.1455"/><polygon fill="#446E9B" points="168.2292,812.7289,172.3958,823.1455,176.5625,812.7289,172.3958,816.8955" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="323.9583" x2="336.4583" y1="778.7872" y2="778.7872"/><polygon fill="#446E9B" points="332.2917,863.7934,336.4583,874.2101,340.625,863.7934,336.4583,867.9601" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="336.4583" x2="336.4583" y1="778.7872" y2="953.8976"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="336.4583" x2="184.8958" y1="953.8976" y2="953.8976"/><polygon fill="#446E9B" points="195.3125,949.7309,184.8958,953.8976,195.3125,958.0643,191.1458,953.8976" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="915.1622" y2="941.3976"/><polygon fill="#446E9B" points="168.2292,930.9809,172.3958,941.3976,176.5625,930.9809,172.3958,935.1476" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="966.3976" y2="987.2309"/><polygon fill="#446E9B" points="168.2292,976.8143,172.3958,987.2309,176.5625,976.8143,172.3958,980.9809" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="734.4289" y2="765.9831"/><polygon fill="#446E9B" points="168.2292,755.5664,172.3958,765.9831,176.5625,755.5664,172.3958,759.7331" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="259.375" x2="346.875" y1="721.6248" y2="721.6248"/><polygon fill="#446E9B" points="342.7083,910.1476,346.875,920.5643,351.0417,910.1476,346.875,914.3143" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="346.875" x2="346.875" y1="721.6248" y2="1067.0059"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="346.875" x2="184.8958" y1="1067.0059" y2="1067.0059"/><polygon fill="#446E9B" points="195.3125,1062.8393,184.8958,1067.0059,195.3125,1071.1726,191.1458,1067.0059" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="1033.6726" y2="1054.5059"/><polygon fill="#446E9B" points="168.2292,1044.0893,172.3958,1054.5059,176.5625,1044.0893,172.3958,1048.2559" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="687.9873" y2="708.8206"/><polygon fill="#446E9B" points="168.2292,698.4039,172.3958,708.8206,176.5625,698.4039,172.3958,702.5706" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="217.1875" x2="172.3958" y1="147.3541" y2="147.3541"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="147.3541" y2="170.575"/><polygon fill="#446E9B" points="168.2292,160.1583,172.3958,170.575,176.5625,160.1583,172.3958,164.325" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="386.9792" x2="431.7708" y1="147.3541" y2="147.3541"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="431.7708" x2="431.7708" y1="147.3541" y2="170.575"/><polygon fill="#446E9B" points="427.6042,160.1583,431.7708,170.575,435.9375,160.1583,431.7708,164.325" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="172.3958" y1="1079.5059" y2="1098.2559"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="172.3958" x2="289.5833" y1="1098.2559" y2="1098.2559"/><polygon fill="#446E9B" points="279.1667,1094.0893,289.5833,1098.2559,279.1667,1102.4226,283.3333,1098.2559" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="431.7708" x2="431.7708" y1="217.0166" y2="1098.2559"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="431.7708" x2="314.5833" y1="1098.2559" y2="1098.2559"/><polygon fill="#446E9B" points="325,1094.0893,314.5833,1098.2559,325,1102.4226,320.8333,1098.2559" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="302.0833" x2="302.0833" y1="113.7166" y2="134.55"/><polygon fill="#446E9B" points="297.9167,124.1333,302.0833,134.55,306.25,124.1333,302.0833,128.3" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="423.4375" x2="497.9167" y1="1159.5851" y2="1159.5851"/><polygon fill="#446E9B" points="493.75,629.9352,497.9167,619.5185,502.0833,629.9352,497.9167,625.7685" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="497.9167" x2="497.9167" y1="82.9" y2="1159.5851"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="497.9167" x2="400" y1="82.9" y2="82.9"/><polygon fill="#446E9B" points="410.4167,78.7333,400,82.9,410.4167,87.0667,406.25,82.9" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="302.0833" x2="302.0833" y1="1110.7559" y2="1131.5893"/><polygon fill="#446E9B" points="297.9167,1121.1726,302.0833,1131.5893,306.25,1121.1726,302.0833,1125.3393" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="302.0833" x2="302.0833" y1="31.25" y2="52.0833"/><polygon fill="#446E9B" points="297.9167,41.6667,302.0833,52.0833,306.25,41.6667,302.0833,45.8333" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="302.0833" x2="302.0833" y1="1187.5809" y2="1208.4142"/><polygon fill="#446E9B" points="297.9167,1197.9975,302.0833,1208.4142,306.25,1197.9975,302.0833,1202.1642" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><!--MD5=[3653defb658f28f99a9b5b7c31cc95a4]
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment Center
+
+start
+repeat :Поиск Teammate\nс учетом CustomRegions|
+if(Teammate найден ?) then (<color:black>да) 
+    :Сборос таймера\nTeammateSearchTime]
+    if(Расстояние до Teammate\nбольше CombatDistance ?) then (<color:black>да)
+        if (Флаг IgnoreCombat = True) then (<color:black>да)
+            :Снять запрет боя]
+        else (<color:black>нет)
+        endif
+        :Перемещение к Teammate|
+    else (<color:black>нет)
+    endif
+    :Поиск противника,\nзаданного FoePreference|
+    if(Противник найден ?) then (<color:black>да)
+        if(AbortCombatDistance > CombatDistance) then (<color:black>да)
+            :Установить тригер\nпрерывания боя\nв случае превышения\nAbortCombatDistance]
+        else (<color:black>нет)
+        endif
+        :Атаковать противника|
+    else (<color:black>нет)
+    endif
+
+else (<color:black>нет)
+    :Ждать 1 с.]
+endif
+repeat while (Флаг StopOnApproach = False\nИ\nTeammateSearchTime НЕ истек) is (<color:black>да)
+stop
+
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor $DARk
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam DefaultTextAlignment Center
+
+start
+repeat :Поиск Teammate\nс учетом CustomRegions|
+if(Teammate найден ?) then (<color:black>да) 
+    :Сборос таймера\nTeammateSearchTime]
+    if(Расстояние до Teammate\nбольше CombatDistance ?) then (<color:black>да)
+        if (Флаг IgnoreCombat = True) then (<color:black>да)
+            :Снять запрет боя]
+        else (<color:black>нет)
+        endif
+        :Перемещение к Teammate|
+    else (<color:black>нет)
+    endif
+    :Поиск противника,\nзаданного FoePreference|
+    if(Противник найден ?) then (<color:black>да)
+        if(AbortCombatDistance > CombatDistance) then (<color:black>да)
+            :Установить тригер\nпрерывания боя\nв случае превышения\nAbortCombatDistance]
+        else (<color:black>нет)
+        endif
+        :Атаковать противника|
+    else (<color:black>нет)
+    endif
+
+else (<color:black>нет)
+    :Ждать 1 с.]
+endif
+repeat while (Флаг StopOnApproach = False\nИ\nTeammateSearchTime НЕ истек) is (<color:black>да)
+stop
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

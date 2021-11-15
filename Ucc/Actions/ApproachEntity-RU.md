@@ -33,7 +33,7 @@
 ---
 
 # **Блок-схема**
-![Блок-схема](diagrams/ApproachEntity-RU.png)
+<p align="center"><img src="diagrams/ApproachEntity-RU.svg"></p>
 
 ---
 

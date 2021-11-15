@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="2005.2083px" preserveAspectRatio="none" style="width:670px;height:2005px;background:#00000000;" version="1.1" viewBox="0 0 670 2005" width="670.8333px" zoomAndPan="magnify"><defs><linearGradient id="g17gjcqkgecbuo0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient><linearGradient id="g17gjcqkgecbuo1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient></defs><g><ellipse cx="324.4792" cy="20.8333" fill="#3399F3" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect fill="url(#g17gjcqkgecbuo0)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="203.125" x="222.9167" y="194.0796"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="228.125" x2="228.125" y1="194.0796" y2="255.7129"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="420.8333" x2="420.8333" y1="194.0796" y2="255.7129"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="171.875" x="238.5417" y="222.2717">Поиск ближайшего Entity</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="96.875" x="276.0417" y="237.4634">(ClosestEntity)</text><rect fill="url(#g17gjcqkgecbuo0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="153.125" x="247.9167" y="276.5462"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="121.875" x="263.5417" y="304.7384">Обновить Timeout</text><polygon fill="url(#g17gjcqkgecbuo1)" points="241.1458,343.8212,407.8125,343.8212,420.3125,356.6254,407.8125,369.4295,241.1458,369.4295,228.6458,356.6254,241.1458,343.8212" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="156.25" x="246.3542" y="361.5967">ClosestEntity найдено?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="206.7708" y="348.7925">да</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="425.5208" y="348.7925">нет</text><rect fill="url(#g17gjcqkgecbuo0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="183.3333" x="74.4792" y="437.0087"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="79.6875" x2="79.6875" y1="437.0087" y2="483.4503"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="252.6042" x2="252.6042" y1="437.0087" y2="483.4503"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="152.0833" x="90.1042" y="465.2008">Target := ClosestEntity</text><polygon fill="url(#g17gjcqkgecbuo1)" points="58.3333,379.8462,273.9583,379.8462,286.4583,392.6503,273.9583,405.4545,58.3333,405.4545,45.8333,392.6503,58.3333,379.8462" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="175.5208" y="423.23">нет</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="205.2083" x="63.5417" y="397.6217">Флаг HoldTargetEntity = True ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="291.6667" y="384.8175">да</text><polygon fill="url(#g17gjcqkgecbuo1)" points="166.1458,504.2837,178.6458,516.7837,166.1458,529.2837,153.6458,516.7837,166.1458,504.2837" style="stroke:#6B6B6B;stroke-width:1.5625;"/><polygon fill="url(#g17gjcqkgecbuo1)" points="66.6667,550.117,265.625,550.117,278.125,570.517,265.625,590.917,66.6667,590.917,54.1667,570.517,66.6667,550.117" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="175.5208" y="608.6924">нет</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="188.5417" x="71.875" y="567.8925">Расстояние до ClosestEntity</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="175" x="78.6458" y="583.0841">меньше CombatDistance ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="283.3333" y="562.6841">да</text><ellipse cx="326.0417" cy="570.517" fill="url(#g17gjcqkgecbuo0)" rx="10.4167" ry="10.4167" style="stroke:#304D6D;stroke-width:1.5625;"/><path d="M330.2572,574.4232 L328.9714,574.4232 L328.0762,571.8842 L324.1536,571.8842 L323.2585,574.4232 L322.0378,574.4232 L325.3418,565.3412 L326.9531,565.3412 L330.2572,574.4232 Z M327.7181,570.8588 L326.123,566.3829 L324.5117,570.8588 L327.7181,570.8588 Z " fill="#FFFFFF"/><rect fill="url(#g17gjcqkgecbuo0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="188.5417" x="388.5417" y="437.0087"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="157.2917" x="404.1667" y="465.2008">Установка запрета боя</text><polygon fill="url(#g17gjcqkgecbuo1)" points="382.2917,379.8462,583.3333,379.8462,595.8333,392.6503,583.3333,405.4545,382.2917,405.4545,369.7917,392.6503,382.2917,379.8462" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="492.1875" y="423.23">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="190.625" x="387.5" y="397.6217">Флаг IgnoreCombat = True ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="601.0417" y="384.8175">нет</text><polygon fill="url(#g17gjcqkgecbuo1)" points="482.8125,504.2837,495.3125,516.7837,482.8125,529.2837,470.3125,516.7837,482.8125,504.2837" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g17gjcqkgecbuo0)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="173.9583" x="237.5" y="647.4711"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="242.7083" x2="242.7083" y1="647.4711" y2="709.1044"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="406.25" x2="406.25" y1="647.4711" y2="709.1044"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="108.3333" x="270.3125" y="675.6632">Перемещение к</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="253.125" y="690.8549">следующему HotSpot</text><polygon fill="url(#g17gjcqkgecbuo1)" points="201.0417,97.9167,447.9167,97.9167,460.4167,125.9125,447.9167,153.9083,201.0417,153.9083,188.5417,125.9125,201.0417,97.9167" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="333.8542" y="171.6838">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="127.0833" x="260.9375" y="115.6921">Target отсутствует</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="28.125" x="310.4167" y="130.8838">ИЛИ</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="236.4583" x="206.25" y="146.0754">Истек Timeout повторного поиска?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="159.375" y="118.0796">нет</text><rect fill="url(#g17gjcqkgecbuo0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="188.5417" x="230.2083" y="882.371"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="157.2917" x="245.8333" y="910.5632">Установка запрета боя</text><polygon fill="url(#g17gjcqkgecbuo1)" points="223.9583,825.2085,425,825.2085,437.5,838.0127,425,850.8169,223.9583,850.8169,211.4583,838.0127,223.9583,825.2085" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="333.8542" y="868.5923">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="190.625" x="229.1667" y="842.984">Флаг IgnoreCombat = True ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="442.7083" y="830.1799">нет</text><polygon fill="url(#g17gjcqkgecbuo1)" points="324.4792,967.2251,336.9792,979.7251,324.4792,992.2251,311.9792,979.7251,324.4792,967.2251" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g17gjcqkgecbuo0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="186.4583" x="231.25" y="1018.2022"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="236.4583" x2="236.4583" y1="1018.2022" y2="1064.6439"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="412.5" x2="412.5" y1="1018.2022" y2="1064.6439"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="155.2083" x="246.875" y="1046.3943">Перемещение к Target</text><polygon fill="url(#g17gjcqkgecbuo1)" points="232.2917,752.8544,416.6667,752.8544,429.1667,773.2544,416.6667,793.6544,232.2917,793.6544,219.7917,773.2544,232.2917,752.8544" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="333.8542" y="811.4299">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="144.7917" x="252.0833" y="770.6299">Расстояние до Target</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="173.9583" x="237.5" y="785.8215">больше CombatDistance ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="434.375" y="765.4215">нет</text><polygon fill="url(#g17gjcqkgecbuo1)" points="324.4792,1085.4772,336.9792,1097.9772,324.4792,1110.4772,311.9792,1097.9772,324.4792,1085.4772" style="stroke:#6B6B6B;stroke-width:1.5625;"/><ellipse cx="324.4792" cy="1141.7272" fill="url(#g17gjcqkgecbuo0)" rx="10.4167" ry="10.4167" style="stroke:#304D6D;stroke-width:1.5625;"/><path d="M328.6947,1145.6334 L327.4089,1145.6334 L326.5137,1143.0944 L322.5911,1143.0944 L321.696,1145.6334 L320.4753,1145.6334 L323.7793,1136.5514 L325.3906,1136.5514 L328.6947,1145.6334 Z M326.1556,1142.069 L324.5605,1137.5931 L322.9492,1142.069 L326.1556,1142.069 Z " fill="#FFFFFF"/><rect fill="url(#g17gjcqkgecbuo0)" height="92.0166" style="stroke:#304D6D;stroke-width:1.5625;" width="178.125" x="235.4167" y="1260.523"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="128.125" x="260.4167" y="1288.7151">Установить тригер</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="269.2708" y="1303.9068">прерывания боя</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="146.875" x="251.0417" y="1319.0984">в случае превышения</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="253.125" y="1334.2901">AbortCombatDistance</text><polygon fill="url(#g17gjcqkgecbuo1)" points="185.4167,1172.9772,463.5417,1172.9772,476.0417,1200.973,463.5417,1228.9688,185.4167,1228.9688,172.9167,1200.973,185.4167,1172.9772" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="333.8542" y="1246.7443">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="179.1667" x="234.8958" y="1190.7527">Флаг IgnoreCombat = True</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="9.375" x="319.7917" y="1205.9443">И</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="267.7083" x="190.625" y="1221.136">AbortCombatDistance &gt; CombatDistance</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="481.25" y="1193.1402">нет</text><polygon fill="url(#g17gjcqkgecbuo1)" points="324.4792,1373.3729,336.9792,1385.8729,324.4792,1398.3729,311.9792,1385.8729,324.4792,1373.3729" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g17gjcqkgecbuo0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="150" x="249.4792" y="1419.2062"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="118.75" x="265.1042" y="1447.3984">Снять запрет боя</text><polygon fill="url(#g17gjcqkgecbuo1)" points="210.9375,1486.4812,438.0208,1486.4812,450.5208,1499.2854,438.0208,1512.0895,210.9375,1512.0895,198.4375,1499.2854,210.9375,1486.4812" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="216.6667" x="216.1458" y="1504.2567">Флаг АttackTargetEntity = True ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="176.5625" y="1491.4525">да</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="455.7292" y="1491.4525">нет</text><rect fill="url(#g17gjcqkgecbuo0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="191.6667" x="92.1875" y="1594.8603"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="97.3958" x2="97.3958" y1="1594.8603" y2="1641.302"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="278.6458" x2="278.6458" y1="1594.8603" y2="1641.302"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="160.4167" x="107.8125" y="1623.0525">Атаковать ClosestEntity</text><polygon fill="url(#g17gjcqkgecbuo1)" points="88.5417,1522.5062,287.5,1522.5062,300,1542.9062,287.5,1563.3062,88.5417,1563.3062,76.0417,1542.9062,88.5417,1522.5062" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="197.3958" y="1581.0816">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="188.5417" x="93.75" y="1540.2817">Расстояние до ClosestEntity</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="175" x="100.5208" y="1555.4733">меньше CombatDistance ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="305.2083" y="1535.0733">нет</text><polygon fill="url(#g17gjcqkgecbuo1)" points="188.0208,1662.1353,200.5208,1674.6353,188.0208,1687.1353,175.5208,1674.6353,188.0208,1662.1353" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g17gjcqkgecbuo0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="147.9167" x="114.0625" y="1780.3228"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="119.2708" x2="119.2708" y1="1780.3228" y2="1826.7644"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="256.7708" x2="256.7708" y1="1780.3228" y2="1826.7644"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="116.6667" x="129.6875" y="1808.5149">Атаковать Target</text><polygon fill="url(#g17gjcqkgecbuo1)" points="95.3125,1707.9686,280.7292,1707.9686,293.2292,1728.3686,280.7292,1748.7686,95.3125,1748.7686,82.8125,1728.3686,95.3125,1707.9686" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="197.3958" y="1766.5441">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="144.7917" x="115.625" y="1725.7441">Расстояние до Target</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="175" x="100.5208" y="1740.9358">меньше CombatDistance ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="298.4375" y="1720.5358">нет</text><polygon fill="url(#g17gjcqkgecbuo1)" points="188.0208,1847.5978,200.5208,1860.0978,188.0208,1872.5978,175.5208,1860.0978,188.0208,1847.5978" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g17gjcqkgecbuo0)" height="61.6333" style="stroke:#304D6D;stroke-width:1.5625;" width="206.25" x="357.8125" y="1522.5062"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="363.0208" x2="363.0208" y1="1522.5062" y2="1584.1395"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="558.8542" x2="558.8542" y1="1522.5062" y2="1584.1395"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="175" x="373.4375" y="1550.6983">Атаковать произвольного</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="38.5417" x="441.6667" y="1565.89">врага</text><polygon fill="url(#g17gjcqkgecbuo1)" points="324.4792,1878.8478,336.9792,1891.3478,324.4792,1903.8478,311.9792,1891.3478,324.4792,1878.8478" style="stroke:#6B6B6B;stroke-width:1.5625;"/><polygon fill="url(#g17gjcqkgecbuo1)" points="324.4792,52.0833,336.9792,64.5833,324.4792,77.0833,311.9792,64.5833,324.4792,52.0833" style="stroke:#6B6B6B;stroke-width:1.5625;"/><polygon fill="url(#g17gjcqkgecbuo1)" points="205.2083,1924.6811,443.75,1924.6811,456.25,1937.4852,443.75,1950.2894,205.2083,1950.2894,192.7083,1937.4852,205.2083,1924.6811" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="228.125" x="210.4167" y="1942.4566">Флаг StopOnApproached = False ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="461.4583" y="1929.6524">да</text><ellipse cx="324.4792" cy="1982.5811" rx="11.4583" ry="11.4583" style="stroke:#3399F3;stroke-width:1.0416666666666667;fill:none;"/><ellipse cx="324.4792" cy="1982.5811" fill="#3399F3" rx="6.25" ry="6.25" style="stroke:#194C79;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="255.7129" y2="276.5462"/><polygon fill="#446E9B" points="320.3125,266.1296,324.4792,276.5462,328.6458,266.1296,324.4792,270.2962" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="166.1458" x2="166.1458" y1="405.4545" y2="437.0087"/><polygon fill="#446E9B" points="161.9792,426.592,166.1458,437.0087,170.3125,426.592,166.1458,430.7587" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="286.4583" x2="298.9583" y1="392.6503" y2="392.6503"/><polygon fill="#446E9B" points="294.7917,454.8691,298.9583,465.2857,303.125,454.8691,298.9583,459.0357" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="298.9583" x2="298.9583" y1="392.6503" y2="516.7837"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="298.9583" x2="178.6458" y1="516.7837" y2="516.7837"/><polygon fill="#446E9B" points="189.0625,512.617,178.6458,516.7837,189.0625,520.9503,184.8958,516.7837" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="166.1458" x2="166.1458" y1="483.4503" y2="504.2837"/><polygon fill="#446E9B" points="161.9792,493.867,166.1458,504.2837,170.3125,493.867,166.1458,498.0337" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="166.1458" x2="166.1458" y1="590.917" y2="622.4711"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="166.1458" x2="25" y1="622.4711" y2="622.4711"/><polygon fill="#446E9B" points="35.4167,618.3044,25,622.4711,35.4167,626.6378,31.25,622.4711" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="278.125" x2="315.625" y1="570.517" y2="570.517"/><polygon fill="#446E9B" points="305.2083,566.3503,315.625,570.517,305.2083,574.6836,309.375,570.517" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="166.1458" x2="166.1458" y1="529.2837" y2="550.117"/><polygon fill="#446E9B" points="161.9792,539.7003,166.1458,550.117,170.3125,539.7003,166.1458,543.867" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="482.8125" x2="482.8125" y1="405.4545" y2="437.0087"/><polygon fill="#446E9B" points="478.6458,426.592,482.8125,437.0087,486.9792,426.592,482.8125,430.7587" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="595.8333" x2="608.3333" y1="392.6503" y2="392.6503"/><polygon fill="#446E9B" points="604.1667,454.8691,608.3333,465.2857,612.5,454.8691,608.3333,459.0357" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="608.3333" x2="608.3333" y1="392.6503" y2="516.7837"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="608.3333" x2="495.3125" y1="516.7837" y2="516.7837"/><polygon fill="#446E9B" points="505.7292,512.617,495.3125,516.7837,505.7292,520.9503,501.5625,516.7837" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="482.8125" x2="482.8125" y1="483.4503" y2="504.2837"/><polygon fill="#446E9B" points="478.6458,493.867,482.8125,504.2837,486.9792,493.867,482.8125,498.0337" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="228.6458" x2="166.1458" y1="356.6254" y2="356.6254"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="166.1458" x2="166.1458" y1="356.6254" y2="379.8462"/><polygon fill="#446E9B" points="161.9792,369.4295,166.1458,379.8462,170.3125,369.4295,166.1458,373.5962" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="420.3125" x2="482.8125" y1="356.6254" y2="356.6254"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="482.8125" x2="482.8125" y1="356.6254" y2="379.8462"/><polygon fill="#446E9B" points="478.6458,369.4295,482.8125,379.8462,486.9792,369.4295,482.8125,373.5962" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="482.8125" x2="482.8125" y1="529.2837" y2="631.8461"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="482.8125" x2="324.4792" y1="631.8461" y2="631.8461"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="631.8461" y2="647.4711"/><polygon fill="#446E9B" points="320.3125,637.0544,324.4792,647.4711,328.6458,637.0544,324.4792,641.2211" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="322.9879" y2="343.8212"/><polygon fill="#446E9B" points="320.3125,333.4045,324.4792,343.8212,328.6458,333.4045,324.4792,337.5712" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="153.9083" y2="194.0796"/><polygon fill="#446E9B" points="320.3125,183.6629,324.4792,194.0796,328.6458,183.6629,324.4792,187.8296" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="709.1044" y2="719.5211"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="631.25" y1="719.5211" y2="719.5211"/><polygon fill="#446E9B" points="627.0833,456.3441,631.25,445.9274,635.4167,456.3441,631.25,452.1774" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="631.25" x2="631.25" y1="125.9125" y2="719.5211"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="631.25" x2="460.4167" y1="125.9125" y2="125.9125"/><polygon fill="#446E9B" points="470.8333,121.7458,460.4167,125.9125,470.8333,130.0791,466.6667,125.9125" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="188.5417" x2="25" y1="125.9125" y2="125.9125"/><polygon fill="#446E9B" points="20.8333,441.7608,25,452.1774,29.1667,441.7608,25,445.9274" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="25" x2="25" y1="125.9125" y2="732.0211"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="25" x2="324.4792" y1="732.0211" y2="732.0211"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="732.0211" y2="752.8544"/><polygon fill="#446E9B" points="320.3125,742.4377,324.4792,752.8544,328.6458,742.4377,324.4792,746.6044" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="850.8169" y2="882.371"/><polygon fill="#446E9B" points="320.3125,871.9543,324.4792,882.371,328.6458,871.9543,324.4792,876.121" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="437.5" x2="450" y1="838.0127" y2="838.0127"/><polygon fill="#446E9B" points="445.8333,900.2314,450,910.6481,454.1667,900.2314,450,904.3981" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="450" x2="450" y1="838.0127" y2="979.7251"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="450" x2="336.9792" y1="979.7251" y2="979.7251"/><polygon fill="#446E9B" points="347.3958,975.5585,336.9792,979.7251,347.3958,983.8918,343.2292,979.7251" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="928.8127" y2="967.2251"/><polygon fill="#446E9B" points="320.3125,956.8085,324.4792,967.2251,328.6458,956.8085,324.4792,960.9751" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="992.2251" y2="1018.2022"/><polygon fill="#446E9B" points="320.3125,1007.7855,324.4792,1018.2022,328.6458,1007.7855,324.4792,1011.9522" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="793.6544" y2="825.2085"/><polygon fill="#446E9B" points="320.3125,814.7919,324.4792,825.2085,328.6458,814.7919,324.4792,818.9585" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="429.1667" x2="460.4167" y1="773.2544" y2="773.2544"/><polygon fill="#446E9B" points="456.25,939.2293,460.4167,949.646,464.5833,939.2293,460.4167,943.396" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="460.4167" x2="460.4167" y1="773.2544" y2="1097.9772"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="460.4167" x2="336.9792" y1="1097.9772" y2="1097.9772"/><polygon fill="#446E9B" points="347.3958,1093.8105,336.9792,1097.9772,347.3958,1102.1439,343.2292,1097.9772" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="1064.6439" y2="1085.4772"/><polygon fill="#446E9B" points="320.3125,1075.0605,324.4792,1085.4772,328.6458,1075.0605,324.4792,1079.2272" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="1110.4772" y2="1131.3105"/><polygon fill="#446E9B" points="320.3125,1120.8939,324.4792,1131.3105,328.6458,1120.8939,324.4792,1125.0605" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="1228.9688" y2="1260.523"/><polygon fill="#446E9B" points="320.3125,1250.1063,324.4792,1260.523,328.6458,1250.1063,324.4792,1254.273" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="476.0417" x2="488.5417" y1="1200.973" y2="1200.973"/><polygon fill="#446E9B" points="484.375,1293.575,488.5417,1303.9917,492.7083,1293.575,488.5417,1297.7417" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="488.5417" x2="488.5417" y1="1200.973" y2="1385.8729"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="488.5417" x2="336.9792" y1="1385.8729" y2="1385.8729"/><polygon fill="#446E9B" points="347.3958,1381.7062,336.9792,1385.8729,347.3958,1390.0396,343.2292,1385.8729" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="1352.5396" y2="1373.3729"/><polygon fill="#446E9B" points="320.3125,1362.9562,324.4792,1373.3729,328.6458,1362.9562,324.4792,1367.1229" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="1152.1439" y2="1172.9772"/><polygon fill="#446E9B" points="320.3125,1162.5605,324.4792,1172.9772,328.6458,1162.5605,324.4792,1166.7272" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="1398.3729" y2="1419.2062"/><polygon fill="#446E9B" points="320.3125,1408.7896,324.4792,1419.2062,328.6458,1408.7896,324.4792,1412.9562" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="188.0208" x2="188.0208" y1="1563.3062" y2="1594.8603"/><polygon fill="#446E9B" points="183.8542,1584.4437,188.0208,1594.8603,192.1875,1584.4437,188.0208,1588.6103" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="300" x2="312.5" y1="1542.9062" y2="1542.9062"/><polygon fill="#446E9B" points="308.3333,1608.9228,312.5,1619.3395,316.6667,1608.9228,312.5,1613.0895" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="312.5" x2="312.5" y1="1542.9062" y2="1674.6353"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="312.5" x2="200.5208" y1="1674.6353" y2="1674.6353"/><polygon fill="#446E9B" points="210.9375,1670.4686,200.5208,1674.6353,210.9375,1678.802,206.7708,1674.6353" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="188.0208" x2="188.0208" y1="1641.302" y2="1662.1353"/><polygon fill="#446E9B" points="183.8542,1651.7186,188.0208,1662.1353,192.1875,1651.7186,188.0208,1655.8853" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="188.0208" x2="188.0208" y1="1748.7686" y2="1780.3228"/><polygon fill="#446E9B" points="183.8542,1769.9061,188.0208,1780.3228,192.1875,1769.9061,188.0208,1774.0728" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="293.2292" x2="305.7292" y1="1728.3686" y2="1728.3686"/><polygon fill="#446E9B" points="301.5625,1794.3853,305.7292,1804.8019,309.8958,1794.3853,305.7292,1798.5519" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="305.7292" x2="305.7292" y1="1728.3686" y2="1860.0978"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="305.7292" x2="200.5208" y1="1860.0978" y2="1860.0978"/><polygon fill="#446E9B" points="210.9375,1855.9311,200.5208,1860.0978,210.9375,1864.2644,206.7708,1860.0978" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="188.0208" x2="188.0208" y1="1826.7644" y2="1847.5978"/><polygon fill="#446E9B" points="183.8542,1837.1811,188.0208,1847.5978,192.1875,1837.1811,188.0208,1841.3478" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="188.0208" x2="188.0208" y1="1687.1353" y2="1707.9686"/><polygon fill="#446E9B" points="183.8542,1697.552,188.0208,1707.9686,192.1875,1697.552,188.0208,1701.7186" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="198.4375" x2="188.0208" y1="1499.2854" y2="1499.2854"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="188.0208" x2="188.0208" y1="1499.2854" y2="1522.5062"/><polygon fill="#446E9B" points="183.8542,1512.0895,188.0208,1522.5062,192.1875,1512.0895,188.0208,1516.2562" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="450.5208" x2="460.9375" y1="1499.2854" y2="1499.2854"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="460.9375" x2="460.9375" y1="1499.2854" y2="1522.5062"/><polygon fill="#446E9B" points="456.7708,1512.0895,460.9375,1522.5062,465.1042,1512.0895,460.9375,1516.2562" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="188.0208" x2="188.0208" y1="1872.5978" y2="1891.3478"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="188.0208" x2="311.9792" y1="1891.3478" y2="1891.3478"/><polygon fill="#446E9B" points="301.5625,1887.1811,311.9792,1891.3478,301.5625,1895.5144,305.7292,1891.3478" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="460.9375" x2="460.9375" y1="1584.1395" y2="1891.3478"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="460.9375" x2="336.9792" y1="1891.3478" y2="1891.3478"/><polygon fill="#446E9B" points="347.3958,1887.1811,336.9792,1891.3478,347.3958,1895.5144,343.2292,1891.3478" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="1465.6479" y2="1486.4812"/><polygon fill="#446E9B" points="320.3125,1476.0646,324.4792,1486.4812,328.6458,1476.0646,324.4792,1480.2312" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="77.0833" y2="97.9167"/><polygon fill="#446E9B" points="320.3125,87.5,324.4792,97.9167,328.6458,87.5,324.4792,91.6667" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="456.25" x2="643.75" y1="1937.4852" y2="1937.4852"/><polygon fill="#446E9B" points="639.5833,1013.0585,643.75,1002.6418,647.9167,1013.0585,643.75,1008.8918" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="643.75" x2="643.75" y1="64.5833" y2="1937.4852"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="643.75" x2="336.9792" y1="64.5833" y2="64.5833"/><polygon fill="#446E9B" points="347.3958,60.4167,336.9792,64.5833,347.3958,68.75,343.2292,64.5833" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="1903.8478" y2="1924.6811"/><polygon fill="#446E9B" points="320.3125,1914.2644,324.4792,1924.6811,328.6458,1914.2644,324.4792,1918.4311" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="31.25" y2="52.0833"/><polygon fill="#446E9B" points="320.3125,41.6667,324.4792,52.0833,328.6458,41.6667,324.4792,45.8333" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="324.4792" x2="324.4792" y1="1950.2894" y2="1971.1227"/><polygon fill="#446E9B" points="320.3125,1960.7061,324.4792,1971.1227,328.6458,1960.7061,324.4792,1964.8727" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><!--MD5=[782d4af2fac53a9bdfbf61d773d35e70]
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment Center
+'skinparam ConditionStyle InsideDiamond
+'skinparam BackgroundColor White
+
+start
+
+repeat
+
+'partition "Поиск" {
+    while (Target отсутствует\nИЛИ\nИстек Timeout повторного поиска?) is (<color:black>да)
+
+        :Поиск ближайшего Entity\n(ClosestEntity)|
+        :Обновить Timeout]
+        if (ClosestEntity найдено?) then (<color:black>да) 
+            if (Флаг HoldTargetEntity = True ?) then (<color:black>да) 
+            else (<color:black>нет)
+                :Target := ClosestEntity|
+            endif 
+            if (Расстояние до ClosestEntity\nменьше CombatDistance ?) then (<color:black>да)
+                (А)
+            else (<color:black>нет)
+                break
+            endif
+        else (<color:black>нет)
+            if (Флаг IgnoreCombat = True ?) then (<color:black>да) 
+                :Установка запрета боя]
+            else (<color:black>нет)
+            endif
+        endif
+        ' if (Target отсутствует ?) then (<color:black>нет) 
+        '     break
+        ' else (<color:black>да)
+        ' endif
+        :Перемещение к\nследующему HotSpot|
+    endwhile (<color:black>нет)
+'}
+
+'partition "Перемещение" {
+if (Расстояние до Target\nбольше CombatDistance ?) then (<color:black>да)
+    if (Флаг IgnoreCombat = True ?) then (<color:black>да) 
+        :Установка запрета боя]
+    else (<color:black>нет)
+    endif
+    :Перемещение к Target|
+else (<color:black>нет)
+endif
+'}
+
+(А)
+
+'partition "Бой" {
+if (Флаг IgnoreCombat = True\nИ\nAbortCombatDistance > CombatDistance) then (<color:black>да) 
+    :Установить тригер\nпрерывания боя\nв случае превышения\nAbortCombatDistance]
+else (<color:black>нет)
+endif
+
+:Снять запрет боя]
+if (Флаг АttackTargetEntity = True ?) then (<color:black>да)
+    if(Расстояние до ClosestEntity\nменьше CombatDistance ?) then (<color:black>да)
+        :Атаковать ClosestEntity|
+    else (<color:black>нет)
+    endif
+    if(Расстояние до Target\nменьше CombatDistance ?) then (<color:black>да)
+        :Атаковать Target|
+    else (<color:black>нет)
+    endif
+else (<color:black>нет)
+    :Атаковать произвольного\nврага|
+endif
+'}
+
+repeat while (Флаг StopOnApproached = False ?) is (<color:black>да) 
+
+stop
+
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor $DARk
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam DefaultTextAlignment Center
+
+start
+
+repeat
+
+    while (Target отсутствует\nИЛИ\nИстек Timeout повторного поиска?) is (<color:black>да)
+
+        :Поиск ближайшего Entity\n(ClosestEntity)|
+        :Обновить Timeout]
+        if (ClosestEntity найдено?) then (<color:black>да) 
+            if (Флаг HoldTargetEntity = True ?) then (<color:black>да) 
+            else (<color:black>нет)
+                :Target := ClosestEntity|
+            endif 
+            if (Расстояние до ClosestEntity\nменьше CombatDistance ?) then (<color:black>да)
+                (А)
+            else (<color:black>нет)
+                break
+            endif
+        else (<color:black>нет)
+            if (Флаг IgnoreCombat = True ?) then (<color:black>да) 
+                :Установка запрета боя]
+            else (<color:black>нет)
+            endif
+        endif
+        :Перемещение к\nследующему HotSpot|
+    endwhile (<color:black>нет)
+
+if (Расстояние до Target\nбольше CombatDistance ?) then (<color:black>да)
+    if (Флаг IgnoreCombat = True ?) then (<color:black>да) 
+        :Установка запрета боя]
+    else (<color:black>нет)
+    endif
+    :Перемещение к Target|
+else (<color:black>нет)
+endif
+
+(А)
+
+if (Флаг IgnoreCombat = True\nИ\nAbortCombatDistance > CombatDistance) then (<color:black>да) 
+    :Установить тригер\nпрерывания боя\nв случае превышения\nAbortCombatDistance]
+else (<color:black>нет)
+endif
+
+:Снять запрет боя]
+if (Флаг АttackTargetEntity = True ?) then (<color:black>да)
+    if(Расстояние до ClosestEntity\nменьше CombatDistance ?) then (<color:black>да)
+        :Атаковать ClosestEntity|
+    else (<color:black>нет)
+    endif
+    if(Расстояние до Target\nменьше CombatDistance ?) then (<color:black>да)
+        :Атаковать Target|
+    else (<color:black>нет)
+    endif
+else (<color:black>нет)
+    :Атаковать произвольного\nврага|
+endif
+
+repeat while (Флаг StopOnApproached = False ?) is (<color:black>да) 
+
+stop
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

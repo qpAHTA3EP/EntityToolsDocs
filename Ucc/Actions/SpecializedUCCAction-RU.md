@@ -40,7 +40,7 @@
 ---
 
 # **Блок-схема**
-![Блок-схема](diagrams/SpecializedUCCAction-RU.png)
+<p align="center"><img src="diagrams/SpecializedUCCAction-RU.svg"></p>
 
 ---
 

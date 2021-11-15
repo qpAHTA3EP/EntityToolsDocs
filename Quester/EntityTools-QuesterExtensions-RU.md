@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center"><img src="diagrams/QuesterClasses.png"></p>
+<p align="center"><img src="diagrams/QuesterClasses.svg"></p>
 
 ---
 

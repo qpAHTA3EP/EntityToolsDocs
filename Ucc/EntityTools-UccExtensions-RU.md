@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"><img src="diagrams/UccClasses.png"></p>
+<p align="center"><img src="diagrams/UccClasses.svg"></p>
 
 ---
 

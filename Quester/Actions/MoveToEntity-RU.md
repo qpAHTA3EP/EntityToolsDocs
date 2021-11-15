@@ -59,7 +59,7 @@
 
 # **Блок-схема**
 
-<p align="center"><img src="diagrams/MoveToEntity.png"></p>
+<p align="center"><img src="diagrams/MoveToEntity.svg"></p>
 
 ---
 

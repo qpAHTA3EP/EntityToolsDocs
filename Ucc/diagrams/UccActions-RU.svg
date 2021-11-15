@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="718.75px" preserveAspectRatio="none" style="width:951px;height:718px;background:#00000000;" version="1.1" viewBox="0 0 951 718" width="951.0417px" zoomAndPan="magnify"><defs><linearGradient id="g3nswo2fk53p70" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient><linearGradient id="g3nswo2fk53p71" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient><linearGradient id="g3nswo2fk53p72" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#446E9B"/></linearGradient></defs><g><!--MD5=[202f333e6d0b65bc11207b1312ee9cc4]
+cluster Astral--><rect fill="url(#g3nswo2fk53p70)" height="282.2917" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="343.75" x="185.2813" y="7.2917"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="336.8438" y="27.1505">Astral</text><!--MD5=[37f49dbb0b0823173e0b6ac84260dd49]
+cluster UCC--><rect fill="url(#g3nswo2fk53p70)" height="187.5" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="268.75" x="226.9479" y="68.75"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="29.1667" x="346.7396" y="88.6088">UCC</text><!--MD5=[09da66281a84c9bc991ae2049fcdf5fb]
+cluster EntityTools--><rect fill="url(#g3nswo2fk53p70)" height="308.3333" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:2.0833333333333335;" width="860.4167" x="52.9896" y="404.1667"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="76.0417" x="445.1771" y="424.0255">EntityTools</text><!--MD5=[f32f6910578ce721db0783b1ac4ba422]
+class UCCAction--><rect codeLine="4" fill="url(#g3nswo2fk53p71)" height="125.7187" id="UCCAction" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="234.375" x="244.1354" y="113.5417"/><rect fill="url(#g3nswo2fk53p72)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="234.375" x="244.1354" y="113.5417"/><rect fill="url(#g3nswo2fk53p72)" height="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="234.375" x="244.1354" y="145.4"/><rect codeLine="4" fill="none" height="125.7187" id="UCCAction" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="234.375" x="244.1354" y="113.5417"/><ellipse cx="318.0938" cy="131.5542" fill="#B8B8B8" rx="10.4167" ry="10.4167" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><path d="M319.64,128.6407 Q319.7539,128.478 319.8923,128.3966 Q320.0306,128.3152 320.1934,128.3152 Q320.4701,128.3152 320.641,128.5105 Q320.8118,128.7059 320.8118,129.1453 L320.8118,130.2195 Q320.8118,130.659 320.641,130.8543 Q320.4701,131.0496 320.1934,131.0496 Q319.9329,131.0496 319.7865,130.9031 Q319.64,130.7729 319.5586,130.3823 Q319.526,130.1219 319.3958,129.9917 Q319.1354,129.715 318.6878,129.5522 Q318.2402,129.3894 317.7845,129.3894 Q317.2311,129.3894 316.7591,129.6336 Q316.2871,129.8777 315.929,130.423 Q315.571,130.9682 315.571,131.7332 L315.571,132.547 Q315.571,133.4422 316.2301,134.0444 Q316.8893,134.6466 318.0449,134.6466 Q318.7448,134.6466 319.2331,134.4676 Q319.5098,134.3536 319.819,134.0281 Q320.0143,133.8328 320.1283,133.7758 Q320.2422,133.7189 320.3724,133.7189 Q320.6328,133.7189 320.82,133.906 Q321.0072,134.0932 321.0072,134.3536 Q321.0072,134.6141 320.7467,134.907 Q320.3724,135.3302 319.7865,135.5743 Q319.0052,135.8999 318.0612,135.8999 Q316.9382,135.8999 316.0592,135.4441 Q315.3268,135.0861 314.8223,134.2885 Q314.3177,133.491 314.3177,132.5633 L314.3177,131.7169 Q314.3177,130.7404 314.7734,129.894 Q315.2292,129.0476 316.0348,128.5919 Q316.8405,128.1362 317.7357,128.1362 Q318.2891,128.1362 318.7611,128.2583 Q319.2331,128.3803 319.64,128.6407 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="67.7083" x="343.0938" y="136.5255">UCCAction</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="245.1771" x2="477.4688" y1="149.5667" y2="149.5667"/><ellipse cx="255.5938" cy="161.025" rx="3.125" ry="3.125" style="stroke:#038048;stroke-width:1.0416666666666667;fill:none;"/><text fill="#EEEEEE" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="197.9167" x="269.1354" y="170.4615">Conditions : List&lt;UCCCondition&gt;</text><ellipse cx="255.5938" cy="185.3673" rx="3.125" ry="3.125" style="stroke:#038048;stroke-width:1.0416666666666667;fill:none;"/><text fill="#EEEEEE" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="158.3333" x="269.1354" y="194.8039">abstract NeedToRun : bool</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="245.1771" x2="477.4688" y1="206.5847" y2="206.5847"/><ellipse cx="255.5938" cy="218.043" fill="#84BE84" rx="3.125" ry="3.125" style="stroke:#038048;stroke-width:1.0416666666666667;"/><text fill="#EEEEEE" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="123.9583" x="269.1354" y="227.4796">abstract Run() : bool</text><!--MD5=[34b98a5335c21bea553ebe375e39b2db]
+class ApproachEntity--><rect codeLine="14" fill="url(#g3nswo2fk53p71)" height="77.034" id="ApproachEntity" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="166.6667" x="721.7396" y="457.2917"/><rect fill="url(#g3nswo2fk53p72)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="166.6667" x="721.7396" y="457.2917"/><rect fill="url(#g3nswo2fk53p72)" height="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="166.6667" x="721.7396" y="489.15"/><rect codeLine="14" fill="none" height="77.034" id="ApproachEntity" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="166.6667" x="721.7396" y="457.2917"/><ellipse cx="748.0417" cy="475.3042" fill="#B8B8B8" rx="10.4167" ry="10.4167" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><path d="M749.5879,472.3907 Q749.7018,472.228 749.8402,472.1466 Q749.9785,472.0652 750.1413,472.0652 Q750.418,472.0652 750.5889,472.2605 Q750.7598,472.4559 750.7598,472.8953 L750.7598,473.9695 Q750.7598,474.409 750.5889,474.6043 Q750.418,474.7996 750.1413,474.7996 Q749.8809,474.7996 749.7344,474.6531 Q749.5879,474.5229 749.5065,474.1323 Q749.474,473.8719 749.3438,473.7417 Q749.0833,473.465 748.6357,473.3022 Q748.1882,473.1394 747.7324,473.1394 Q747.179,473.1394 746.707,473.3836 Q746.235,473.6277 745.877,474.173 Q745.5189,474.7182 745.5189,475.4832 L745.5189,476.297 Q745.5189,477.1922 746.1781,477.7944 Q746.8372,478.3966 747.9928,478.3966 Q748.6927,478.3966 749.181,478.2176 Q749.4577,478.1036 749.7669,477.7781 Q749.9622,477.5828 750.0762,477.5258 Q750.1901,477.4689 750.3203,477.4689 Q750.5807,477.4689 750.7679,477.656 Q750.9551,477.8432 750.9551,478.1036 Q750.9551,478.3641 750.6947,478.657 Q750.3203,479.0802 749.7344,479.3243 Q748.9531,479.6499 748.0091,479.6499 Q746.8861,479.6499 746.0072,479.1941 Q745.2747,478.8361 744.7702,478.0385 Q744.2656,477.241 744.2656,476.3133 L744.2656,475.4669 Q744.2656,474.4904 744.7214,473.644 Q745.1771,472.7976 745.9827,472.3419 Q746.7884,471.8862 747.6836,471.8862 Q748.237,471.8862 748.709,472.0083 Q749.181,472.1303 749.5879,472.3907 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="98.9583" x="769.3958" y="480.2755">ApproachEntity</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="722.7813" x2="887.3646" y1="493.3167" y2="493.3167"/><text fill="#EEEEEE" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="143.75" x="733.1979" y="514.2115">"Приблизиться к Entity"</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="722.7813" x2="887.3646" y1="525.9923" y2="525.9923"/><!--MD5=[a8ddbc323c4f4840c3d875e22fc7a004]
+class DodgeFromEntity--><rect codeLine="18" fill="url(#g3nswo2fk53p71)" height="77.034" id="DodgeFromEntity" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="154.1667" x="297.7813" y="603.6458"/><rect fill="url(#g3nswo2fk53p72)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="154.1667" x="297.7813" y="603.6458"/><rect fill="url(#g3nswo2fk53p72)" height="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="154.1667" x="297.7813" y="635.5042"/><rect codeLine="18" fill="none" height="77.034" id="DodgeFromEntity" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="154.1667" x="297.7813" y="603.6458"/><ellipse cx="312.3646" cy="621.6583" fill="#B8B8B8" rx="10.4167" ry="10.4167" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><path d="M313.9108,618.7449 Q314.0247,618.5822 314.1631,618.5008 Q314.3014,618.4194 314.4642,618.4194 Q314.7409,618.4194 314.9118,618.6147 Q315.0827,618.81 315.0827,619.2495 L315.0827,620.3237 Q315.0827,620.7631 314.9118,620.9585 Q314.7409,621.1538 314.4642,621.1538 Q314.2038,621.1538 314.0573,621.0073 Q313.9108,620.8771 313.8294,620.4865 Q313.7969,620.226 313.6667,620.0958 Q313.4063,619.8191 312.9587,619.6564 Q312.5111,619.4936 312.0553,619.4936 Q311.502,619.4936 311.0299,619.7378 Q310.5579,619.9819 310.1999,620.5271 Q309.8418,621.0724 309.8418,621.8374 L309.8418,622.6512 Q309.8418,623.5463 310.501,624.1486 Q311.1602,624.7508 312.3158,624.7508 Q313.0156,624.7508 313.5039,624.5717 Q313.7806,624.4578 314.0898,624.1323 Q314.2852,623.937 314.3991,623.88 Q314.513,623.823 314.6432,623.823 Q314.9036,623.823 315.0908,624.0102 Q315.278,624.1974 315.278,624.4578 Q315.278,624.7182 315.0176,625.0112 Q314.6432,625.4344 314.0573,625.6785 Q313.276,626.004 312.332,626.004 Q311.209,626.004 310.3301,625.5483 Q309.5977,625.1902 309.0931,624.3927 Q308.5885,623.5952 308.5885,622.6674 L308.5885,621.8211 Q308.5885,620.8445 309.0443,619.9982 Q309.5,619.1518 310.3057,618.6961 Q311.1113,618.2404 312.0065,618.2404 Q312.5599,618.2404 313.0319,618.3624 Q313.5039,618.4845 313.9108,618.7449 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="331.1146" y="626.6296">DodgeFromEntity</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="298.8229" x2="450.9063" y1="639.6708" y2="639.6708"/><text fill="#EEEEEE" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="106.25" x="309.2396" y="660.5657">"Отойти от Entity"</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="298.8229" x2="450.9063" y1="672.3465" y2="672.3465"/><!--MD5=[ec8ae0dbf9900fad2471f3392b812efd]
+class ChangeTarget--><rect codeLine="23" fill="url(#g3nswo2fk53p71)" height="77.034" id="ChangeTarget" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="135.4167" x="97.7813" y="457.2917"/><rect fill="url(#g3nswo2fk53p72)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="135.4167" x="97.7813" y="457.2917"/><rect fill="url(#g3nswo2fk53p72)" height="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="135.4167" x="97.7813" y="489.15"/><rect codeLine="23" fill="none" height="77.034" id="ChangeTarget" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="135.4167" x="97.7813" y="457.2917"/><ellipse cx="112.3646" cy="475.3042" fill="#B8B8B8" rx="10.4167" ry="10.4167" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><path d="M113.9108,472.3907 Q114.0247,472.228 114.1631,472.1466 Q114.3014,472.0652 114.4642,472.0652 Q114.7409,472.0652 114.9118,472.2605 Q115.0827,472.4559 115.0827,472.8953 L115.0827,473.9695 Q115.0827,474.409 114.9118,474.6043 Q114.7409,474.7996 114.4642,474.7996 Q114.2038,474.7996 114.0573,474.6531 Q113.9108,474.5229 113.8294,474.1323 Q113.7969,473.8719 113.6667,473.7417 Q113.4063,473.465 112.9587,473.3022 Q112.5111,473.1394 112.0553,473.1394 Q111.502,473.1394 111.0299,473.3836 Q110.5579,473.6277 110.1999,474.173 Q109.8418,474.7182 109.8418,475.4832 L109.8418,476.297 Q109.8418,477.1922 110.501,477.7944 Q111.1602,478.3966 112.3158,478.3966 Q113.0156,478.3966 113.5039,478.2176 Q113.7806,478.1036 114.0898,477.7781 Q114.2852,477.5828 114.3991,477.5258 Q114.513,477.4689 114.6432,477.4689 Q114.9036,477.4689 115.0908,477.656 Q115.278,477.8432 115.278,478.1036 Q115.278,478.3641 115.0176,478.657 Q114.6432,479.0802 114.0573,479.3243 Q113.276,479.6499 112.332,479.6499 Q111.209,479.6499 110.3301,479.1941 Q109.5977,478.8361 109.0931,478.0385 Q108.5885,477.241 108.5885,476.3133 L108.5885,475.4669 Q108.5885,474.4904 109.0443,473.644 Q109.5,472.7976 110.3057,472.3419 Q111.1113,471.8862 112.0065,471.8862 Q112.5599,471.8862 113.0319,472.0083 Q113.5039,472.1303 113.9108,472.3907 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="131.1146" y="480.2755">ChangeTarget</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="98.8229" x2="232.1563" y1="493.3167" y2="493.3167"/><text fill="#EEEEEE" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="101.0417" x="109.2396" y="514.2115">"Изменить цель"</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="98.8229" x2="232.1563" y1="525.9923" y2="525.9923"/><!--MD5=[b01c925e36042da436b86d3d7125f846]
+class ExecuteSpecificPower--><rect codeLine="27" fill="url(#g3nswo2fk53p71)" height="77.034" id="ExecuteSpecificPower" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="183.3333" x="269.6563" y="457.2917"/><rect fill="url(#g3nswo2fk53p72)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="183.3333" x="269.6563" y="457.2917"/><rect fill="url(#g3nswo2fk53p72)" height="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="183.3333" x="269.6563" y="489.15"/><rect codeLine="27" fill="none" height="77.034" id="ExecuteSpecificPower" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="183.3333" x="269.6563" y="457.2917"/><ellipse cx="284.2396" cy="475.3042" fill="#B8B8B8" rx="10.4167" ry="10.4167" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><path d="M285.7858,472.3907 Q285.8997,472.228 286.0381,472.1466 Q286.1764,472.0652 286.3392,472.0652 Q286.6159,472.0652 286.7868,472.2605 Q286.9577,472.4559 286.9577,472.8953 L286.9577,473.9695 Q286.9577,474.409 286.7868,474.6043 Q286.6159,474.7996 286.3392,474.7996 Q286.0788,474.7996 285.9323,474.6531 Q285.7858,474.5229 285.7044,474.1323 Q285.6719,473.8719 285.5417,473.7417 Q285.2813,473.465 284.8337,473.3022 Q284.3861,473.1394 283.9303,473.1394 Q283.377,473.1394 282.9049,473.3836 Q282.4329,473.6277 282.0749,474.173 Q281.7168,474.7182 281.7168,475.4832 L281.7168,476.297 Q281.7168,477.1922 282.376,477.7944 Q283.0352,478.3966 284.1908,478.3966 Q284.8906,478.3966 285.3789,478.2176 Q285.6556,478.1036 285.9648,477.7781 Q286.1602,477.5828 286.2741,477.5258 Q286.388,477.4689 286.5182,477.4689 Q286.7786,477.4689 286.9658,477.656 Q287.153,477.8432 287.153,478.1036 Q287.153,478.3641 286.8926,478.657 Q286.5182,479.0802 285.9323,479.3243 Q285.151,479.6499 284.207,479.6499 Q283.084,479.6499 282.2051,479.1941 Q281.4727,478.8361 280.9681,478.0385 Q280.4635,477.241 280.4635,476.3133 L280.4635,475.4669 Q280.4635,474.4904 280.9193,473.644 Q281.375,472.7976 282.1807,472.3419 Q282.9863,471.8862 283.8815,471.8862 Q284.4349,471.8862 284.9069,472.0083 Q285.3789,472.1303 285.7858,472.3907 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="141.6667" x="302.9896" y="480.2755">ExecuteSpecificPower</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="270.6979" x2="451.9479" y1="493.3167" y2="493.3167"/><text fill="#EEEEEE" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="142.7083" x="281.1146" y="514.2115">"Активировать умение"</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="270.6979" x2="451.9479" y1="525.9923" y2="525.9923"/><!--MD5=[b5e5b80cf4f2e75b2d8e644edef8f291]
+class PluggedSkill--><rect codeLine="31" fill="url(#g3nswo2fk53p71)" height="90.9597" id="PluggedSkill" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="200" x="588.4063" y="596.875"/><rect fill="url(#g3nswo2fk53p72)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="200" x="588.4063" y="596.875"/><rect fill="url(#g3nswo2fk53p72)" height="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="200" x="588.4063" y="628.7333"/><rect codeLine="31" fill="none" height="90.9597" id="PluggedSkill" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="200" x="588.4063" y="596.875"/><ellipse cx="639.9688" cy="614.8875" fill="#B8B8B8" rx="10.4167" ry="10.4167" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><path d="M641.515,611.9741 Q641.6289,611.8113 641.7673,611.7299 Q641.9056,611.6486 642.0684,611.6486 Q642.3451,611.6486 642.516,611.8439 Q642.6868,612.0392 642.6868,612.4786 L642.6868,613.5529 Q642.6868,613.9923 642.516,614.1876 Q642.3451,614.3829 642.0684,614.3829 Q641.8079,614.3829 641.6615,614.2365 Q641.515,614.1062 641.4336,613.7156 Q641.401,613.4552 641.2708,613.325 Q641.0104,613.0483 640.5628,612.8855 Q640.1152,612.7228 639.6595,612.7228 Q639.1061,612.7228 638.6341,612.9669 Q638.1621,613.2111 637.804,613.7563 Q637.446,614.3016 637.446,615.0665 L637.446,615.8803 Q637.446,616.7755 638.1051,617.3777 Q638.7643,617.9799 639.9199,617.9799 Q640.6198,617.9799 641.1081,617.8009 Q641.3848,617.687 641.694,617.3615 Q641.8893,617.1661 642.0033,617.1092 Q642.1172,617.0522 642.2474,617.0522 Q642.5078,617.0522 642.695,617.2394 Q642.8822,617.4266 642.8822,617.687 Q642.8822,617.9474 642.6217,618.2404 Q642.2474,618.6635 641.6615,618.9077 Q640.8802,619.2332 639.9362,619.2332 Q638.8132,619.2332 637.9342,618.7775 Q637.2018,618.4194 636.6973,617.6219 Q636.1927,616.8243 636.1927,615.8966 L636.1927,615.0503 Q636.1927,614.0737 636.6484,613.2273 Q637.1042,612.381 637.9098,611.9253 Q638.7155,611.4695 639.6107,611.4695 Q640.1641,611.4695 640.6361,611.5916 Q641.1081,611.7137 641.515,611.9741 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="78.125" x="664.9688" y="619.8588">PluggedSkill</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="589.4479" x2="787.3646" y1="632.9" y2="632.9"/><text fill="#EEEEEE" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="150" x="599.8646" y="653.7949">"Активировать артефакт</text><text fill="#EEEEEE" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="177.0833" x="599.8646" y="667.7205">или боевое умение скакуна"</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="589.4479" x2="787.3646" y1="679.5013" y2="679.5013"/><!--MD5=[6c2ec0f75da1f2fcc82c88aabdd42db1]
+class UseItemSpecial--><rect codeLine="36" fill="url(#g3nswo2fk53p71)" height="77.034" id="UseItemSpecial" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="194.7917" x="489.9688" y="457.2917"/><rect fill="url(#g3nswo2fk53p72)" height="36.025" rx="4.1667" ry="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="194.7917" x="489.9688" y="457.2917"/><rect fill="url(#g3nswo2fk53p72)" height="4.1667" style="stroke:url(#g3nswo2fk53p72);stroke-width:1.0416666666666667;" width="194.7917" x="489.9688" y="489.15"/><rect codeLine="36" fill="none" height="77.034" id="UseItemSpecial" rx="4.1667" ry="4.1667" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="194.7917" x="489.9688" y="457.2917"/><ellipse cx="527.9896" cy="475.3042" fill="#B8B8B8" rx="10.4167" ry="10.4167" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><path d="M529.5358,472.3907 Q529.6497,472.228 529.7881,472.1466 Q529.9264,472.0652 530.0892,472.0652 Q530.3659,472.0652 530.5368,472.2605 Q530.7077,472.4559 530.7077,472.8953 L530.7077,473.9695 Q530.7077,474.409 530.5368,474.6043 Q530.3659,474.7996 530.0892,474.7996 Q529.8288,474.7996 529.6823,474.6531 Q529.5358,474.5229 529.4544,474.1323 Q529.4219,473.8719 529.2917,473.7417 Q529.0313,473.465 528.5837,473.3022 Q528.1361,473.1394 527.6803,473.1394 Q527.127,473.1394 526.6549,473.3836 Q526.1829,473.6277 525.8249,474.173 Q525.4668,474.7182 525.4668,475.4832 L525.4668,476.297 Q525.4668,477.1922 526.126,477.7944 Q526.7852,478.3966 527.9408,478.3966 Q528.6406,478.3966 529.1289,478.2176 Q529.4056,478.1036 529.7148,477.7781 Q529.9102,477.5828 530.0241,477.5258 Q530.138,477.4689 530.2682,477.4689 Q530.5286,477.4689 530.7158,477.656 Q530.903,477.8432 530.903,478.1036 Q530.903,478.3641 530.6426,478.657 Q530.2682,479.0802 529.6823,479.3243 Q528.901,479.6499 527.957,479.6499 Q526.834,479.6499 525.9551,479.1941 Q525.2227,478.8361 524.7181,478.0385 Q524.2135,477.241 524.2135,476.3133 L524.2135,475.4669 Q524.2135,474.4904 524.6693,473.644 Q525.125,472.7976 525.9307,472.3419 Q526.7363,471.8862 527.6315,471.8862 Q528.1849,471.8862 528.6569,472.0083 Q529.1289,472.1303 529.5358,472.3907 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="101.0417" x="551.9479" y="480.2755">UseItemSpecial</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="491.0104" x2="683.7188" y1="493.3167" y2="493.3167"/><text fill="#EEEEEE" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="171.875" x="501.4271" y="514.2115">"Использовать расходника"</text><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="491.0104" x2="683.7188" y1="525.9923" y2="525.9923"/><!--MD5=[ae9cce26d1b287ea23ff36f338e1eb25]
+reverse link UCCAction to ApproachEntity--><path codeLine="17" d="M497.0417,250.0833 C562.0104,287.4583 639.3333,335.9583 702.9896,387.5 C728.7708,408.375 754.4896,435.4479 773.6667,457.1875 " fill="none" id="UCCAction-backto-ApproachEntity" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="none" points="493.1146,256.25,478.625,239.6042,500.3333,243.5729,493.1146,256.25" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[4ebf2162e46953ccbf091678ba7c73ce]
+reverse link UCCAction to DodgeFromEntity--><path codeLine="21" d="M298.3854,255.2917 C280.9896,273.625 261.1563,291.9583 240.4896,306.25 C162.9896,359.8438 96.9896,309.1354 44.6563,387.5 C8.4063,441.7917 6.25,481.5938 44.6563,534.375 C102.1771,613.4167 219.4271,635.1563 297.5833,640.4792 " fill="none" id="UCCAction-backto-DodgeFromEntity" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="none" points="293.2708,250.0938,312.7083,239.6458,304.0208,259.9375,293.2708,250.0938" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[f57bbb13d0a8d3e6522650476003e5a2]
+link ApproachEntity to DodgeFromEntity--><!--MD5=[e350df520233c2809d3509fca93b3456]
+reverse link UCCAction to ChangeTarget--><path codeLine="26" d="M311.8958,257.6667 C272.4688,321.5104 219.0208,408.0833 188.8125,457.0104 " fill="none" id="UCCAction-backto-ChangeTarget" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="none" points="305.7188,253.7917,322.8646,239.8958,318.125,261.4479,305.7188,253.7917" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[368dfdb21be9e42eacd1de823c431a93]
+reverse link UCCAction to ExecuteSpecificPower--><path codeLine="30" d="M361.3229,260.9688 C361.3229,324.4688 361.3229,408.9167 361.3229,457.0104 " fill="none" id="UCCAction-backto-ExecuteSpecificPower" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="none" points="354.0313,260.7292,361.3229,239.8958,368.6146,260.7292,354.0313,260.7292" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[a7401d58940b6d6acc4d9a514ae9f632]
+reverse link UCCAction to PluggedSkill--><path codeLine="34" d="M499.25,188.0729 C628.8646,206.0938 816.1354,254.9688 907.1563,387.5 C944.1146,441.3125 941.7396,479.0104 907.1563,534.375 C880.9583,576.3125 833.0208,602.2188 788.6771,617.9896 " fill="none" id="UCCAction-backto-PluggedSkill" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="none" points="498.2813,195.3021,478.5625,185.3958,500.1563,180.8438,498.2813,195.3021" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[d975d3b12a014a6cf7691af2e55c3bba]
+link ExecuteSpecificPower to PluggedSkill--><!--MD5=[d7ef79351bdeb926a27714ac25d4254e]
+reverse link UCCAction to UseItemSpecial--><path codeLine="39" d="M418.0833,257.25 C463.6146,321.1458 525.5,407.9792 560.4479,457.0104 " fill="none" id="UCCAction-backto-UseItemSpecial" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="none" points="411.8646,261.0938,405.7083,239.8958,423.7396,252.625,411.8646,261.0938" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[632841707cc237917436207d04e13053]
+link Astral to EntityTools--><!--MD5=[998355d11439a1f7fa1568d1082c6cae]
+@startuml
+!theme spacelab
+package Astral <<Rectangle>> {
+    package UCC <<Rectangle>> {
+        class UCCAction{
+            + Conditions : List<UCCCondition>
+            + abstract NeedToRun : bool
+            + abstract Run() : bool
+        }
+        
+    }
+}
+
+package EntityTools <<Rectangle>> {
+    class ApproachEntity {
+        "Приблизиться к Entity"
+    }
+    UCCAction <|- - ApproachEntity
+    class DodgeFromEntity{
+        "Отойти от Entity"
+    }
+    UCCAction <|- - DodgeFromEntity
+    ApproachEntity -[hidden]- DodgeFromEntity
+    class ChangeTarget{
+        "Изменить цель"
+    }
+    UCCAction <|- - ChangeTarget
+    class ExecuteSpecificPower{
+        "Активировать умение"
+    }
+    UCCAction <|- - ExecuteSpecificPower
+    class PluggedSkill{
+        "Активировать артефакт\nили боевое умение скакуна"
+    }
+    UCCAction <|- - PluggedSkill
+    ExecuteSpecificPower -[hidden]- PluggedSkill
+    class UseItemSpecial{
+        "Использовать расходника"
+    }
+    UCCAction <|- - UseItemSpecial
+}
+
+Astral - -[hidden]- - EntityTools
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor $DARk
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+package Astral <<Rectangle>> {
+    package UCC <<Rectangle>> {
+        class UCCAction{
+            + Conditions : List<UCCCondition>
+            + abstract NeedToRun : bool
+            + abstract Run() : bool
+        }
+        
+    }
+}
+
+package EntityTools <<Rectangle>> {
+    class ApproachEntity {
+        "Приблизиться к Entity"
+    }
+    UCCAction <|- - ApproachEntity
+    class DodgeFromEntity{
+        "Отойти от Entity"
+    }
+    UCCAction <|- - DodgeFromEntity
+    ApproachEntity -[hidden]- DodgeFromEntity
+    class ChangeTarget{
+        "Изменить цель"
+    }
+    UCCAction <|- - ChangeTarget
+    class ExecuteSpecificPower{
+        "Активировать умение"
+    }
+    UCCAction <|- - ExecuteSpecificPower
+    class PluggedSkill{
+        "Активировать артефакт\nили боевое умение скакуна"
+    }
+    UCCAction <|- - PluggedSkill
+    ExecuteSpecificPower -[hidden]- PluggedSkill
+    class UseItemSpecial{
+        "Использовать расходника"
+    }
+    UCCAction <|- - UseItemSpecial
+}
+
+Astral - -[hidden]- - EntityTools
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

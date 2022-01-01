@@ -27,6 +27,7 @@
 3.  [ChangeTarget](Actions/ChangeTarget-RU.md) : заменяет цель персонажа на противника, заданного командой.
 4.  [ApproachEntity](Actions/ApproachEntity-RU.md) : перемещает персонажа к заданной *Entity*.
 5.  [DodgeFromEntity](Actions/DodgeFromEntity-RU.md) : перемещает персонажа от заданной *Entity*.
+6.  [UseItemSpecial](Actions/UseItemSpecial-RU.md) : активация заданного предмета.
 
 ---
 

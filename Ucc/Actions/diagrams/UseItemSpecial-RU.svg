@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="954.1667px" preserveAspectRatio="none" style="width:438px;height:954px;background:#00000000;" version="1.1" viewBox="0 0 438 954" width="438.5417px" zoomAndPan="magnify"><defs><linearGradient id="g7fpxpemm2o6l0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient><linearGradient id="g7fpxpemm2o6l1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient></defs><g><ellipse cx="200" cy="20.8333" fill="#3399F3" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect height="480.9652" rx="4.1667" ry="4.1667" style="stroke:#446E9B;stroke-width:2.0833333333333335;fill:none;" width="402.0833" x="11.4583" y="41.6667"/><path d="M143.75,41.6667 L143.75,63.1348 L133.3333,73.5514 L11.4583,73.5514 " fill="none" style="stroke:#446E9B;stroke-width:2.0833333333333335;"/><text fill="#446E9B" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="111.4583" x="19.7917" y="63.0554">Поиск предмета</text><rect fill="url(#g7fpxpemm2o6l0)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="114.5833" x="142.7083" y="91.2598"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="154.1667" y="115.6942">Поиск в</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="42.7083" x="203.125" y="115.6942">Potions</text><polygon fill="url(#g7fpxpemm2o6l1)" points="140.625,206.897,259.375,206.897,271.875,219.397,259.375,231.897,140.625,231.897,128.125,219.397,140.625,206.897" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="33.3333" x="145.8333" y="224.0855">Опция</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="26.0417" x="182.2917" y="224.0855">Bags</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="42.7083" x="211.4583" y="224.0855">задана?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="18.75" x="104.1667" y="211.6709">нет</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="12.5" x="277.0833" y="211.6709">да</text><rect fill="url(#g7fpxpemm2o6l0)" height="54.362" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="167.7083" x="23.9583" y="242.3136"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="88.5417" x="35.4167" y="266.748">Поиск в сумках</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="53.125" x="127.0833" y="266.748">Inventory</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="7.2917" x="60.9375" y="282.4707">и</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="83.3333" x="71.3542" y="282.4707">PlayerBag1...9</text><rect fill="url(#g7fpxpemm2o6l0)" height="54.362" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="159.375" x="212.5" y="242.3136"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="91.6667" x="246.3542" y="266.748">Поиск в сумках,</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="104.1667" x="223.9583" y="282.4707">заданных опцией</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="29.1667" x="331.25" y="282.4707">Bags</text><polygon fill="url(#g7fpxpemm2o6l1)" points="200,302.9256,212.5,315.4256,200,327.9256,187.5,315.4256,200,302.9256" style="stroke:#6B6B6B;stroke-width:1.5625;"/><ellipse cx="200" cy="430.9652" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="193.555" x2="206.445" y1="424.5202" y2="437.4102"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="206.445" x2="193.555" y1="424.5202" y2="437.4102"/><polygon fill="url(#g7fpxpemm2o6l1)" points="147.9167,364.384,252.0833,364.384,264.5833,376.884,252.0833,389.384,147.9167,389.384,135.4167,376.884,147.9167,364.384" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="18.75" x="209.375" y="406.487">нет</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="93.75" x="153.125" y="381.5725">Предмет найден?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="12.5" x="269.7917" y="369.1579">да</text><polygon fill="url(#g7fpxpemm2o6l1)" points="151.0417,150.7324,248.9583,150.7324,261.4583,163.2324,248.9583,175.7324,151.0417,175.7324,138.5417,163.2324,151.0417,150.7324" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="18.75" x="209.375" y="192.8355">нет</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="87.5" x="156.25" y="167.9209">Предмет найден</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="12.5" x="266.6667" y="155.5064">да</text><polygon fill="url(#g7fpxpemm2o6l1)" points="200,485.1318,212.5,497.6318,200,510.1318,187.5,497.6318,200,485.1318" style="stroke:#6B6B6B;stroke-width:1.5625;"/><polygon fill="url(#g7fpxpemm2o6l1)" points="143.75,543.4652,256.25,543.4652,268.75,577.4984,256.25,611.5316,143.75,611.5316,131.25,577.4984,143.75,543.4652" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="72.9167" x="161.9792" y="560.5682">Задана опция</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" text-decoration="underline" textLength="102.0833" x="148.9583" y="574.9807">CheckItemCooldown</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="9.375" x="195.3125" y="589.3931">И</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="100" x="150" y="603.8055">Кулдаун не истек?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="18.75" x="107.2917" y="569.7723">нет</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="12.5" x="273.9583" y="569.7723">да</text><ellipse cx="120.8333" cy="632.3649" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="114.3883" x2="127.2783" y1="625.9199" y2="638.8099"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="127.2783" x2="114.3883" y1="625.9199" y2="638.8099"/><polygon fill="url(#g7fpxpemm2o6l1)" points="235.9375,692.3543,322.3958,692.3543,334.8958,711.9751,322.3958,731.5959,235.9375,731.5959,223.4375,711.9751,235.9375,692.3543" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="72.9167" x="241.1458" y="709.4574">Задана опция</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" text-decoration="underline" textLength="51.0417" x="250.5208" y="723.8698">AutoEquip</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="6.25" x="301.5625" y="723.8698">?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="18.75" x="199.4792" y="704.2491">нет</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="12.5" x="340.1042" y="704.2491">да</text><ellipse cx="213.0208" cy="752.4292" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="206.5758" x2="219.4658" y1="745.9842" y2="758.8742"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="219.4658" x2="206.5758" y1="745.9842" y2="758.8742"/><rect fill="url(#g7fpxpemm2o6l0)" height="54.362" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="94.7917" x="297.9167" y="742.0125"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="71.875" x="309.375" y="766.4469">Экипировка</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="58.3333" x="316.1458" y="782.1696">предмета</text><polygon fill="url(#g7fpxpemm2o6l1)" points="238.0208,621.9482,320.3125,621.9482,332.8125,641.569,320.3125,661.1898,238.0208,661.1898,225.5208,641.569,238.0208,621.9482" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="18.75" x="288.5417" y="678.2928">нет</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="46.875" x="254.1667" y="639.0513">Предмет</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="68.75" x="246.3542" y="653.4637">экипирован?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacing" textLength="12.5" x="338.0208" y="633.843">да</text><polygon fill="url(#g7fpxpemm2o6l1)" points="279.1667,817.2078,291.6667,829.7078,279.1667,842.2078,266.6667,829.7078,279.1667,817.2078" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g7fpxpemm2o6l0)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="145.8333" x="127.0833" y="863.0412"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="132.2917" x2="132.2917" y1="863.0412" y2="901.6805"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="267.7083" x2="267.7083" y1="863.0412" y2="901.6805"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="122.9167" x="138.5417" y="887.4756">Активация предмета</text><ellipse cx="200" cy="932.9305" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="193.555" x2="206.445" y1="926.4855" y2="939.3755"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="206.445" x2="193.555" y1="926.4855" y2="939.3755"/><line style="stroke:#446E9B;stroke-width:1.5625;fill:none;" x1="128.125" x2="107.8125" y1="219.397" y2="219.397"/><line style="stroke:#446E9B;stroke-width:1.5625;fill:none;" x1="107.8125" x2="107.8125" y1="219.397" y2="242.3136"/><polygon fill="#446E9B" points="103.6458,231.897,107.8125,242.3136,111.9792,231.897,107.8125,236.0636" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="271.875" x2="292.1875" y1="219.397" y2="219.397"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="292.1875" x2="292.1875" y1="219.397" y2="242.3136"/><polygon fill="#446E9B" points="288.0208,231.897,292.1875,242.3136,296.3542,231.897,292.1875,236.0636" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="107.8125" x2="107.8125" y1="296.6756" y2="315.4256"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="107.8125" x2="187.5" y1="315.4256" y2="315.4256"/><polygon fill="#446E9B" points="177.0833,311.259,187.5,315.4256,177.0833,319.5923,181.25,315.4256" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="292.1875" x2="292.1875" y1="296.6756" y2="315.4256"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="292.1875" x2="212.5" y1="315.4256" y2="315.4256"/><polygon fill="#446E9B" points="222.9167,311.259,212.5,315.4256,222.9167,319.5923,218.75,315.4256" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="200" x2="200" y1="389.384" y2="420.5485"/><polygon fill="#446E9B" points="195.8333,410.1318,200,420.5485,204.1667,410.1318,200,414.2985" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="264.5833" x2="277.0833" y1="376.884" y2="376.884"/><polygon fill="#446E9B" points="272.9167,417.4235,277.0833,427.8402,281.25,417.4235,277.0833,421.5902" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="277.0833" x2="277.0833" y1="376.884" y2="464.2985"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="277.0833" x2="200" y1="464.2985" y2="464.2985"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="200" x2="200" y1="464.2985" y2="485.1318"/><polygon fill="#446E9B" points="195.8333,474.7152,200,485.1318,204.1667,474.7152,200,478.8818" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="200" x2="200" y1="327.9256" y2="364.384"/><polygon fill="#446E9B" points="195.8333,353.9673,200,364.384,204.1667,353.9673,200,358.134" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="200" x2="200" y1="175.7324" y2="206.897"/><polygon fill="#446E9B" points="195.8333,196.4803,200,206.897,204.1667,196.4803,200,200.647" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="261.4583" x2="392.7083" y1="163.2324" y2="163.2324"/><polygon fill="#446E9B" points="388.5417,337.6383,392.7083,348.055,396.875,337.6383,392.7083,341.805" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="392.7083" x2="392.7083" y1="163.2324" y2="497.6318"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="392.7083" x2="212.5" y1="497.6318" y2="497.6318"/><polygon fill="#446E9B" points="222.9167,493.4652,212.5,497.6318,222.9167,501.7985,218.75,497.6318" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="200" x2="200" y1="129.8991" y2="150.7324"/><polygon fill="#446E9B" points="195.8333,140.3158,200,150.7324,204.1667,140.3158,200,144.4824" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="200" x2="200" y1="31.25" y2="91.2598"/><polygon fill="#446E9B" points="195.8333,80.8431,200,91.2598,204.1667,80.8431,200,85.0098" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="223.4375" x2="213.0208" y1="711.9751" y2="711.9751"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="213.0208" x2="213.0208" y1="711.9751" y2="742.0125"/><polygon fill="#446E9B" points="208.8542,731.5959,213.0208,742.0125,217.1875,731.5959,213.0208,735.7625" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="334.8958" x2="345.3125" y1="711.9751" y2="711.9751"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="345.3125" x2="345.3125" y1="711.9751" y2="742.0125"/><polygon fill="#446E9B" points="341.1458,731.5959,345.3125,742.0125,349.4792,731.5959,345.3125,735.7625" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="345.3125" x2="345.3125" y1="796.3745" y2="801.5828"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="345.3125" x2="279.1667" y1="801.5828" y2="801.5828"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="279.1667" x2="279.1667" y1="801.5828" y2="817.2078"/><polygon fill="#446E9B" points="275,806.7912,279.1667,817.2078,283.3333,806.7912,279.1667,810.9578" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="279.1667" x2="279.1667" y1="661.1898" y2="692.3543"/><polygon fill="#446E9B" points="275,681.9377,279.1667,692.3543,283.3333,681.9377,279.1667,686.1043" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="332.8125" x2="411.4583" y1="641.569" y2="641.569"/><polygon fill="#446E9B" points="407.2917,738.7207,411.4583,749.1374,415.625,738.7207,411.4583,742.8874" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="411.4583" x2="411.4583" y1="641.569" y2="829.7078"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="411.4583" x2="291.6667" y1="829.7078" y2="829.7078"/><polygon fill="#446E9B" points="302.0833,825.5412,291.6667,829.7078,302.0833,833.8745,297.9167,829.7078" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="131.25" x2="120.8333" y1="577.4984" y2="577.4984"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="120.8333" x2="120.8333" y1="577.4984" y2="621.9482"/><polygon fill="#446E9B" points="116.6667,611.5316,120.8333,621.9482,125,611.5316,120.8333,615.6982" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="268.75" x2="279.1667" y1="577.4984" y2="577.4984"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="279.1667" x2="279.1667" y1="577.4984" y2="621.9482"/><polygon fill="#446E9B" points="275,611.5316,279.1667,621.9482,283.3333,611.5316,279.1667,615.6982" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="279.1667" x2="279.1667" y1="842.2078" y2="847.4162"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="279.1667" x2="200" y1="847.4162" y2="847.4162"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="200" x2="200" y1="847.4162" y2="863.0412"/><polygon fill="#446E9B" points="195.8333,852.6245,200,863.0412,204.1667,852.6245,200,856.7912" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="200" x2="200" y1="510.1318" y2="543.4652"/><polygon fill="#446E9B" points="195.8333,533.0485,200,543.4652,204.1667,533.0485,200,537.2152" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="200" x2="200" y1="901.6805" y2="922.5138"/><polygon fill="#446E9B" points="195.8333,912.0972,200,922.5138,204.1667,912.0972,200,916.2638" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><!--MD5=[c3ad63787bcbdb7831e74fd28b025266]
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+
+start
+partition "Поиск предмета" {
+    :Поиск в __//Potions//__]
+    if(Предмет найден) then (<color:black>нет) 
+        if(Опция __//Bags//__ задана?) then (<color:black>нет)
+            :Поиск в сумках __//Inventory//__
+            и __//PlayerBag1...9//__]
+        else (<color:black>да) 
+            :Поиск в сумках,\nзаданных опцией __//Bags//__]
+        endif
+        if (Предмет найден?) then (<color:black>нет)
+            end
+        else (<color:black>да) 
+        endif
+    else (<color:black>да)     
+    endif
+}
+
+'!pragma useVerticalIf on
+
+' if (Предмет обнаружен?) then (<color:black>да)     
+'     if("CheckItemCooldown и
+'     Кулдаун не истек?") then (<color:black>да)
+'         end
+'     else (<color:black>нет) 
+'         if("Предмет в __//Potions//__?") then (<color:black>нет)
+'             if("AutoEquip") then (<color:black>нет)
+'                 end
+'             else (<color:black>да) 
+'                 :"Экипировать предмет"]
+'             endif
+'         else (<color:black>да) 
+'         endif        
+'     endif
+' else (<color:black>нет) 
+'     end
+' endif
+
+if (Задана опция \n__CheckItemCooldown__\n И \nКулдаун не истек?) then (<color:black>нет)
+    end
+else (<color:black>да) 
+    if (Предмет \n экипирован?) then (<color:black>нет)
+        if(Задана опция \n__AutoEquip__?) then (<color:black>нет)
+            end
+        else (<color:black>да) 
+            :Экипировка
+            предмета]
+        endif
+    else (<color:black>да)
+    endif
+endif
+
+:Активация предмета|
+
+end
+
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #ffffff
+    HyperLinkColor #fd7e14
+    LineColor #304d6d
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #446e9b-#304d6d
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #999999
+    FontColor #3399f3
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #333333
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #ffffff
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #b8b8b8-#999999
+	FontColor #446e9b
+	BorderColor #999999
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d    
+		LineColor #446e9b
+		LineThickness 1.0
+		FontColor #304d6d
+	}
+	server {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	}
+	arrow {
+		FontColor #304d6d
+		LineColor #304d6d
+	}
+	group {
+		BackGroundColor #eeeeee
+		LineColor #a7a7a7
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+		LineColor #446e9b
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #ffffff
+		LineColor #246baa
+		BackGroundColor #3399f3
+	}
+	separator {
+		LineColor #999999
+		BackGroundColor #999999-#6b6b6b
+		FontColor #ffffff
+	}
+	milestone {
+		FontColor #3399f3
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #999999
+		LineColor #6b6b6b
+	}
+	timeline {
+		BackgroundColor #999999
+		FontColor #ffffff
+	}
+	closed {
+		BackgroundColor #945200
+		FontColor #ffffff
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor #333333
+	DelayFontColor #333333
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+	StereotypeFontColor #ffffff
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam stack {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+skinparam DefaultTextAlignment center
+
+start
+partition "Поиск предмета" {
+    :Поиск в __//Potions//__]
+    if(Предмет найден) then (<color:black>нет) 
+        if(Опция __//Bags//__ задана?) then (<color:black>нет)
+            :Поиск в сумках __//Inventory//__
+            и __//PlayerBag1...9//__]
+        else (<color:black>да) 
+            :Поиск в сумках,\nзаданных опцией __//Bags//__]
+        endif
+        if (Предмет найден?) then (<color:black>нет)
+            end
+        else (<color:black>да) 
+        endif
+    else (<color:black>да)     
+    endif
+}
+
+
+
+if (Задана опция \n__CheckItemCooldown__\n И \nКулдаун не истек?) then (<color:black>нет)
+    end
+else (<color:black>да) 
+    if (Предмет \n экипирован?) then (<color:black>нет)
+        if(Задана опция \n__AutoEquip__?) then (<color:black>нет)
+            end
+        else (<color:black>да) 
+            :Экипировка
+            предмета]
+        endif
+    else (<color:black>да)
+    endif
+endif
+
+:Активация предмета|
+
+end
+
+@enduml
+
+PlantUML version 1.2021.16(Wed Dec 08 20:25:22 MSK 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

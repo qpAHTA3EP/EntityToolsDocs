@@ -1,0 +1,61 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+
+start
+partition "Поиск предмета" {
+    :Поиск в __//Potions//__]
+    if(Предмет найден) then (<color:black>нет) 
+        if(Опция __//Bags//__ задана?) then (<color:black>нет)
+            :Поиск в сумках __//Inventory//__
+            и __//PlayerBag1...9//__]
+        else (<color:black>да) 
+            :Поиск в сумках,\nзаданных опцией __//Bags//__]
+        endif
+        if (Предмет найден?) then (<color:black>нет)
+            end
+        else (<color:black>да) 
+        endif
+    else (<color:black>да)     
+    endif
+}
+
+'!pragma useVerticalIf on
+
+' if (Предмет обнаружен?) then (<color:black>да)     
+'     if("CheckItemCooldown и
+'     Кулдаун не истек?") then (<color:black>да)
+'         end
+'     else (<color:black>нет) 
+'         if("Предмет в __//Potions//__?") then (<color:black>нет)
+'             if("AutoEquip") then (<color:black>нет)
+'                 end
+'             else (<color:black>да) 
+'                 :"Экипировать предмет"]
+'             endif
+'         else (<color:black>да) 
+'         endif        
+'     endif
+' else (<color:black>нет) 
+'     end
+' endif
+
+if (Задана опция \n__CheckItemCooldown__\n И \nКулдаун не истек?) then (<color:black>нет)
+    end
+else (<color:black>да) 
+    if (Предмет \n экипирован?) then (<color:black>нет)
+        if(Задана опция \n__AutoEquip__?) then (<color:black>нет)
+            end
+        else (<color:black>да) 
+            :Экипировка
+            предмета]
+        endif
+    else (<color:black>да)
+    endif
+endif
+
+:Активация предмета|
+
+end
+
+@enduml

@@ -48,6 +48,12 @@ Hot-key: ``Ctrl+Shift+S``
 
 ---
 
+![PanelVisibility](img/icons/miniPanelVisibility.png) <a name="ref-PanelVisibility"></a> **Panel Visibility**
+
+Кнопка скрытия и отображения всех [панелей инструментов](Mapper-RU.md#ref-ToolsPanels).
+
+---
+
 ## <a name="ref-Info"></a> **Информация**
 
 ![Compas](img/icons/miniCompas.png) Трехмерные координаты персонажа в формате `` X,y | Y,y | Z,z ``.  

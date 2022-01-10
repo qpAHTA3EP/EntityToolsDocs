@@ -12,9 +12,9 @@ partition "Поиск предмета" {
         else (<color:black>да) 
             :Поиск в сумках,\nзаданных опцией __//Bags//__]
         endif
-        if (Предмет найден?) then (<color:black>нет)
+        if (Предмет найден?) then (<color:black>да)
+        else (<color:black>нет) 
             end
-        else (<color:black>да) 
         endif
     else (<color:black>да)     
     endif

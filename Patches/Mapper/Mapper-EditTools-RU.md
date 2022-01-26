@@ -1,4 +1,4 @@
-# **Ручное ручного редактирование путевого графа (Graph Edit Tools)**
+# **Ручное редактирование путевого графа <br/>(Graph Edit Tools)**
 
 Инструменты ручного редактирования путевого графа размещены на панели **'Graph Edit Tools'.**  
 ![Панель EditTools](img/MapperExt-Panel-EditTools.png)

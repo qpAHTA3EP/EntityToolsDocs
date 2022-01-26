@@ -8,7 +8,7 @@
 
 Данный инструмент доступен на панели плагина **EntityTools** на вкладке *Unitites*.
 
-<p align="center"><img src="img/Panel-Main-Export.png"></p>
+<p align="center"><img src="img/Utilites/Export.png"></p>
 
 В выпадающем списке можно выбрать выгружаемый набор данных.
 
@@ -23,7 +23,7 @@
 
 Клик по кнопке ![](img/icons/miniSave.png) сохраняет выбранные данные в файл, после чего выводится запрос на открытие созданного файла.
 
-<p align="center"><img src="img/Exporter-Request.png"></p>
+<p align="center"><img src="img/Utilites/Export-Request.png"></p>
 
 ---
 

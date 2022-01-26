@@ -7,7 +7,7 @@
 За счет автоматической активации пунктов меню и множества подтверждений ***EnchantHelper*** экономит время пользователя, которому достаточно кликом мыши указать зачаровываемый предмет и нужный камень (руну).
 
 
-<p align="center"><img src="img/Panel-Main-EnchantHelper.png"></p>
+<p align="center"><img src="img/Utilites/EnchantHelper.png"></p>
 
 ## **Алгоритм**
 

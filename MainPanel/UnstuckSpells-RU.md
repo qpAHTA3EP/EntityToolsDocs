@@ -8,7 +8,7 @@
 
 Данный сервис включается на панели плагина **EntityTools** на вкладке *Utilites*.
 
-<p align="center"><img src="img/Panel-Main-SpellStuckMonitor.png"></p>
+<p align="center"><img src="img/Utilites/SpellStuckMonitor.png"></p>
 
 ---
 
@@ -23,7 +23,7 @@
 
 <a name ="ref-CheckInterval"></a>Опция ***CheckInterval*** задает промежуток времени в миллисекундах между проверками окончания боя и может быть измена на панели плагина **EntityTools** во вкладке *Settings*.
 
-<p align="center"><img src="img/Panel-Settings-SpellStuckMonitor.png"></p>
+<p align="center"><img src="img/Settings/SpellStuckMonitor.png"></p>
 
 ---
 

@@ -12,7 +12,7 @@
 
 ## **Вкладка Utilites**
 
-<p align="center"><img src="img/Panel-Main.png"></p>
+<p align="center"><img src="img/Utilites/Panel.png"></p>
 
 - **Инструмент экспорта : [*Exports*](Exporter-RU.md)**
 - **Управление логированием : Logger**
@@ -28,9 +28,18 @@
 
 ## **Вкладка Settings**
 
-<p align="center"><img src="img/Panel-Settings-EntityCache.png"></p>
+<p align="center"><img src="img/Settings/Panel.png"></p>
 
-На данной находятся настройки всех инструментов и патчей плагина **EntityTools**.
+На данной вкладке находятся настройки всех инструментов и патчей плагина **EntityTools**.
+
+---
+
+## **Вкладка Profile Preprocessing**
+
+<p align="center"><img src="img/ProfilePreprocessing/Panel.png"></p>
+
+На данной вкладке находятся настройки сервиса, модифицирующего файл quester-профиля непосредственно перед его загрузкой.  
+[*Подробнее...*](QuesterProfilePreprocessing-RU.md)
 
 ---
 

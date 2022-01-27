@@ -14,23 +14,25 @@
 
 <p align="center"><img src="img/Utilites/Panel.png"></p>
 
-- **Инструмент экспорта : [*Exports*](Exporter-RU.md)**
-- **Управление логированием : Logger**
-- **Активация [SpellStuckMonitor'ом](UnstuckSpells-RU.md)**
-- **Активация [EnchantHelper'a](EnchantHelper-RU.md)**
-- **Активация расширенного [Mapper'a](../Patches/Mapper/Mapper-RU.md)**
+- **Инструмент экспорта данных в xml-файл: [*Export*](Exporter-RU.md)**
+- **Активация собственного логирования EntityTools - [Logger'a](img/Settings/Logger.png)**
+- **Активация [SpellStuckMonitor'а](UnstuckSpells-RU.md)**
+- **Активация собственного окна картографирования - [Mapper'a](../Patches/Mapper/Mapper-RU.md)**
 - **Обозреватель [Entities](../General/EntityIdentification-RU.md#ref-EntityViewer)**
-- **Обозреватель элементов внутриигрового интерфейса : Game UI**
-- **Инструмент исследования аур : [Auras](AuraViewer-RU.md)**
+- **Обозреватель элементов внутриигрового интерфейса : [Game UI](img/UIViewer.png)**
+- **Обозреватель аур : [Auras](AuraViewer-RU.md)**
 - **Монитор миссий : [Mission](MissionMonitor-RU.md)**
 - **Монитор членов группы : Team**
 - **Контроль целостности плагина : Validate**
+<!-- - **Активация [EnchantHelper'a](EnchantHelper-RU.md)** -->
+
+---
 
 ## **Вкладка Settings**
 
 <p align="center"><img src="img/Settings/Panel.png"></p>
 
-На данной вкладке находятся настройки всех инструментов и патчей плагина **EntityTools**.
+На данной вкладке собраны настройки всех инструментов и патчей плагина **EntityTools**.
 
 ---
 

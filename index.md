@@ -18,10 +18,17 @@
 ### **2. [Расширения для *UCC*](Ucc/EntityTools-UccExtensions-RU.md)**
 ### **3. [Главная панель плагина](MainPanel/Overview-RU.md)**
 ### **4. Инструменты:**
-- **[Окно картографирования (Mapper)](Patches/Mapper/Mapper-RU.md)** 
-- **[Окно выбора Entity](General/EntityIdentification-RU.md#ref-EntityViewer)**
-- **[Редактор CustomRegionSet](General/CustomRegionSet-RU.md#ref-CustomRegionSet-Editor)**
-- **[Редактор AuraViewer](MainPanel/AuraViewer-RU.md#ref-AuraViewer)**
-- **[Помощник зачарования (EnchantHelper)](MainPanel/EnchantHelper-RU.md)**  
+- **Окно картографирования [Mapper](Patches/Mapper/Mapper-RU.md)** 
+- **Обозреватель аур [AuraViewer](MainPanel/AuraViewer-RU.md#ref-AuraViewer)**
+- **Обозреватель Entities [EntityViewer](General/EntityIdentification-RU.md#ref-EntityViewer)**
+- **Монитор миссий [MissionMonitor](MainPanel/MissionMonitor-RU.md)**
+- **[EntityTool Logger](MainPanel/img/Utilites/Logger.png)**
+<!-- - **[Редактор CustomRegionSet](General/CustomRegionSet-RU.md#ref-CustomRegionSet-Editor)** -->
+<!-- - **[Помощник зачарования (EnchantHelper)](MainPanel/EnchantHelper-RU.md)**   -->
 
-### **5. [Патчи](Patches/Overview-RU.md)**
+### **5. Фоновые сервисы:**
+- **[SpellStuckMonitor](UnstuckSpells-RU.md)**
+- **[SlideMonitor](MainPanel/img/Settings/SlideMonitor.png)**
+- **[Quester Profile Preprocessing](MainPanel/QuesterProfilePreprocessing-RU.md)**
+
+### **6. [Патчи](Patches/Overview-RU.md)**

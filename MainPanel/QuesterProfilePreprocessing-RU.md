@@ -5,8 +5,6 @@
 
 Данный сервис включается на панели плагина **EntityTools** на вкладке *Profile Preprocessing*.
 
-<p align="center"><img src="img/ProfilePreprocessing/Panel.png"></p>
-
 ---
 
 ## **Алгоритм**
@@ -18,43 +16,57 @@
 
 ---
 
-## **Настройки**
-
-|Название|Описание|
-|:------:|:-------|
-|<a name ="ref-AutoSave"></a>***Auto save preprocessed Quester-profile***| Опция активирует автоматическое сохранение профиля после успешной предобработки, то есть в случае, если была произведена хоть одна замена.|  
-|<a name ="ref-Replacements"></a>***Список замен***| Каждый элемент списка содержит:<br/>- <a name ="ref-Type">**Type**</a> : Тип элемента замены:<br/><list><li>*Simple* : простой текст. Cимволы подстановки '*' не допускаются.<li> *Regex* : регулярное выражение. В этом случае элементы регулярных выражений допускаются как в [*Pattern*](#ref-Pattern) так и в [*Replacement*](#ref-Replacement).</list><br/>- <a name ="ref-Pattern">**Pattern**</a> : шаблон текстовой строки, которая ищется в файле ``profile.xml``;<br/>- <a name ="ref-Replacement">**Replacement**</a> : строка подстановки, которая будет вставлена в файл ``profile.xml`` вместо подстроку [*Pattern*](#ref-Pattern).|
-
+<p align="center"><img src="img/ProfilePreprocessing/Panel.png"></p>
 
 ---
 
-## **Элементы управления**
+## **Настройки и элементы управления**
 
-- Кнопка ![Add](img/icons/miniAdd.png) добавляет в [*список замен*](#ref-Replacements) новый элемент.
-- Кнопка ![Delete](img/icons/miniDelete.png) удаляет из [*списка замен*](#ref-Replacements) выбранный элемент.
-- Кнопка ![DeleteAll](img/icons/miniDeleteAll.png) очищает [*список замен*](#ref-Replacements), то есть удаляет из него все элементы. 
+Опция <a name ="ref-Enable"></a>***Enable Quester-profile preprocessing***  
+Активирует предобработкe quester-профиля.
+
+Опция <a name ="ref-AutoSave"></a>***Auto save preprocessed Quester-profile***  
+Активирует автоматическое сохранение профиля после успешной предобработки, то есть в случае, если была произведена хоть одна замена.
+
+<a name ="ref-Replacements"></a>***Список замен***  
+Каждый элемент списка определяет пару из шаблона текстовой строки [*Pattern*](#ref-Pattern) и строки-замены [*Replacement*](#ref-Replacement):
+  + <a name ="ref-Type">**Type**</a> : Тип шаблона и замены:
+    * *Simple* : простой текст. Cимволы подстановки '*' не допускаются.
+    * *Regex* : регулярное выражение. В этом случае элементы регулярных выражений допускаются как в [*Pattern*](#ref-Pattern) так и в [*Replacement*](#ref-Replacement).
+  + <a name ="ref-Pattern">**Pattern**</a> : шаблон текстовой строки, соответствие которому ищется в файле ``profile.xml``;
+  + <a name ="ref-Replacement">**Replacement**</a> : строка подстановки, которая будет вставлена в файл ``profile.xml`` вместо подстроки [*Pattern*](#ref-Pattern).
 
 ---
 
-- Кнопка ![Test](img/icons/miniTest.png) позволяет в тестовом режиме провести предобработку выбранного quester-профиля, а также ознакомиться с подробным отчетом.
+**Кнопка ![Add](img/icons/miniAdd.png)**  
+Добавляет в [*список замен*](#ref-Replacements) новый элемент.
+  
+**Кнопка ![Delete](img/icons/miniDelete.png)**  
+Удаляет из [*списка замен*](#ref-Replacements) выбранный элемент.
+  
+**Кнопка ![DeleteAll](img/icons/miniDeleteAll.png)**  
+Очищает [*список замен*](#ref-Replacements), то есть удаляет из него все элементы. 
 
----
+**Кнопка ![Test](img/icons/miniTest.png)**  
+Позволяет выбрать quester-профиля и провести в тестовом режиме его предобработку, а также ознакомиться с подробным отчетом.
 
-- Кнопка ![Import](img/icons/miniImport.png) *Import* позволяет загрузить из файла [*список замен*](#ref-Replacements).  
-  Если текущий список содержит хотя бы один элемент, будет выведен следующий запрос о необходимых действиях:
+**Кнопка ![Import](img/icons/miniImport.png) Import**  
+Позволяет загрузить из файла [*список замен*](#ref-Replacements).  
+Если текущий список содержит хотя бы один элемент, будет выведен следующий запрос о необходимых действиях:
   + При нажатии на кнопку ``Yes (Да)`` элементы импортируемого списка будут добавлены к существующему;  
   + При нажатии на кнопку ``No (Нет)`` текущий список будет удален и заменен на импортируемый.
   <p align="center"><img src="img/ProfilePreprocessing/ImportRequest.png"></p>
-- Кнопка ![Export](img/icons/miniExport.png) *Export* позволяет сохранить в файл текущий [*список замен*](#ref-Replacements).   
 
----
+**Кнопка ![Export](img/icons/miniExport.png) Export**  
+Позволяет сохранить в файл текущий [*список замен*](#ref-Replacements).   
 
-- Кнопка ![Save](img/icons/miniSave.png) *Save* сохраняет все настройки предобработки quester-профиля в файл ``Settings\ProfilePreprocessor.xml``.  
+**Кнопка ![Save](img/icons/miniSave.png) Save**  
+Сохраняет все настройки предобработки quester-профиля в файл:   
+```Settings\ProfilePreprocessor.xml```  
 Данные настройки при следующем запуске бота будут загружены автоматически.
 
----
-
-- Кнопка ![Help](img/icons/miniHelp.png), расположенная в правом верхнем углу, выводит пример элемента замены и пояснения о его работе. 
+**Кнопка ![Help](img/icons/miniHelp.png)**  
+Выводит пример элемента замены и пояснения о его работе.  
 <p align="center"><img src="img/ProfilePreprocessing/Help.png"></p>
 
 ---

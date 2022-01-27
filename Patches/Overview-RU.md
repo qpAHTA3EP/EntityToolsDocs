@@ -3,7 +3,7 @@
 В плагине **EntityTools** реализовано несколько патчей,исправляющих наиболее неприятные ошибки бота, или улучшающие его функционал.  
 Патчи реализованы с помощью библиотеки [*Harmony*](https://harmony.pardeike.net/articles/intro.html), которая в целях удобства использования интегрирована в dll-плагина. 
 
-<p align="center"><img src="../MainPanel/img/Panel-Settings-Patches.png"></p>
+<p align="center"><img src="../MainPanel/img/Settings/Patches.png"></p>
 
 <!-- Patch the getter of the property 'Astral.Quester.Core.Meshes' succeeded
 Patch the getter of the property 'Astral.Quester.Core.MapsMeshes' succeeded
@@ -31,7 +31,7 @@ Patch 'ComplexPatch_Quester_UccEditing' succeeded-->
 ### **Патч сериализации**
 Плагин **EntityTools** является [динамически загружаемой сборкой .Net с поздним связыванием](https://docs.microsoft.com/ru-ru/dotnet/framework/reflection-and-codedom/dynamically-loading-and-using-types), поэтому сериализатору должны быть предоставлены списки типов объектов, используемых при построении вышеуказанных профилей и реализованных в плагине.  
 
-<a name = "ref-GetExtraTypes">Патч сериализации улучшает механизм формирования списков типов, путем:
+<a name = "ref-GetExtraTypes"></a>Патч сериализации улучшает механизм формирования списков типов, путем:
 - добавления в список недостающие типы, реализованные в плагине **EntityTools**;
 - сохраняет список типов в кэше, что избавляет от необходимости формировать его при каждой сериализации/десериализации профилей *Quester'а* и *UCC*.
 

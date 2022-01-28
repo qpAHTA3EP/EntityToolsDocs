@@ -27,7 +27,7 @@
 <!-- - **[Помощник зачарования (EnchantHelper)](MainPanel/EnchantHelper-RU.md)**   -->
 
 ### **5. Фоновые сервисы:**
-- **[SpellStuckMonitor](UnstuckSpells-RU.md)**
+- **[SpellStuckMonitor](MainPanel/UnstuckSpells-RU.md)**
 - **[SlideMonitor](MainPanel/img/Settings/SlideMonitor.png)**
 - **[Quester Profile Preprocessing](MainPanel/QuesterProfilePreprocessing-RU.md)**
 

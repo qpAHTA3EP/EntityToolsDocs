@@ -9,12 +9,13 @@ start
 repeat
 
 'partition "Поиск" {
-    while (Target отсутствует\nИЛИ\nИстек Timeout повторного поиска?) is (<color:black>да)
+    while (Target отсутствует\nИЛИ\nИстекло время повторного поиска?) is (<color:black>да)
 
         :Поиск ближайшего Entity\n(ClosestEntity)|
-        :Обновить Timeout]
+        :Обновить время повторного поиска\n(EntityCacheTimer)]
         if (ClosestEntity найдено?) then (<color:black>да) 
-            if (Флаг HoldTargetEntity = True ?) then (<color:black>да) 
+            :Обновить таймер\nдо окончания поиска\n(EntitySearchTime)]
+            if (Флаг HoldTargetEntity задан (True) ?) then (<color:black>да) 
             else (<color:black>нет)
                 :Target := ClosestEntity|
             endif 
@@ -24,8 +25,8 @@ repeat
                 break
             endif
         else (<color:black>нет)
-            if (Флаг IgnoreCombat = True ?) then (<color:black>да) 
-                :Установка запрета боя]
+            if (Флаг IgnoreCombat задан (True)\nИ\nпроверка IngnoreCombatCondition истинна?) then (<color:black>да) 
+                :Установка запрета боя \n и IgnoreCombatMinHP]
             else (<color:black>нет)
             endif
         endif
@@ -39,8 +40,8 @@ repeat
 
 'partition "Перемещение" {
 if (Расстояние до Target\nбольше CombatDistance ?) then (<color:black>да)
-    if (Флаг IgnoreCombat = True ?) then (<color:black>да) 
-        :Установка запрета боя]
+    if (Флаг IgnoreCombat задан (True)\nИ\nпроверка IngnoreCombatCondition истинна?) then (<color:black>да) 
+        :Установка запрета боя \n и IgnoreCombatMinHP]
     else (<color:black>нет)
     endif
     :Перемещение к Target|
@@ -51,13 +52,18 @@ endif
 (А)
 
 'partition "Бой" {
-if (Флаг IgnoreCombat = True\nИ\nAbortCombatDistance > CombatDistance) then (<color:black>да) 
+if (Задано PowerId) then (<color:black>да) 
+    :Активация умения PowerId на Target]
+else (<color:black>нет)
+endif
+
+if (Флаг IgnoreCombat задан (True)\nИ\nAbortCombatDistance > CombatDistance) then (<color:black>да) 
     :Установить тригер\nпрерывания боя\nв случае превышения\nAbortCombatDistance]
 else (<color:black>нет)
 endif
 
 :Снять запрет боя]
-if (Флаг АttackTargetEntity = True ?) then (<color:black>да)
+if (Флаг АttackTargetEntity установлен (True) ?) then (<color:black>да)
     if(Расстояние до ClosestEntity\nменьше CombatDistance ?) then (<color:black>да)
         :Атаковать ClosestEntity|
     else (<color:black>нет)
@@ -71,7 +77,7 @@ else (<color:black>нет)
 endif
 '}
 
-repeat while (Флаг StopOnApproached = False ?) is (<color:black>да) 
+repeat while (Флаг StopOnApproached не задан (False)\nИ\nвремя окончания поиска не закончилось\n(EntitySearchTime)) is (<color:black>да) 
 
 stop
 

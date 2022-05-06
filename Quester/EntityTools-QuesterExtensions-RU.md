@@ -23,8 +23,9 @@
 6. [AddIgnoredFoes](Actions/AddIgnoredFoes-RU.md) : задает список противников, игнорируемых во время боя.
 7. [RemoveIgnoredFoes](Actions/RemoveIgnoredFoes-RU.md) : удаление противников, игнорируемых во время боя, которые были добавлены командой [*AddIgnoreFoes*](Action/RemoveIgnoredFoes-RU.md).
 8. [ChangeInstanceToLeader](Actions/ChangeInstanceToLeader-RU.md) : переход игрового персонажа на инстанс текущей карты, в котором находится лидер группы.
-9. [UpgradeItem](Actions/UpgradeItem-RU.md) : Повышение ранга (уровня) предмета, заданного идентификатором. К таким предметам относятся волшебные камни и руны, знаки скакунов, артефактная экипировка и т.д.
-10. [PromoteTeammate](Actions/PromoteTeammate-RU.md) : Передача другому игроку лидерства в группе.
+9. [PromoteTeammate](Actions/PromoteTeammate-RU.md) : Передача другому игроку лидерства в группе.
+10. [ExecutePowerExt](Actions/ExecutePowerExt-RU.md) : Активация умения персонажа в заданном месте и в заданную цель.
+<!-- 9. [UpgradeItem](Actions/UpgradeItem-RU.md) : Повышение ранга (уровня) предмета, заданного идентификатором. К таким предметам относятся волшебные камни и руны, знаки скакунов, артефактная экипировка и т.д. -->
 
 ---
 

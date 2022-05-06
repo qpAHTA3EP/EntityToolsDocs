@@ -6,10 +6,11 @@
 
 1. Бот перемещается между точками *HotSpots* производя поиск ближайшего *Entity*, удовлетворяющего критериям поиска. <br/>
    - Патрулирование может производиться в режиме игнорирования боя [*IgnoreCombat*](#ref-IgnoreCombat).<br/>
-   - Область поиска *Entity* может быть ограничена опциями [*CustomRegions*](#ref-CustomRegions),  [*ReactionRange*](#ref-ReactionRange) и [*ReactionZRange*](#ref-ReactionZRange).
+   - Область поиска *Entity* может быть ограничена опциями [*CurrentMap*](#ref-CurrentMap), [*CustomRegions*](#ref-CustomRegions),  [*ReactionRange*](#ref-ReactionRange) и [*ReactionZRange*](#ref-ReactionZRange).
 
 2. Когда целевое *Entity* найдено, бот следует к нему по кратчайшему пути.
    - Целевое *Entity* может быть принудительно атаковано, если установлен флаг [*AttackTargetEntity*](#ref-AttackTargetEntity). При этом игнорируется список *Blacklist* выполняемого quester-профиля.
+   - При перво воздействии на целевое *Entity* применяется умение [*PowerId*](#ref-PowerId).  
 
 3. После исчезновения (уничтожения) всех *Entity*, удовлетворяющих критериям поиска, бот возобновляет патрулирование.
 
@@ -22,14 +23,15 @@
 ||**Настройки идентификации *Entity* (категория "Entity")**|
 |<a name ="ref-EntityID">***EntityID***</a><br/><a name ="ref-EntityIdType">***EntityIdType***</a><br/><a name ="ref-EntityNameType">***EntityNameType***</a> | Идентификация *Entity* производится сочетанием трех перечисленных слева свойств, которые подробно описаны в разделе [Идентификация *Entity*](../../General/EntityIdentification-RU.md).
 ||**Дополнительные фильтры *Entity* (категория "Entity Search Options")**|
+|<a name ="ref-HealthCheck">***HealthCheck***</a> | Дополнительная проверка уровня здоровья *Entity* (HP).<br/>- ***True*** : Игнорируются *Entity* с нулевым количеством очков здоровья (HP) либо, имеющие флаг ***IsDead***;<br/>- ***False*** : Здоровье *Entity* (HP) не проверяется.
+|<a name ="ref-HoldTargetEntity">***HoldTargetEntity***</a> | Флаг удержания *Entity*.<br/>- ***True*** : Бот продолжает следовать к ранее найденному *Entity*, даже в том случае, если будет обнаружено *Entity* поближе;<br/>- ***False*** : Бот постоянно производит поиск и следует к ближайшему *Entity*.
+||**Область поиска *Entity* (категория "Search Area")**|
 |<a name ="ref-ReactionRange">***ReactionRange***</a> | Максимальное допустимое расстояние от *Entity* до персонажа. *Entity* на большем расстоянии игнорируются.<br/> Опция отключается при установке значения ``0``. При этом поиск производится среди всех видимых боту *Entity*.
 |<a name ="ref-ReactionZRange">***ReactionZRange***</a> | Максимальная допустимая разница по высоте (ZAxis) между *Entity* и персонажем. *Entity*, находящиеся выше (ниже) заданной величины относительно персонажа, - игнорируются. <br/> Опция отключается при установке значения ``0``. При этом поиск производится среди всех видимых боту *Entity*.
 |<a name ="ref-RegionCheck">***RegionCheck***</a> | Флаг, активирующий дополнительную проверку внутриигрового региона (не то же самое, что *CustomRegion*), в котором находится *Entity*.<br/>- ***True*** : Поиск *Entity* производится в том же регионе, в котором находится персонаж;<br/>- ***False*** : Проверка региона при поиске *Entity* не производится.
 |<a name ="ref-CustomRegions">***CustomRegions***</a> | Набор *CustomRegion*'ов, задающих область поиска *Entity*. Подробное описание приведено в разделе [CustomRegionSet](../../General/CustomRegionSet-RU.md).
-|<a name ="ref-CustomRegionsPlayerCheck">***CustomRegions***</a> | Флаг, устанавливающий требование нахождения персонажа в области, заданной опцией [CustomRegions](#ref-CustomRegions). Команда не будет запущена, если персонаж находится за пределами заданной области.
+|<a name ="ref-CustomRegionsPlayerCheck">***CustomRegionsPlayerCheck***</a> | Флаг, устанавливающий требование нахождения персонажа в области, заданной опцией [CustomRegions](#ref-CustomRegions). Команда не будет запущена, если персонаж находится за пределами заданной области.
 |<a name ="ref-CurrentMap">***CurrentMap***</a> | Идентификатор карты, на которой должен производиться поиск *Entity*. Команда не будет запущена, если персонаж находится за пределами заданной карты.<br/>Опция игнорируется, если идентификатор не задан.
-|<a name ="ref-HealthCheck">***HealthCheck***</a> | Дополнительная проверка уровня здоровья *Entity* (HP).<br/>- ***True*** : Игнорируются *Entity* с нулевым количеством очков здоровья (HP) либо, имеющие флаг ***IsDead***;<br/>- ***False*** : Здоровье *Entity* (HP) не проверяется.
-|<a name ="ref-HoldTargetEntity">***HoldTargetEntity***</a> | Флаг удержания *Entity*.<br/>- ***True*** : Бот продолжает следовать к ранее найденному *Entity*, даже в том случае, если будет обнаружено *Entity* поближе;<br/>- ***False*** : Бот постоянно производит поиск и следует к ближайшему *Entity*.
 ||**Управление боем (категория "Manage Combat Options")**|
 |<a name ="ref-IgnoreCombat">***IgnoreCombat***</a> | Флаг, предписывающий активировать режим игнорирования боя *IgnoreCombat* при следовании к целевой *Entity*.
 |<a name ="ref-IgnoreCombatCondition">***IgnoreCombatCondition***</a> | Дополнительное условие, управляющее режимом прерывания боя. Если условие на выполняется, то режим игнорирования боя не активируется.

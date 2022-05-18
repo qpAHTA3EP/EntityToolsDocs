@@ -27,6 +27,13 @@ Hot-key: ``Ctrl-Shift-D``
 
 ---
 
+![AddNodes](img/icons/miniAdd.png) **<a name="ref-AddNodes"></a> Добавление путевых точек (Add Nodes)**  
+Нажатие на кнопку ![AddNodes](img/icons/miniAdd.png) активирует [инструмент добавления путевых точек](Mapper-EditTools-AddNodes-RU.md).  
+
+<p align="center"><img src="img/AddNodes/AddNodes.png"></p>
+
+---
+
 ![EditEdges](img/icons/miniEditEdge.png) **<a name="ref-EditEdges"></a> Изменение ребер (Edit Edges)**  
 Нажатие на кнопку ![EditEdges](img/icons/miniEditEdge.png) активирует инструмент [изменение связей между путевыми точками](Mapper-EditTools-EditEdges-RU.md).  
 Hot-key: ``Ctrl-Shift-E``

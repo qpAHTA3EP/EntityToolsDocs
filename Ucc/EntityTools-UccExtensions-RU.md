@@ -23,6 +23,7 @@
 ## <a name="ref-Actions"></a>**Команды**
 
 1.  [SpecializedUCCAction](Actions/SpecializedUCCAction-RU.md) : команда-обертка, обрабатывающая расширенный набор *ucc-условий*.
+1.  [ExecuteSpecificPower](Actions/ExecuteSpecificPower-RU.md) : команда для активации умения персонажа или используемого предмета, c дополнительными настройки.
 2.  [PluggedSkill](Actions/PluggedSkill-RU.md) : активирует артефакт или боевое умение скакуна.
 3.  [ChangeTarget](Actions/ChangeTarget-RU.md) : заменяет цель персонажа на противника, заданного командой.
 4.  [ApproachEntity](Actions/ApproachEntity-RU.md) : перемещает персонажа к заданной *Entity*.

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="806.25px" preserveAspectRatio="none" style="width:377px;height:806px;background:#00000000;" version="1.1" viewBox="0 0 377 806" width="377.0833px" zoomAndPan="magnify"><defs><linearGradient id="g1ueaq85n2sv5g0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient><linearGradient id="g1ueaq85n2sv5g1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient></defs><g><ellipse cx="159.8958" cy="20.8333" fill="#3399F3" rx="10.4167" ry="10.4167" style="stroke:#304D6D;stroke-width:1.0416666666666667;"/><rect fill="url(#g1ueaq85n2sv5g0)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="189.5833" x="65.1042" y="155.8757"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="70.3125" x2="70.3125" y1="155.8757" y2="194.515"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="249.4792" x2="249.4792" y1="155.8757" y2="194.515"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="166.6667" x="76.5625" y="180.3101">Выбрать нового противника</text><polygon fill="url(#g1ueaq85n2sv5g1)" points="64.0625,97.9167,255.7292,97.9167,268.2292,110.9863,255.7292,124.056,64.0625,124.056,51.5625,110.9863,64.0625,97.9167" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="169.2708" y="142.2404">да</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="181.25" x="69.2708" y="116.1011">Выбранный противник мертв?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="273.4375" y="103.0314">нет</text><polygon fill="url(#g1ueaq85n2sv5g1)" points="159.8958,215.3483,172.3958,227.8483,159.8958,240.3483,147.3958,227.8483,159.8958,215.3483" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><rect fill="none" height="455.7129" rx="4.1667" ry="4.1667" style="stroke:#446E9B;stroke-width:1.0416666666666667;" width="326.0417" x="11.4583" y="250.765"/><path d="M146.875,250.765 L146.875,285.3353 L136.4583,295.752 L11.4583,295.752 " fill="none" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#446E9B" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="19.7917" y="269.991">Выбор и активация</text><text fill="#446E9B" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="78.125" x="19.7917" y="285.7137">ucc-команды</text><rect fill="url(#g1ueaq85n2sv5g0)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="212.5" x="53.6458" y="359.2936"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="58.8542" x2="58.8542" y1="359.2936" y2="397.9329"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="260.9375" x2="260.9375" y1="359.2936" y2="397.9329"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="189.5833" x="65.1042" y="383.728">Выбрать ucc-команду из списка</text><rect fill="url(#g1ueaq85n2sv5g0)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="180.2083" x="69.7917" y="523.8932"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="75" x2="75" y1="523.8932" y2="562.5326"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="244.7917" x2="244.7917" y1="523.8932" y2="562.5326"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="157.2917" x="81.25" y="548.3276">Активировать ucc-команду</text><polygon fill="url(#g1ueaq85n2sv5g1)" points="36.4583,418.7663,283.3333,418.7663,295.8333,455.4199,283.3333,492.0736,36.4583,492.0736,23.9583,455.4199,36.4583,418.7663" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="169.2708" y="510.258">да</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="236.4583" x="41.6667" y="436.9507">ucc-условия выбраной команы истины?</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="9.375" x="155.2083" y="452.6733">И</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="147.9167" x="85.9375" y="468.396">Выбранная ucc-команда</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="166.6667" x="76.5625" y="484.1187">может быть активирована ?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="301.0417" y="447.465">нет</text><polygon fill="url(#g1ueaq85n2sv5g1)" points="159.8958,313.4603,172.3958,325.9603,159.8958,338.4603,147.3958,325.9603,159.8958,313.4603" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><polygon fill="url(#g1ueaq85n2sv5g1)" points="62.5,606.2826,257.2917,606.2826,269.7917,627.2135,257.2917,648.1445,62.5,648.1445,50,627.2135,62.5,606.2826" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="104.1667" x="107.8125" y="624.467">Список содержит</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="184.375" x="67.7083" y="640.1896">необработанную ucc-команду?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="275" y="619.2586">да</text><polygon fill="url(#g1ueaq85n2sv5g1)" points="159.8958,668.9779,172.3958,681.4779,159.8958,693.9779,147.3958,681.4779,159.8958,668.9779" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><polygon fill="url(#g1ueaq85n2sv5g1)" points="159.8958,52.0833,172.3958,64.5833,159.8958,77.0833,147.3958,64.5833,159.8958,52.0833" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><polygon fill="url(#g1ueaq85n2sv5g1)" points="110.4167,727.3112,209.375,727.3112,221.875,740.3809,209.375,753.4505,110.4167,753.4505,97.9167,740.3809,110.4167,727.3112" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="88.5417" x="115.625" y="745.4956">Бой закончен?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="227.0833" y="732.4259">нет</text><ellipse cx="159.8958" cy="784.7005" fill="none" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;" x1="153.4508" x2="166.3408" y1="778.2555" y2="791.1455"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;" x1="166.3408" x2="153.4508" y1="778.2555" y2="791.1455"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="124.056" y2="155.8757"/><polygon fill="#446E9B" points="155.7292,145.459,159.8958,155.8757,164.0625,145.459,159.8958,149.6257" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="268.2292" x2="280.7292" y1="110.9863" y2="110.9863"/><polygon fill="#446E9B" points="276.5625,169.7021,280.7292,180.1188,284.8958,169.7021,280.7292,173.8688" style="stroke:#446E9B;stroke-width:3.125;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="280.7292" x2="280.7292" y1="110.9863" y2="227.8483"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="280.7292" x2="172.3958" y1="227.8483" y2="227.8483"/><polygon fill="#446E9B" points="182.8125,223.6816,172.3958,227.8483,182.8125,232.015,178.6458,227.8483" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="194.515" y2="215.3483"/><polygon fill="#446E9B" points="155.7292,204.9316,159.8958,215.3483,164.0625,204.9316,159.8958,209.0983" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="562.5326" y2="567.7409"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="18.75" y1="567.7409" y2="567.7409"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="18.75" x2="18.75" y1="567.7409" y2="681.4779"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="18.75" x2="147.3958" y1="681.4779" y2="681.4779"/><polygon fill="#446E9B" points="136.9792,677.3112,147.3958,681.4779,136.9792,685.6445,141.1458,681.4779" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="492.0736" y2="523.8932"/><polygon fill="#446E9B" points="155.7292,513.4766,159.8958,523.8932,164.0625,513.4766,159.8958,517.6432" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="295.8333" x2="308.3333" y1="455.4199" y2="455.4199"/><polygon fill="#446E9B" points="304.1667,535.8236,308.3333,546.2402,312.5,535.8236,308.3333,539.9902" style="stroke:#446E9B;stroke-width:3.125;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="308.3333" x2="308.3333" y1="455.4199" y2="585.4492"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="308.3333" x2="159.8958" y1="585.4492" y2="585.4492"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="397.9329" y2="418.7663"/><polygon fill="#446E9B" points="155.7292,408.3496,159.8958,418.7663,164.0625,408.3496,159.8958,412.5163" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="338.4603" y2="359.2936"/><polygon fill="#446E9B" points="155.7292,348.877,159.8958,359.2936,164.0625,348.877,159.8958,353.0436" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="269.7917" x2="320.8333" y1="627.2135" y2="627.2135"/><polygon fill="#446E9B" points="316.6667,504.9967,320.8333,494.5801,325,504.9967,320.8333,500.8301" style="stroke:#446E9B;stroke-width:3.125;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="320.8333" x2="320.8333" y1="325.9603" y2="627.2135"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="320.8333" x2="172.3958" y1="325.9603" y2="325.9603"/><polygon fill="#446E9B" points="182.8125,321.7936,172.3958,325.9603,182.8125,330.127,178.6458,325.9603" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="585.4492" y2="606.2826"/><polygon fill="#446E9B" points="155.7292,595.8659,159.8958,606.2826,164.0625,595.8659,159.8958,600.0326" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="648.1445" y2="668.9779"/><polygon fill="#446E9B" points="155.7292,658.5612,159.8958,668.9779,164.0625,658.5612,159.8958,662.7279" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="240.3483" y2="313.4603"/><polygon fill="#446E9B" points="155.7292,303.0436,159.8958,313.4603,164.0625,303.0436,159.8958,307.2103" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="77.0833" y2="97.9167"/><polygon fill="#446E9B" points="155.7292,87.5,159.8958,97.9167,164.0625,87.5,159.8958,91.6667" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="221.875" x2="350" y1="740.3809" y2="740.3809"/><polygon fill="#446E9B" points="345.8333,419.1488,350,408.7321,354.1667,419.1488,350,414.9821" style="stroke:#446E9B;stroke-width:3.125;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="350" x2="350" y1="64.5833" y2="740.3809"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="350" x2="172.3958" y1="64.5833" y2="64.5833"/><polygon fill="#446E9B" points="182.8125,60.4167,172.3958,64.5833,182.8125,68.75,178.6458,64.5833" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="693.9779" y2="727.3112"/><polygon fill="#446E9B" points="155.7292,716.8945,159.8958,727.3112,164.0625,716.8945,159.8958,721.0612" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="31.25" y2="52.0833"/><polygon fill="#446E9B" points="155.7292,41.6667,159.8958,52.0833,164.0625,41.6667,159.8958,45.8333" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="159.8958" x2="159.8958" y1="753.4505" y2="774.2839"/><polygon fill="#446E9B" points="155.7292,763.8672,159.8958,774.2839,164.0625,763.8672,159.8958,768.0339" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><!--MD5=[623d85f4caebfb251990180e9d82faba]
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+skinparam ConditionEndStyle diamond
+
+start
+repeat 
+    if(Выбранный противник мертв?) then (<color:black>да)
+        :Выбрать нового противника|
+    else (<color:black>нет)
+    endif
+    partition "Выбор и активация\nucc-команды" {
+        repeat
+            :Выбрать ucc-команду из списка|
+            if(ucc-условия выбраной команы истины?\nИ\nВыбранная ucc-команда\nможет быть активирована ?) then (<color:black>да)
+                :Активировать ucc-команду|
+                break
+            else (<color:black>нет)
+            endif
+        repeat while (Список содержит\nнеобработанную ucc-команду?) is (<color:black>да) 
+    }
+repeat while (Бой закончен?) is (<color:black>нет) 
+
+end
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #ffffff
+    HyperLinkColor #fd7e14
+    LineColor #304d6d
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #446e9b-#304d6d
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #999999
+    FontColor #3399f3
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #333333
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #ffffff
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #b8b8b8-#999999
+	FontColor #446e9b
+	BorderColor #999999
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d    
+		LineColor #446e9b
+		LineThickness 1.0
+		FontColor #304d6d
+	}
+	server {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	}
+	arrow {
+		FontColor #304d6d
+		LineColor #304d6d
+	}
+	group {
+		BackGroundColor #eeeeee
+		LineColor #a7a7a7
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+		LineColor #446e9b
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #ffffff
+		LineColor #246baa
+		BackGroundColor #3399f3
+	}
+	separator {
+		LineColor #999999
+		BackGroundColor #999999-#6b6b6b
+		FontColor #ffffff
+	}
+	milestone {
+		FontColor #3399f3
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #999999
+		LineColor #6b6b6b
+	}
+	timeline {
+		BackgroundColor #999999
+		FontColor #ffffff
+	}
+	closed {
+		BackgroundColor #945200
+		FontColor #ffffff
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor #333333
+	DelayFontColor #333333
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+	StereotypeFontColor #ffffff
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam stack {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+skinparam DefaultTextAlignment center
+skinparam ConditionEndStyle diamond
+
+start
+repeat 
+    if(Выбранный противник мертв?) then (<color:black>да)
+        :Выбрать нового противника|
+    else (<color:black>нет)
+    endif
+    partition "Выбор и активация\nucc-команды" {
+        repeat
+            :Выбрать ucc-команду из списка|
+            if(ucc-условия выбраной команы истины?\nИ\nВыбранная ucc-команда\nможет быть активирована ?) then (<color:black>да)
+                :Активировать ucc-команду|
+                break
+            else (<color:black>нет)
+            endif
+        repeat while (Список содержит\nнеобработанную ucc-команду?) is (<color:black>да) 
+    }
+repeat while (Бой закончен?) is (<color:black>нет) 
+
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

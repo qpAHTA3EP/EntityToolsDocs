@@ -1,0 +1,25 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment center
+skinparam ConditionEndStyle diamond
+
+start
+repeat 
+    if(Выбранный противник мертв?) then (<color:black>да)
+        :Выбрать нового противника|
+    else (<color:black>нет)
+    endif
+    partition "Выбор и активация\nucc-команды" {
+        repeat
+            :Выбрать ucc-команду из списка|
+            if(ucc-условия выбраной команы истины?\nИ\nВыбранная ucc-команда\nможет быть активирована ?) then (<color:black>да)
+                :Активировать ucc-команду|
+                break
+            else (<color:black>нет)
+            endif
+        repeat while (Список содержит\nнеобработанную ucc-команду?) is (<color:black>да) 
+    }
+repeat while (Бой закончен?) is (<color:black>нет) 
+
+end
+@enduml

@@ -19,6 +19,7 @@
 ### **3. [Главная панель плагина](MainPanel/Overview-RU.md)**
 ### **4. Инструменты:**
 - **Окно картографирования [Mapper](Patches/Mapper/Mapper-RU.md)** 
+- **Модифицированный [UCC редактор](Ucc/Editor/UccEditor-RU.md)** 
 - **Обозреватель аур [AuraViewer](MainPanel/AuraViewer-RU.md#ref-AuraViewer)**
 - **Обозреватель Entities [EntityViewer](General/EntityIdentification-RU.md#ref-EntityViewer)**
 - **Монитор миссий [MissionMonitor](MainPanel/MissionMonitor-RU.md)**

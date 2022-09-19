@@ -15,7 +15,7 @@
 - патч, модифицирующий окно добавления *ucc-команд*, в котором реализована возможность выбора стандартный и дополнительных *ucc-команды*.
 - патч метода проверки истинности *ucc-условий*, позволяющий боевой подсистеме обрабатывать дополнительные *ucc-условия* вместе со стандартными.  
    <small>*В версии плагина **EnttyTools** 0.22.629.330 и младше для данных целей использовалась специальная команда-обертка [SpecializedUCCAction](Actions/SpecializedUCCAction-RU.md), которая в настоящий момент является устаревшей.*</small>.
-- улучшенный [редактор ucc-профилей](Editor/UccEditor-RU.md).
+- модифицированный [редактор ucc-профилей](Editor/UccEditor-RU.md).
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## <a name="ref-Actions"></a>**Команды**
 
-1. [UCCActionPack](Actions/UCCActionPack-RU.md) : группирующая *ucc-команда*, позволяющая выполнять ucc-команды последовательно (без перерыва).
+1. [UCCActionPack](Actions/UCCActionPack-RU.md) : группирующая *ucc-команда*, позволяющая объединять несколько *ucc-команд* и выполнять их последовательно (без прерывания боевого цикла).
 [SpecializedUCCAction](Actions/SpecializedUCCAction-RU.md) : команда-обертка, обрабатывающая расширенный набор *ucc-условий*.
 2. [ExecuteSpecificPower](Actions/ExecuteSpecificPower-RU.md) : команда для активации умения персонажа или используемого предмета, c дополнительными настройки.
 3. [PluggedSkill](Actions/PluggedSkill-RU.md) : активирует артефакт или боевое умение скакуна.
@@ -38,7 +38,7 @@
 
 ## <a name="ref-Conditions"></a>**Условия**
 
-1. [UCCConditionPack](Conditions/UCCConditionPack-RU.md) : группирующее ucc-условие.
+1. [UCCConditionPack](Conditions/UCCConditionPack-RU.md) : группирующее ucc-условие, позволяющее объединять несколько *ucc-условий*.
 2. [UCCEntityCount](Conditions/UCCEntityCount-RU.md) : подсчет количества *Entity* и сопоставление с заданной величиной.
 3. [UCCEntityCheck](Conditions/UCCEntityCheck-RU.md) : проверка заданного свойства *Entity*.
 4. [UCCTargetMatchEntity](Conditions/UCCTargetMatchEntity-RU.md) : проверка цели на сооответствия заданному идентификатору *Entity*.

@@ -2,22 +2,50 @@
 !theme spacelab
 skinparam DefaultTextAlignment center
 skinparam ConditionEndStyle diamond
+'hline 
 
 start
 repeat 
+    #gray:(A)
     if(Выбранный противник мертв?) then (<color:black>да)
         :Выбрать нового противника|
     else (<color:black>нет)
     endif
     partition "Выбор и активация\nucc-команды" {
-        repeat
-            :Выбрать ucc-команду из списка|
+        repeat :Выбрать ucc-команду из списка|
             if(ucc-условия выбраной команы истины?\nИ\nВыбранная ucc-команда\nможет быть активирована ?) then (<color:black>да)
-                :Активировать ucc-команду|
-                break
+                if(Команда это\nUCCActionPack?) then (<color:black>нет)
+                    :Активировать ucc-команду|
+                    :Началь боевой\nцикл с начала;
+                    ' label main_loop_end
+                    ' break
+                    #gray:(A)
+                    detach
+                else (<color:black>да)
+                    partition "Обработка\nUCCActionPack" {
+                        repeat :Выбрать ucc-команду\nиз UCCActionPack|
+                            if(ucc-условия выбраной команы истины?\nИ\nВыбранная ucc-команда\nможет быть активирована ?) then (<color:black>да)
+                                :Активировать ucc-команду\nиз UCCActionPack|
+                                ' label main_loop_end
+                            else (<color:black>нет) 
+                            endif
+                        ' endwhile (<color:black>нет) 
+                        back
+                        repeat while(UCCActionPack содержит\nнеобработанные команды ?) is (<color:black>да) 
+                        if(Количество активированных\nucc-команд из UCCActionPack\nбольше нуля ?) then (<color:black>да)
+                            'goto main_loop_end
+                            'break
+                            :Началь боевой\nцикл с начала;
+                            #gray:(A)
+                            detach
+                        else (<color:black>нет) 
+                        endif
+                    }
+                endif
             else (<color:black>нет)
             endif
         repeat while (Список содержит\nнеобработанную ucc-команду?) is (<color:black>да) 
+        ' label main_loop_end
     }
 repeat while (Бой закончен?) is (<color:black>нет) 
 

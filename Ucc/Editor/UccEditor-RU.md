@@ -7,15 +7,15 @@
 
 В плагине **EntityTools** реализован модифицированный *UCC-редактор*, который с помощью патча заменяет [штатный *UCC-редактор*](https://www.neverwinter-bot.com/forums/viewtopic.php?f=150&t=8020&sid=f61597913fbb61bf4fb7b95e57526dff) бота Астрал.
 
-|Штатный UCC-редактор|Модифицированный UCC-редактор|
+<!-- |Штатный UCC-редактор|Модифицированный UCC-редактор|
 |:------------:|:------------:|
-|![UccEditor](img/Editor.gif)|![UccEditorExt](img/EditorExt.gif)|
+|![UccEditor](img/Editor.gif)|![UccEditorExt](img/EditorExt.gif)| -->
 
-<!-- **Штатный UCC Editor**  
+**Штатный UCC Editor**  
 <p align="center"><img src="img/Editor.gif"></p>
 
 **Модифицированный UCC Editor**
-<p align="center"><img src="img/EditorExt.gif"></p> -->
+<p align="center"><img src="img/EditorExt.gif"></p>
 
 ## **Отличия модифицированного UCC-редактора от штатного**
 

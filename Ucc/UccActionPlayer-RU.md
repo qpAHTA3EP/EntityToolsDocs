@@ -6,7 +6,7 @@
 
 Перед попыткой активации [*ucc-команды*](EntityTools-UccExtensions-RU.md#ref-Actions) проверяются:
 
-- **внешние** [*ucc-улословия*](EntityTools-UccExtensions-RU.md#ref-Condtions), добавленные к [*ucc-команде*](EntityTools-UccExtensions-RU.md#ref-Actions) вручную через специальный интерфейс;  
+- **внешние** [*ucc-уcловия*](EntityTools-UccExtensions-RU.md#ref-Condtions), добавленные к [*ucc-команде*](EntityTools-UccExtensions-RU.md#ref-Actions) вручную через специальный интерфейс;  
 - **внутренние** условия, "встроенные" в [*ucc-команду*](EntityTools-UccExtensions-RU.md#ref-Actions). К ней относятся наличиет ОД, расстояние до цели, откаты и т.п.
 
 Если вышеуказанные условия выполняются, то [*ucc-команда*](EntityTools-UccExtensions-RU.md#ref-Actions) активируется, а бот начинает обработку списка с 1 команды, то есть **БОЕВОЙ ЦИКЛ** начинается с начала.

@@ -19,16 +19,16 @@ split again
 end split
 }
 if (Target найден?) then (<color:black>да)  
-    if (CustomConditions\nистины?) then (<color:black>да) 
+    'if (CustomConditions\nистины?) then (<color:black>да) 
         if(Target отличается\nот CurrentTarget ?) then (<color:black>да)
             :CurrentTarget := Target]
             end
         else  (<color:black>нет) 
             end
         endif
-    else (<color:black>нет) 
-        end
-    endif
+    'else (<color:black>нет) 
+    '    end
+    'endif
 else (<color:black>нет) 
     end
 endif

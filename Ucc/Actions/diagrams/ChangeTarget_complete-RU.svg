@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="718.75px" preserveAspectRatio="none" style="width:594px;height:718px;background:#00000000;" version="1.1" viewBox="0 0 594 718" width="594.7917px" zoomAndPan="magnify"><defs><linearGradient id="g1r6x5ajmy9m1f0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient><linearGradient id="g1r6x5ajmy9m1f1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient></defs><g><ellipse cx="364.5833" cy="20.8333" fill="#3399F3" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect height="418.4087" rx="4.1667" ry="4.1667" style="stroke:#446E9B;stroke-width:2.0833333333333335;fill:none;" width="438.5417" x="145.3125" y="41.6667"/><path d="M331.7708,41.6667 L331.7708,75.175 L321.3542,85.5916 L145.3125,85.5916 " fill="none" style="stroke:#446E9B;stroke-width:2.0833333333333335;"/><text fill="#446E9B" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="165.625" x="153.6458" y="60.4838">Поиск Target, заданного</text><text fill="#446E9B" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="95.8333" x="153.6458" y="75.6755">TargetSelector</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="276.5625" x2="491.6667" y1="103.3" y2="103.3"/><rect fill="url(#g1r6x5ajmy9m1f0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="143.75" x="204.6875" y="125.6958"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="209.8958" x2="209.8958" y1="125.6958" y2="172.1375"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="343.2292" x2="343.2292" y1="125.6958" y2="172.1375"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="220.3125" y="153.8879">Поиск Teammate</text><rect fill="url(#g1r6x5ajmy9m1f0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="169.7917" x="191.6667" y="251.5671"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="196.875" x2="196.875" y1="251.5671" y2="298.0087"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="356.25" x2="356.25" y1="251.5671" y2="298.0087"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="138.5417" x="207.2917" y="279.7592">Поиск FoePreference</text><rect fill="url(#g1r6x5ajmy9m1f0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="191.6667" x="180.7292" y="334.4671"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="160.4167" x="196.3542" y="362.6592">Target := FoePreference</text><polygon fill="url(#g1r6x5ajmy9m1f1)" points="204.1667,194.4046,348.9583,194.4046,361.4583,207.2088,348.9583,220.0129,204.1667,220.0129,191.6667,207.2088,204.1667,194.4046" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="285.9375" y="237.7884">да</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="134.375" x="209.375" y="212.1801">Teammate найден ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="366.6667" y="199.3759">нет</text><polygon fill="url(#g1r6x5ajmy9m1f1)" points="276.5625,401.742,289.0625,414.242,276.5625,426.742,264.0625,414.242,276.5625,401.742" style="stroke:#6B6B6B;stroke-width:1.5625;"/><rect fill="url(#g1r6x5ajmy9m1f0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="112.5" x="435.4167" y="215.0213"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="440.625" x2="440.625" y1="215.0213" y2="261.4629"/><line style="stroke:#304D6D;stroke-width:1.5625;" x1="542.7083" x2="542.7083" y1="215.0213" y2="261.4629"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="81.25" x="451.0417" y="243.2134">Поиск Entity</text><rect fill="url(#g1r6x5ajmy9m1f0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="134.375" x="424.4792" y="297.9212"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="103.125" x="440.1042" y="326.1134">Target := Entity</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="276.5625" x2="491.6667" y1="447.5754" y2="447.5754"/><polygon fill="url(#g1r6x5ajmy9m1f1)" points="307.2917,480.9087,421.875,480.9087,434.375,493.7129,421.875,506.517,307.2917,506.517,294.7917,493.7129,307.2917,480.9087" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="104.1667" x="312.5" y="498.6842">Target найден?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="272.9167" y="485.88">да</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="439.5833" y="485.88">нет</text><polygon fill="url(#g1r6x5ajmy9m1f1)" points="219.2708,516.9337,349.4792,516.9337,361.9792,537.3337,349.4792,557.7337,219.2708,557.7337,206.7708,537.3337,219.2708,516.9337" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="119.7917" x="224.4792" y="534.7092">CustomConditions</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="55.2083" x="256.7708" y="549.9008">истины?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="184.8958" y="529.5008">да</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="367.1875" y="529.5008">нет</text><polygon fill="url(#g1r6x5ajmy9m1f1)" points="129.1667,568.1503,263.5417,568.1503,276.0417,588.5503,263.5417,608.9503,129.1667,608.9503,116.6667,588.5503,129.1667,568.1503" style="stroke:#6B6B6B;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="123.9583" x="134.375" y="585.9258">Target отличается</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="123.9583" x="134.375" y="601.1175">от CurrentTarget ?</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="94.7917" y="580.7175">да</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="23.9583" x="281.25" y="580.7175">нет</text><rect fill="url(#g1r6x5ajmy9m1f0)" height="46.4417" style="stroke:#304D6D;stroke-width:1.5625;" width="189.5833" x="11.4583" y="619.367"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="158.3333" x="27.0833" y="647.5591">CurrentTarget := Target</text><ellipse cx="106.25" cy="697.0586" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="99.805" x2="112.695" y1="690.6136" y2="703.5036"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="112.695" x2="99.805" y1="690.6136" y2="703.5036"/><ellipse cx="286.4583" cy="629.7836" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="280.0133" x2="292.9033" y1="623.3386" y2="636.2286"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="292.9033" x2="280.0133" y1="623.3386" y2="636.2286"/><ellipse cx="372.3958" cy="578.567" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="365.9508" x2="378.8408" y1="572.122" y2="585.012"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="378.8408" x2="365.9508" y1="572.122" y2="585.012"/><ellipse cx="444.7917" cy="527.3504" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;fill:none;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="438.3467" x2="451.2367" y1="520.9054" y2="533.7953"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;fill:none;" x1="451.2367" x2="438.3467" y1="520.9054" y2="533.7953"/><line style="stroke:#446E9B;stroke-width:1.5625;fill:none;" x1="276.5625" x2="276.5625" y1="298.0087" y2="334.4671"/><polygon fill="#446E9B" points="272.3958,324.0504,276.5625,334.4671,280.7292,324.0504,276.5625,328.2171" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="276.5625" x2="276.5625" y1="220.0129" y2="251.5671"/><polygon fill="#446E9B" points="272.3958,241.1504,276.5625,251.5671,280.7292,241.1504,276.5625,245.3171" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="361.4583" x2="382.8125" y1="207.2088" y2="207.2088"/><polygon fill="#446E9B" points="378.6458,310.8775,382.8125,321.2941,386.9792,310.8775,382.8125,315.0441" style="stroke:#446E9B;stroke-width:1.5625;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="382.8125" x2="382.8125" y1="207.2088" y2="414.242"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="382.8125" x2="289.0625" y1="414.242" y2="414.242"/><polygon fill="#446E9B" points="299.4792,410.0754,289.0625,414.242,299.4792,418.4087,295.3125,414.242" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="276.5625" x2="276.5625" y1="380.9087" y2="401.742"/><polygon fill="#446E9B" points="272.3958,391.3254,276.5625,401.742,280.7292,391.3254,276.5625,395.492" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="276.5625" x2="276.5625" y1="172.1375" y2="194.4046"/><polygon fill="#446E9B" points="272.3958,183.9879,276.5625,194.4046,280.7292,183.9879,276.5625,188.1546" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="491.6667" x2="491.6667" y1="261.4629" y2="297.9212"/><polygon fill="#446E9B" points="487.5,287.5046,491.6667,297.9212,495.8333,287.5046,491.6667,291.6712" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="276.5625" x2="276.5625" y1="104.8625" y2="125.6958"/><polygon fill="#446E9B" points="272.3958,115.2791,276.5625,125.6958,280.7292,115.2791,276.5625,119.4458" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="120.8333" x="285.9375" y="120.2504">TeammateSupport</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="491.6667" x2="491.6667" y1="104.8625" y2="215.0213"/><polygon fill="#446E9B" points="487.5,204.6046,491.6667,215.0213,495.8333,204.6046,491.6667,208.7713" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="80.2083" x="501.0417" y="172.0088">EntityTarget</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="276.5625" x2="276.5625" y1="426.742" y2="447.5754"/><polygon fill="#446E9B" points="272.3958,437.1587,276.5625,447.5754,280.7292,437.1587,276.5625,441.3254" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="491.6667" x2="491.6667" y1="344.3629" y2="447.5754"/><polygon fill="#446E9B" points="487.5,437.1587,491.6667,447.5754,495.8333,437.1587,491.6667,441.3254" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="364.5833" x2="364.5833" y1="31.25" y2="103.3"/><polygon fill="#446E9B" points="360.4167,92.8833,364.5833,103.3,368.75,92.8833,364.5833,97.05" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="106.25" x2="106.25" y1="665.8086" y2="686.6419"/><polygon fill="#446E9B" points="102.0833,676.2253,106.25,686.6419,110.4167,676.2253,106.25,680.3919" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="116.6667" x2="106.25" y1="588.5503" y2="588.5503"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="106.25" x2="106.25" y1="588.5503" y2="619.367"/><polygon fill="#446E9B" points="102.0833,608.9503,106.25,619.367,110.4167,608.9503,106.25,613.117" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="276.0417" x2="286.4583" y1="588.5503" y2="588.5503"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="286.4583" x2="286.4583" y1="588.5503" y2="619.367"/><polygon fill="#446E9B" points="282.2917,608.9503,286.4583,619.367,290.625,608.9503,286.4583,613.117" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="206.7708" x2="196.3542" y1="537.3337" y2="537.3337"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="196.3542" x2="196.3542" y1="537.3337" y2="568.1503"/><polygon fill="#446E9B" points="192.1875,557.7337,196.3542,568.1503,200.5208,557.7337,196.3542,561.9003" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="361.9792" x2="372.3958" y1="537.3337" y2="537.3337"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="372.3958" x2="372.3958" y1="537.3337" y2="568.1503"/><polygon fill="#446E9B" points="368.2292,557.7337,372.3958,568.1503,376.5625,557.7337,372.3958,561.9003" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="294.7917" x2="284.375" y1="493.7129" y2="493.7129"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="284.375" x2="284.375" y1="493.7129" y2="516.9337"/><polygon fill="#446E9B" points="280.2083,506.517,284.375,516.9337,288.5417,506.517,284.375,510.6837" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="434.375" x2="444.7917" y1="493.7129" y2="493.7129"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="444.7917" x2="444.7917" y1="493.7129" y2="516.9337"/><polygon fill="#446E9B" points="440.625,506.517,444.7917,516.9337,448.9583,506.517,444.7917,510.6837" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:1.5625;" x1="364.5833" x2="364.5833" y1="449.1379" y2="480.9087"/><polygon fill="#446E9B" points="360.4167,470.492,364.5833,480.9087,368.75,470.492,364.5833,474.6587" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><!--MD5=[76c4b33ddb717f9bb81be09f76e1ca61]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="645.8333px" preserveAspectRatio="none" style="width:444px;height:645px;background:#00000000;" version="1.1" viewBox="0 0 444 645" width="444.7917px" zoomAndPan="magnify"><defs><linearGradient id="goir5tdb1wh500" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient><linearGradient id="goir5tdb1wh501" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient></defs><g><ellipse cx="243.75" cy="20.8333" fill="#3399F3" rx="10.4167" ry="10.4167" style="stroke:#304D6D;stroke-width:1.0416666666666667;"/><rect fill="none" height="403.1209" rx="4.1667" ry="4.1667" style="stroke:#446E9B;stroke-width:1.0416666666666667;" width="379.1667" x="54.1667" y="41.6667"/><path d="M218.75,41.6667 L218.75,76.237 L208.3333,86.6536 L54.1667,86.6536 " fill="none" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#446E9B" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="143.75" x="62.5" y="60.8927">Поиск Target, заданного</text><text fill="#446E9B" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="83.3333" x="62.5" y="76.6154">TargetSelector</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="169.7917" x2="355.2083" y1="104.362" y2="104.362"/><rect fill="url(#goir5tdb1wh500)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="125" x="107.2917" y="126.7578"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="112.5" x2="112.5" y1="126.7578" y2="165.3971"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="227.0833" x2="227.0833" y1="126.7578" y2="165.3971"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="102.0833" x="118.75" y="151.1922">Поиск Teammate</text><rect fill="url(#goir5tdb1wh500)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="146.875" x="96.3542" y="251.884"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="101.5625" x2="101.5625" y1="251.884" y2="290.5233"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="238.0208" x2="238.0208" y1="251.884" y2="290.5233"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="123.9583" x="107.8125" y="276.3184">Поиск FoePreference</text><rect fill="url(#goir5tdb1wh500)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="160.4167" x="89.5833" y="326.9816"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="137.5" x="101.0417" y="351.416">Target := FoePreference</text><polygon fill="url(#goir5tdb1wh501)" points="104.6875,193.925,234.8958,193.925,247.3958,206.9946,234.8958,220.0643,104.6875,220.0643,92.1875,206.9946,104.6875,193.925" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="179.1667" y="238.2487">да</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="119.7917" x="109.8958" y="212.1094">Teammate найден ?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="252.6042" y="199.0397">нет</text><polygon fill="url(#goir5tdb1wh501)" points="169.7917,386.4543,182.2917,398.9543,169.7917,411.4543,157.2917,398.9543,169.7917,386.4543" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><rect fill="url(#goir5tdb1wh500)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="92.7083" x="308.8542" y="218.9738"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="314.0625" x2="314.0625" y1="218.9738" y2="257.6131"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="396.3542" x2="396.3542" y1="218.9738" y2="257.6131"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="69.7917" x="320.3125" y="243.4082">Поиск Entity</text><rect fill="url(#goir5tdb1wh500)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="106.25" x="302.0833" y="294.0715"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="83.3333" x="313.5417" y="318.5059">Target := Entity</text><line style="stroke:#446E9B;stroke-width:1.5625;" x1="169.7917" x2="355.2083" y1="432.2876" y2="432.2876"/><polygon fill="url(#goir5tdb1wh501)" points="193.2292,465.6209,294.2708,465.6209,306.7708,478.6906,294.2708,491.7603,193.2292,491.7603,180.7292,478.6906,193.2292,465.6209" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="90.625" x="198.4375" y="483.8053">Target найден?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="160.9375" y="470.7357">да</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="311.9792" y="470.7357">нет</text><polygon fill="url(#goir5tdb1wh501)" points="111.9792,502.1769,228.6458,502.1769,241.1458,523.1079,228.6458,544.0389,111.9792,544.0389,99.4792,523.1079,111.9792,502.1769" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="106.25" x="117.1875" y="520.3613">Target отличается</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="105.2083" x="117.7083" y="536.084">от CurrentTarget ?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="79.6875" y="515.153">да</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="246.3542" y="515.153">нет</text><rect fill="url(#goir5tdb1wh500)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="155.2083" x="11.4583" y="554.4556"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="132.2917" x="22.9167" y="578.89">CurrentTarget := Target</text><ellipse cx="89.0625" cy="624.3449" fill="none" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;" x1="82.6175" x2="95.5075" y1="617.8999" y2="630.7899"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;" x1="95.5075" x2="82.6175" y1="617.8999" y2="630.7899"/><ellipse cx="251.5625" cy="564.8722" fill="none" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;" x1="245.1175" x2="258.0075" y1="558.4272" y2="571.3172"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;" x1="258.0075" x2="245.1175" y1="558.4272" y2="571.3172"/><ellipse cx="317.1875" cy="512.5936" fill="none" rx="10.4167" ry="10.4167" style="stroke:#3399F3;stroke-width:1.5625;"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;" x1="310.7425" x2="323.6325" y1="506.1486" y2="519.0386"/><line style="stroke:#3399F3;stroke-width:2.604166666666667;" x1="323.6325" x2="310.7425" y1="506.1486" y2="519.0386"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="169.7917" x2="169.7917" y1="290.5233" y2="326.9816"/><polygon fill="#446E9B" points="165.625,316.5649,169.7917,326.9816,173.9583,316.5649,169.7917,320.7316" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="169.7917" x2="169.7917" y1="220.0643" y2="251.884"/><polygon fill="#446E9B" points="165.625,241.4673,169.7917,251.884,173.9583,241.4673,169.7917,245.634" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="247.3958" x2="260.4167" y1="206.9946" y2="206.9946"/><polygon fill="#446E9B" points="256.25,303.2593,260.4167,313.6759,264.5833,303.2593,260.4167,307.4259" style="stroke:#446E9B;stroke-width:3.125;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="260.4167" x2="260.4167" y1="206.9946" y2="398.9543"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="260.4167" x2="182.2917" y1="398.9543" y2="398.9543"/><polygon fill="#446E9B" points="192.7083,394.7876,182.2917,398.9543,192.7083,403.1209,188.5417,398.9543" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="169.7917" x2="169.7917" y1="365.6209" y2="386.4543"/><polygon fill="#446E9B" points="165.625,376.0376,169.7917,386.4543,173.9583,376.0376,169.7917,380.2043" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="169.7917" x2="169.7917" y1="165.3971" y2="193.925"/><polygon fill="#446E9B" points="165.625,183.5083,169.7917,193.925,173.9583,183.5083,169.7917,187.675" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="355.2083" x2="355.2083" y1="257.6131" y2="294.0715"/><polygon fill="#446E9B" points="351.0417,283.6548,355.2083,294.0715,359.375,283.6548,355.2083,287.8215" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="169.7917" x2="169.7917" y1="105.9245" y2="126.7578"/><polygon fill="#446E9B" points="165.625,116.3411,169.7917,126.7578,173.9583,116.3411,169.7917,120.5078" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="107.2917" x="179.1667" y="121.4559">TeammateSupport</text><line style="stroke:#446E9B;stroke-width:3.125;" x1="355.2083" x2="355.2083" y1="105.9245" y2="218.9738"/><polygon fill="#446E9B" points="351.0417,208.5571,355.2083,218.9738,359.375,208.5571,355.2083,212.7238" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="66.6667" x="364.5833" y="171.5291">EntityTarget</text><line style="stroke:#446E9B;stroke-width:3.125;" x1="169.7917" x2="169.7917" y1="411.4543" y2="432.2876"/><polygon fill="#446E9B" points="165.625,421.8709,169.7917,432.2876,173.9583,421.8709,169.7917,426.0376" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="355.2083" x2="355.2083" y1="332.7108" y2="432.2876"/><polygon fill="#446E9B" points="351.0417,421.8709,355.2083,432.2876,359.375,421.8709,355.2083,426.0376" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="243.75" x2="243.75" y1="31.25" y2="104.362"/><polygon fill="#446E9B" points="239.5833,93.9453,243.75,104.362,247.9167,93.9453,243.75,98.112" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="89.0625" x2="89.0625" y1="593.0949" y2="613.9282"/><polygon fill="#446E9B" points="84.8958,603.5116,89.0625,613.9282,93.2292,603.5116,89.0625,607.6782" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="99.4792" x2="89.0625" y1="523.1079" y2="523.1079"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="89.0625" x2="89.0625" y1="523.1079" y2="554.4556"/><polygon fill="#446E9B" points="84.8958,544.0389,89.0625,554.4556,93.2292,544.0389,89.0625,548.2056" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="241.1458" x2="251.5625" y1="523.1079" y2="523.1079"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="251.5625" x2="251.5625" y1="523.1079" y2="554.4556"/><polygon fill="#446E9B" points="247.3958,544.0389,251.5625,554.4556,255.7292,544.0389,251.5625,548.2056" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="180.7292" x2="170.3125" y1="478.6906" y2="478.6906"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="170.3125" x2="170.3125" y1="478.6906" y2="502.1769"/><polygon fill="#446E9B" points="166.1458,491.7603,170.3125,502.1769,174.4792,491.7603,170.3125,495.9269" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="306.7708" x2="317.1875" y1="478.6906" y2="478.6906"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="317.1875" x2="317.1875" y1="478.6906" y2="502.1769"/><polygon fill="#446E9B" points="313.0208,491.7603,317.1875,502.1769,321.3542,491.7603,317.1875,495.9269" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="243.75" x2="243.75" y1="433.8501" y2="465.6209"/><polygon fill="#446E9B" points="239.5833,455.2043,243.75,465.6209,247.9167,455.2043,243.75,459.3709" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><!--MD5=[683a7c0c9cfb5f45930980fd1f28e101]
 @startuml
 !theme spacelab
 skinparam DefaultTextAlignment center
@@ -20,16 +20,16 @@ split again
 end split
 }
 if (Target найден?) then (<color:black>да)  
-    if (CustomConditions\nистины?) then (<color:black>да) 
+    'if (CustomConditions\nистины?) then (<color:black>да) 
         if(Target отличается\nот CurrentTarget ?) then (<color:black>да)
             :CurrentTarget := Target]
             end
         else  (<color:black>нет) 
             end
         endif
-    else (<color:black>нет) 
-        end
-    endif
+    'else (<color:black>нет) 
+    '    end
+    'endif
 else (<color:black>нет) 
     end
 endif
@@ -48,7 +48,116 @@ skinparam useBetaStyle false
 
 
 
-
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #ffffff
+    HyperLinkColor #fd7e14
+    LineColor #304d6d
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #446e9b-#304d6d
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #999999
+    FontColor #3399f3
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #333333
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #ffffff
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #b8b8b8-#999999
+	FontColor #446e9b
+	BorderColor #999999
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d    
+		LineColor #446e9b
+		LineThickness 1.0
+		FontColor #304d6d
+	}
+	server {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	}
+	arrow {
+		FontColor #304d6d
+		LineColor #304d6d
+	}
+	group {
+		BackGroundColor #eeeeee
+		LineColor #a7a7a7
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+		LineColor #446e9b
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #ffffff
+		LineColor #246baa
+		BackGroundColor #3399f3
+	}
+	separator {
+		LineColor #999999
+		BackGroundColor #999999-#6b6b6b
+		FontColor #ffffff
+	}
+	milestone {
+		FontColor #3399f3
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #999999
+		LineColor #6b6b6b
+	}
+	timeline {
+		BackgroundColor #999999
+		FontColor #ffffff
+	}
+	closed {
+		BackgroundColor #945200
+		FontColor #ffffff
+	}
+  }
+</style>
 skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
@@ -136,7 +245,8 @@ skinparam sequence {
 	EndColor #446e9b
 	BoxBackgroundColor transparent
 	BoxBorderColor #333333
-	BoxFontColor $DARk
+	BoxFontColor #333333
+	DelayFontColor #333333
 	LifeLineBorderColor #999999
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor #6b6b6b-#6b6b6b
@@ -154,6 +264,7 @@ skinparam sequence {
 	ReferenceFontColor #333333
 	ReferenceHeaderFontColor #3399f3
 	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+	StereotypeFontColor #ffffff
 }
 
 
@@ -355,6 +466,11 @@ skinparam file {
 }
 
 
+skinparam stack {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
 skinparam DefaultTextAlignment center
 
 start
@@ -374,23 +490,19 @@ split again
 end split
 }
 if (Target найден?) then (<color:black>да)  
-    if (CustomConditions\nистины?) then (<color:black>да) 
         if(Target отличается\nот CurrentTarget ?) then (<color:black>да)
             :CurrentTarget := Target]
             end
         else  (<color:black>нет) 
             end
         endif
-    else (<color:black>нет) 
-        end
-    endif
 else (<color:black>нет) 
     end
 endif
 
 @enduml
 
-PlantUML version 1.2021.7(Sun May 23 15:40:07 MSK 2021)
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
 (GPL source distribution)
 Java Runtime: Java(TM) SE Runtime Environment
 JVM: Java HotSpot(TM) 64-Bit Server VM

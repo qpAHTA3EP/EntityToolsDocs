@@ -7,7 +7,7 @@
 1) Перед запуском команды последовательно проверяются:
     - наличие умения с идентификатором [*PowerId*](#ref-PowerId);
     - Список стандартных ucc-условий *Conditions*;
-    - Расширенный список ucc-условий [*CustomConditions*](#ref-CustomConditions);
+    <!-- - Расширенный список ucc-условий [*CustomConditions*](#ref-CustomConditions); -->
     - Наличие умения на панели умений персоанажа, если задан флаг [*CheckInTray*](#ref-CheckInTray);
     - Окончание таймаута, если задан флаг [*CheckPowerCooldown*](#ref-CheckPowerCooldown).
 2) Если все вышеуказанные условия истинны, умение [*PowerId*](#ref-PowerId) активируется.
@@ -25,7 +25,7 @@
 ||**Дополнительные настройки <br/>(категория "Optional")**
 |<a name ="ref-CheckPowerCooldown">***CheckPowerCooldown***</a> | Флаг, предписывающий проверять "встроенный" откат умения.|
 |<a name ="ref-CheckInTray">***CheckInTray***</a> | Флаг, предписывающий проверять наличие умения на панели задач. |
-|<a name ="ref-CustomConditions">***CustomConditions***</a> | Расширенный список ucc-условий, редактируемый в [отдельном окне](../UccConditionListEditor-RU.md).
+<!-- |<a name ="ref-CustomConditions">***CustomConditions***</a> | Расширенный список ucc-условий, редактируемый в [отдельном окне](../UccConditionListEditor-RU.md). -->
 
 <!--
 ---
@@ -46,7 +46,7 @@
 Данная команда является аналогом штатной команды ***Skill***, отличия от которой состоят в следующем:
 1. Допустимость символа подстановки ``*`` в идентификаторе умения [*PowerId*](#ref-PowerId).
 2. Возможность отключать проверку отката ([*CheckPowerCooldown*](#ref-CheckPowerCooldown)) и наличия умения на панели задач ([*CheckInTray*](#ref-CheckInTray)). Данные проверки жестко встроены в команду ***Skill***, однако, для временных умений персонажа зачастую не срабатывают. Примером такого умения является "Призыв Лилу" в битве с Зариэль (Модуль 19 "Путь павшей").
-2. Возможность использовать дополнительные ucc-условия, реализованные в плагине ([*CustomConditions*](#ref-CustomConditions)).
+<!-- 3. Возможность использовать дополнительные ucc-условия, реализованные в плагине ([*CustomConditions*](#ref-CustomConditions)). -->
 
 ---
 

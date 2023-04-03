@@ -1,0 +1,47 @@
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment Center
+'skinparam ConditionStyle InsideDiamond
+'skinparam BackgroundColor White
+
+start
+
+while (Персонаж в области,\n заданной опциями <i><u>Location</u></i>) is (<color:black>да) 
+    partition "Перемещение" {
+        if (Флаг IgnoreCombat задан (True)\nИ\nпроверка IngnoreCombatCondition истинна?) then (<color:black>да) 
+            :Установка запрета боя \n и IgnoreCombatMinHP]
+        else (<color:black>нет)
+        endif
+        :перемещение к <i><u>InitialPosition</u></i>|
+        :Отменить запрет боя]
+    }
+
+    partition "Прыжки" {
+        fork
+            repeat
+                :Активировать команду\nПРЫЖОК (JUMP)]                 
+                :Повернуть персонажа\nв направлении <i><u>DestinationPosition</u></i>]
+                :Выждать время <i><u>DelayBeforMove</u></i>|
+                :Активировать команду\nПРЫЖОК (JUMP)]
+            repeat while (Персонаж в верхней полусфере\nот <i><u>DestinationPosition</u></i>) is (<color:black>да) not (<color:black>нет)
+        fork again
+            :Выждать время <i><u>DelayBeforMove</u></i>|
+            :Начать поступательное движение|
+            if (<i><u>ForwardMovingTime</u></i> > 0) then (<color:black>да)
+                :Выждать время <i><u>DelayBeforMove</u></i>|
+                :Закончить поступательное движение|
+            else (<color:black>нет)
+            endif
+        end fork
+    }
+
+    if (Задан флаг RepeatingJumping) then (<color:black>да)
+        
+    else (<color:black>нет)
+        stop
+    endif
+endwhile (<color:black>нет)
+
+stop
+
+@enduml

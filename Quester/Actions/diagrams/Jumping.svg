@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1215.625px" preserveAspectRatio="none" style="width:681px;height:1215px;background:#00000000;" version="1.1" viewBox="0 0 681 1215" width="681.25px" zoomAndPan="magnify"><defs><linearGradient id="g1tgcf6fg0jy340" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient><linearGradient id="g1tgcf6fg0jy341" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#6B6B6B"/></linearGradient></defs><g><ellipse cx="348.4375" cy="20.8333" fill="#3399F3" rx="10.4167" ry="10.4167" style="stroke:#304D6D;stroke-width:1.0416666666666667;"/><rect fill="none" height="368.0176" rx="4.1667" ry="4.1667" style="stroke:#446E9B;stroke-width:1.0416666666666667;" width="340.625" x="189.0625" y="145.0846"/><path d="M296.3542,145.0846 L296.3542,163.9323 L285.9375,174.349 L189.0625,174.349 " fill="none" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#446E9B" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="86.4583" x="197.3958" y="164.3107">Перемещение</text><rect fill="url(#g1tgcf6fg0jy340)" height="54.362" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="163.5417" x="266.6667" y="281.4616"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="137.5" x="278.125" y="305.896">Установка запрета боя</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="130.2083" x="284.8958" y="321.6187">и IgnoreCombatMinHP</text><polygon fill="url(#g1tgcf6fg0jy341)" points="211.9792,192.0573,484.8958,192.0573,497.3958,220.8496,484.8958,249.6419,211.9792,249.6419,199.4792,220.8496,211.9792,192.0573" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="357.8125" y="267.8263">да</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="189.5833" x="253.6458" y="210.2417">Флаг IgnoreCombat задан (True)</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="9.375" x="343.75" y="225.9644">И</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="262.5" x="217.1875" y="241.687">проверка IngnoreCombatCondition истинна?</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="502.6042" y="212.8947">нет</text><polygon fill="url(#g1tgcf6fg0jy341)" points="348.4375,356.6569,360.9375,369.1569,348.4375,381.6569,335.9375,369.1569,348.4375,356.6569" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><rect fill="url(#g1tgcf6fg0jy340)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="196.875" x="250" y="402.4902"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="255.2083" x2="255.2083" y1="402.4902" y2="441.1296"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="441.6667" x2="441.6667" y1="402.4902" y2="441.1296"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="261.4583" y="426.9246">перемещение к</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="77.0833" x="358.3333" y="426.9246">InitialPosition</text><rect fill="url(#g1tgcf6fg0jy340)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="150" x="273.4375" y="461.9629"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="127.0833" x="284.8958" y="486.3973">Отменить запрет боя</text><rect fill="none" height="589.9902" rx="4.1667" ry="4.1667" style="stroke:#446E9B;stroke-width:1.0416666666666667;" width="594.7917" x="46.875" y="523.5189"/><path d="M116.6667,523.5189 L116.6667,542.3665 L106.25,552.7832 L46.875,552.7832 " fill="none" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><text fill="#446E9B" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="48.9583" x="55.2083" y="542.745">Прыжки</text><rect fill="#3CB521" height="6.25" rx="2.6042" ry="2.6042" style="stroke:#3CB521;stroke-width:1.0416666666666667;" width="573.9583" x="57.2917" y="570.4915"/><rect fill="url(#g1tgcf6fg0jy340)" height="54.362" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="156.25" x="104.1667" y="672.5749"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="133.3333" x="115.625" y="697.0093">Активировать команду</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="101.0417" x="131.7708" y="712.7319">ПРЫЖОК (JUMP)</text><rect fill="url(#g1tgcf6fg0jy340)" height="54.362" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="225" x="69.7917" y="763.3952"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="132.2917" x="116.1458" y="787.8296">Повернуть персонажа</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="88.5417" x="81.25" y="803.5522">в направлении</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="110.4167" x="172.9167" y="803.5522">DestinationPosition</text><rect fill="url(#g1tgcf6fg0jy340)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="214.5833" x="75" y="854.2155"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="80.2083" x2="80.2083" y1="854.2155" y2="892.8548"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="284.375" x2="284.375" y1="854.2155" y2="892.8548"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="86.4583" y="878.6499">Выждать время</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="93.75" x="184.375" y="878.6499">DelayBeforMove</text><rect fill="url(#g1tgcf6fg0jy340)" height="54.362" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="156.25" x="104.1667" y="929.3132"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="133.3333" x="115.625" y="953.7476">Активировать команду</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="101.0417" x="131.7708" y="969.4702">ПРЫЖОК (JUMP)</text><polygon fill="url(#g1tgcf6fg0jy341)" points="182.2917,597.5749,194.7917,610.0749,182.2917,622.5749,169.7917,610.0749,182.2917,597.5749" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><polygon fill="url(#g1tgcf6fg0jy341)" points="82.2917,1032.0638,282.2917,1032.0638,294.7917,1052.9948,282.2917,1073.9258,82.2917,1073.9258,69.7917,1052.9948,82.2917,1032.0638" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="191.6667" y="1092.1102">нет</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="189.5833" x="87.5" y="1050.2482">Персонаж в верхней полусфере</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="12.5" x="119.2708" y="1065.9709">от</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="110.4167" x="134.8958" y="1065.9709">DestinationPosition</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="300" y="1045.0399">да</text><rect fill="url(#g1tgcf6fg0jy340)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="214.5833" x="374.4792" y="641.9922"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="379.6875" x2="379.6875" y1="641.9922" y2="680.6315"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="583.8542" x2="583.8542" y1="641.9922" y2="680.6315"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="385.9375" y="666.4266">Выждать время</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="93.75" x="483.8542" y="666.4266">DelayBeforMove</text><rect fill="url(#g1tgcf6fg0jy340)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="226.0417" x="368.75" y="717.0898"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="373.9583" x2="373.9583" y1="717.0898" y2="755.7292"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="589.5833" x2="589.5833" y1="717.0898" y2="755.7292"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="203.125" x="380.2083" y="741.5243">Начать поступательное движение</text><rect fill="url(#g1tgcf6fg0jy340)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="214.5833" x="374.4792" y="850.1465"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="379.6875" x2="379.6875" y1="850.1465" y2="888.7858"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="583.8542" x2="583.8542" y1="850.1465" y2="888.7858"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="385.9375" y="874.5809">Выждать время</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="93.75" x="483.8542" y="874.5809">DelayBeforMove</text><rect fill="url(#g1tgcf6fg0jy340)" height="38.6393" style="stroke:#304D6D;stroke-width:1.0416666666666667;" width="244.7917" x="359.375" y="925.2441"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="364.5833" x2="364.5833" y1="925.2441" y2="963.8835"/><line style="stroke:#304D6D;stroke-width:1.0416666666666667;" x1="598.9583" x2="598.9583" y1="925.2441" y2="963.8835"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="221.875" x="370.8333" y="949.6785">Закончить поступательное движение</text><polygon fill="url(#g1tgcf6fg0jy341)" points="408.3333,792.1875,555.2083,792.1875,567.7083,805.2572,555.2083,818.3268,408.3333,818.3268,395.8333,805.2572,408.3333,792.1875" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="491.1458" y="836.5112">да</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="115.625" x="413.5417" y="810.3719">ForwardMovingTime</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="17.7083" x="532.2917" y="810.3719">&gt; 0</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="572.9167" y="797.3022">нет</text><polygon fill="url(#g1tgcf6fg0jy341)" points="481.7708,1004.5085,494.2708,1017.0085,481.7708,1029.5085,469.2708,1017.0085,481.7708,1004.5085" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><rect fill="#3CB521" height="6.25" rx="2.6042" ry="2.6042" style="stroke:#3CB521;stroke-width:1.0416666666666667;" width="573.9583" x="57.2917" y="1094.7591"/><polygon fill="url(#g1tgcf6fg0jy341)" points="253.125,1134.3424,443.75,1134.3424,456.25,1147.4121,443.75,1160.4818,253.125,1160.4818,240.625,1147.4121,253.125,1134.3424" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="357.8125" y="1178.6662">да</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="180.2083" x="258.3333" y="1152.5269">Задан флаг RepeatingJumping</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="461.4583" y="1139.4572">нет</text><ellipse cx="509.375" cy="1147.4121" fill="none" rx="11.4583" ry="11.4583" style="stroke:#304D6D;stroke-width:1.0416666666666667;"/><ellipse cx="509.375" cy="1147.4121" fill="#304D6D" rx="6.25" ry="6.25" style="stroke:#182636;stroke-width:1.0416666666666667;"/><polygon fill="url(#g1tgcf6fg0jy341)" points="258.8542,52.0833,438.0208,52.0833,450.5208,73.0143,438.0208,93.9453,258.8542,93.9453,246.3542,73.0143,258.8542,52.0833" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="14.5833" x="357.8125" y="112.1297">да</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="125" x="285.9375" y="70.2677">Персонаж в области,</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="113.5417" x="267.1875" y="85.9904">заданной опциями</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" font-style="italic" lengthAdjust="spacing" text-decoration="underline" textLength="48.9583" x="383.8542" y="85.9904">Location</text><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="221.3542" y="65.0594">нет</text><ellipse cx="25" cy="126.3346" fill="none" rx="11.4583" ry="11.4583" style="stroke:#304D6D;stroke-width:1.0416666666666667;"/><ellipse cx="25" cy="126.3346" fill="#304D6D" rx="6.25" ry="6.25" style="stroke:#182636;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="348.4375" y1="249.6419" y2="281.4616"/><polygon fill="#446E9B" points="344.2708,271.0449,348.4375,281.4616,352.6042,271.0449,348.4375,275.2116" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="497.3958" x2="509.8958" y1="220.8496" y2="220.8496"/><polygon fill="#446E9B" points="505.7292,295.2881,509.8958,305.7048,514.0625,295.2881,509.8958,299.4548" style="stroke:#446E9B;stroke-width:3.125;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="509.8958" x2="509.8958" y1="220.8496" y2="369.1569"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="509.8958" x2="360.9375" y1="369.1569" y2="369.1569"/><polygon fill="#446E9B" points="371.3542,364.9902,360.9375,369.1569,371.3542,373.3236,367.1875,369.1569" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="348.4375" y1="335.8236" y2="356.6569"/><polygon fill="#446E9B" points="344.2708,346.2402,348.4375,356.6569,352.6042,346.2402,348.4375,350.4069" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="348.4375" y1="381.6569" y2="402.4902"/><polygon fill="#446E9B" points="344.2708,392.0736,348.4375,402.4902,352.6042,392.0736,348.4375,396.2402" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="348.4375" y1="441.1296" y2="461.9629"/><polygon fill="#446E9B" points="344.2708,451.5462,348.4375,461.9629,352.6042,451.5462,348.4375,455.7129" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="182.2917" x2="182.2917" y1="726.9368" y2="763.3952"/><polygon fill="#446E9B" points="178.125,752.9785,182.2917,763.3952,186.4583,752.9785,182.2917,757.1452" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="182.2917" x2="182.2917" y1="817.7572" y2="854.2155"/><polygon fill="#446E9B" points="178.125,843.7988,182.2917,854.2155,186.4583,843.7988,182.2917,847.9655" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="182.2917" x2="182.2917" y1="892.8548" y2="929.3132"/><polygon fill="#446E9B" points="178.125,918.8965,182.2917,929.3132,186.4583,918.8965,182.2917,923.0632" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="182.2917" x2="182.2917" y1="622.5749" y2="672.5749"/><polygon fill="#446E9B" points="178.125,662.1582,182.2917,672.5749,186.4583,662.1582,182.2917,666.3249" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="294.7917" x2="307.2917" y1="1052.9948" y2="1052.9948"/><polygon fill="#446E9B" points="303.125,842.7572,307.2917,832.3405,311.4583,842.7572,307.2917,838.5905" style="stroke:#446E9B;stroke-width:3.125;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="307.2917" x2="307.2917" y1="610.0749" y2="1052.9948"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="307.2917" x2="194.7917" y1="610.0749" y2="610.0749"/><polygon fill="#446E9B" points="205.2083,605.9082,194.7917,610.0749,205.2083,614.2415,201.0417,610.0749" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="182.2917" x2="182.2917" y1="983.6751" y2="1032.0638"/><polygon fill="#446E9B" points="178.125,1021.6471,182.2917,1032.0638,186.4583,1021.6471,182.2917,1025.8138" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="481.7708" x2="481.7708" y1="680.6315" y2="717.0898"/><polygon fill="#446E9B" points="477.6042,706.6732,481.7708,717.0898,485.9375,706.6732,481.7708,710.8398" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="481.7708" x2="481.7708" y1="888.7858" y2="925.2441"/><polygon fill="#446E9B" points="477.6042,914.8275,481.7708,925.2441,485.9375,914.8275,481.7708,918.9941" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="481.7708" x2="481.7708" y1="818.3268" y2="850.1465"/><polygon fill="#446E9B" points="477.6042,839.7298,481.7708,850.1465,485.9375,839.7298,481.7708,843.8965" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="567.7083" x2="614.5833" y1="805.2572" y2="805.2572"/><polygon fill="#446E9B" points="610.4167,901.5218,614.5833,911.9385,618.75,901.5218,614.5833,905.6885" style="stroke:#446E9B;stroke-width:3.125;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="614.5833" x2="614.5833" y1="805.2572" y2="1017.0085"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="614.5833" x2="494.2708" y1="1017.0085" y2="1017.0085"/><polygon fill="#446E9B" points="504.6875,1012.8418,494.2708,1017.0085,504.6875,1021.1751,500.5208,1017.0085" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="481.7708" x2="481.7708" y1="963.8835" y2="1004.5085"/><polygon fill="#446E9B" points="477.6042,994.0918,481.7708,1004.5085,485.9375,994.0918,481.7708,998.2585" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="481.7708" x2="481.7708" y1="755.7292" y2="792.1875"/><polygon fill="#446E9B" points="477.6042,781.7708,481.7708,792.1875,485.9375,781.7708,481.7708,785.9375" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#304D6D;stroke-width:3.125;" x1="182.2917" x2="182.2917" y1="576.7415" y2="597.5749"/><polygon fill="#304D6D" points="178.125,587.1582,182.2917,597.5749,186.4583,587.1582,182.2917,591.3249" style="stroke:#304D6D;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="481.7708" x2="481.7708" y1="576.7415" y2="641.9922"/><polygon fill="#446E9B" points="477.6042,631.5755,481.7708,641.9922,485.9375,631.5755,481.7708,635.7422" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="182.2917" x2="182.2917" y1="1073.9258" y2="1094.7591"/><polygon fill="#446E9B" points="178.125,1084.3424,182.2917,1094.7591,186.4583,1084.3424,182.2917,1088.5091" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="481.7708" x2="481.7708" y1="1029.5085" y2="1094.7591"/><polygon fill="#446E9B" points="477.6042,1084.3424,481.7708,1094.7591,485.9375,1084.3424,481.7708,1088.5091" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="348.4375" y1="500.6022" y2="570.4915"/><polygon fill="#446E9B" points="344.2708,560.0749,348.4375,570.4915,352.6042,560.0749,348.4375,564.2415" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="348.4375" y1="1160.4818" y2="1185.437"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="456.25" x2="497.9167" y1="1147.4121" y2="1147.4121"/><polygon fill="#446E9B" points="487.5,1143.2454,497.9167,1147.4121,487.5,1151.5788,491.6667,1147.4121" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="348.4375" y1="1101.0091" y2="1134.3424"/><polygon fill="#446E9B" points="344.2708,1123.9258,348.4375,1134.3424,352.6042,1123.9258,348.4375,1128.0924" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="348.4375" y1="93.9453" y2="192.0573"/><polygon fill="#446E9B" points="344.2708,181.6406,348.4375,192.0573,352.6042,181.6406,348.4375,185.8073" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="348.4375" y1="1185.437" y2="1190.6453"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="654.1667" y1="1190.6453" y2="1190.6453"/><polygon fill="#446E9B" points="650,634.5052,654.1667,624.0885,658.3333,634.5052,654.1667,630.3385" style="stroke:#446E9B;stroke-width:3.125;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="654.1667" x2="654.1667" y1="73.0143" y2="1190.6453"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="654.1667" x2="450.5208" y1="73.0143" y2="73.0143"/><polygon fill="#446E9B" points="460.9375,68.8477,450.5208,73.0143,460.9375,77.181,456.7708,73.0143" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="246.3542" x2="25" y1="73.0143" y2="73.0143"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="25" x2="25" y1="73.0143" y2="114.8763"/><polygon fill="#446E9B" points="20.8333,104.4596,25,114.8763,29.1667,104.4596,25,108.6263" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><line style="stroke:#446E9B;stroke-width:3.125;" x1="348.4375" x2="348.4375" y1="31.25" y2="52.0833"/><polygon fill="#446E9B" points="344.2708,41.6667,348.4375,52.0833,352.6042,41.6667,348.4375,45.8333" style="stroke:#446E9B;stroke-width:1.0416666666666667;"/><!--MD5=[3e71775c079ce50a89531fa4a9b3bce5]
+@startuml
+!theme spacelab
+skinparam DefaultTextAlignment Center
+'skinparam ConditionStyle InsideDiamond
+'skinparam BackgroundColor White
+
+start
+
+while (Персонаж в области,\n заданной опциями <i><u>Location</u></i>) is (<color:black>да) 
+    partition "Перемещение" {
+        if (Флаг IgnoreCombat задан (True)\nИ\nпроверка IngnoreCombatCondition истинна?) then (<color:black>да) 
+            :Установка запрета боя \n и IgnoreCombatMinHP]
+        else (<color:black>нет)
+        endif
+        :перемещение к <i><u>InitialPosition</u></i>|
+        :Отменить запрет боя]
+    }
+
+    partition "Прыжки" {
+        fork
+            repeat
+                :Активировать команду\nПРЫЖОК (JUMP)]                 
+                :Повернуть персонажа\nв направлении <i><u>DestinationPosition</u></i>]
+                :Выждать время <i><u>DelayBeforMove</u></i>|
+                :Активировать команду\nПРЫЖОК (JUMP)]
+            repeat while (Персонаж в верхней полусфере\nот <i><u>DestinationPosition</u></i>) is (<color:black>да) not (<color:black>нет)
+        fork again
+            :Выждать время <i><u>DelayBeforMove</u></i>|
+            :Начать поступательное движение|
+            if (<i><u>ForwardMovingTime</u></i> > 0) then (<color:black>да)
+                :Выждать время <i><u>DelayBeforMove</u></i>|
+                :Закончить поступательное движение|
+            else (<color:black>нет)
+            endif
+        end fork
+    }
+
+    if (Задан флаг RepeatingJumping) then (<color:black>да)
+        
+    else (<color:black>нет)
+        stop
+    endif
+endwhile (<color:black>нет)
+
+stop
+
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #ffffff
+    HyperLinkColor #fd7e14
+    LineColor #304d6d
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #446e9b-#304d6d
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #999999
+    FontColor #3399f3
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #333333
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #ffffff
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #b8b8b8-#999999
+	FontColor #446e9b
+	BorderColor #999999
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d    
+		LineColor #446e9b
+		LineThickness 1.0
+		FontColor #304d6d
+	}
+	server {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	}
+	arrow {
+		FontColor #304d6d
+		LineColor #304d6d
+	}
+	group {
+		BackGroundColor #eeeeee
+		LineColor #a7a7a7
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+		LineColor #446e9b
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #ffffff
+		LineColor #246baa
+		BackGroundColor #3399f3
+	}
+	separator {
+		LineColor #999999
+		BackGroundColor #999999-#6b6b6b
+		FontColor #ffffff
+	}
+	milestone {
+		FontColor #3399f3
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #999999
+		LineColor #6b6b6b
+	}
+	timeline {
+		BackgroundColor #999999
+		FontColor #ffffff
+	}
+	closed {
+		BackgroundColor #945200
+		FontColor #ffffff
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor #333333
+	DelayFontColor #333333
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+	StereotypeFontColor #ffffff
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam stack {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+skinparam DefaultTextAlignment Center
+
+start
+
+while (Персонаж в области,\n заданной опциями <i><u>Location</u></i>) is (<color:black>да) 
+    partition "Перемещение" {
+        if (Флаг IgnoreCombat задан (True)\nИ\nпроверка IngnoreCombatCondition истинна?) then (<color:black>да) 
+            :Установка запрета боя \n и IgnoreCombatMinHP]
+        else (<color:black>нет)
+        endif
+        :перемещение к <i><u>InitialPosition</u></i>|
+        :Отменить запрет боя]
+    }
+
+    partition "Прыжки" {
+        fork
+            repeat
+                :Активировать команду\nПРЫЖОК (JUMP)]                 
+                :Повернуть персонажа\nв направлении <i><u>DestinationPosition</u></i>]
+                :Выждать время <i><u>DelayBeforMove</u></i>|
+                :Активировать команду\nПРЫЖОК (JUMP)]
+            repeat while (Персонаж в верхней полусфере\nот <i><u>DestinationPosition</u></i>) is (<color:black>да) not (<color:black>нет)
+        fork again
+            :Выждать время <i><u>DelayBeforMove</u></i>|
+            :Начать поступательное движение|
+            if (<i><u>ForwardMovingTime</u></i> > 0) then (<color:black>да)
+                :Выждать время <i><u>DelayBeforMove</u></i>|
+                :Закончить поступательное движение|
+            else (<color:black>нет)
+            endif
+        end fork
+    }
+
+    if (Задан флаг RepeatingJumping) then (<color:black>да)
+        
+    else (<color:black>нет)
+        stop
+    endif
+endwhile (<color:black>нет)
+
+stop
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

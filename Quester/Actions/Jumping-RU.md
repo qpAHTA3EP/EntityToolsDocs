@@ -5,10 +5,6 @@
 ## **Описание алгоритма**
 
 1. Команда проверяет нахождение персонажа в области, заданной группой опций [Location](#ref-Location).
-   <!-- * [CurrentMap](#ref-CurrentMap)
-   * [CurrentRegion](#ref-CurrentRegion)
-   * [CustomRegions](#ref-CustomRegions)
-   * [ZRange](#ref-ZRange) -->
 2. Если все проверки из группы [Location](#ref-Location) истины, то персонаж перемещается к точке [*InitialPosition*](#ref-InitialPosition).  
     При этом персонаж во время перемещения игрорирует противников и не вступает с ними в бой, если задана опция [*IgnoreCombat*](#ref-IgnoreCombat), а условие [*IgnoreCombatCondition*](#ref-IgnoreCombatCondition) истинно.
 3. Персонаж разворачивается лицом к целевой точке [*DestinationPosition*](#ref-DestinationPosition) и активируется внутриигровую команду-прыжок и, через заданный интервал времени [*DelayBeforMove*](#ref-DelayBeforMove) начинает движение по направлению к [*DestinationPosition*](#ref-DestinationPosition).

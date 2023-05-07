@@ -35,7 +35,7 @@ while (Персонаж в области,\n заданной опциями <i>
         end fork
     }
 
-    if (Задан флаг RepeatingJumping) then (<color:black>да)
+    if (<i><u>DestinationPosition</u></i> НЕ достигнута\nИ\nЗадан флаг <i><u>RepeatingJumping</u></i>) then (<color:black>да)
         
     else (<color:black>нет)
         stop

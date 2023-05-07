@@ -19,11 +19,11 @@
 ### **3. [Главная панель плагина](MainPanel/Overview-RU.md)**
 ### **4. Инструменты:**
 - **Окно картографирования [Mapper](Patches/Mapper/Mapper-RU.md)** 
-- **Модифицированный [Quester редактор](Quester/img/QuesterEditor.gif)** 
+- **Модифицированный [Quester редактор](Quester/Editor/QuesterEditor-RU.md)** 
 - **Модифицированный [UCC редактор](Ucc/Editor/UccEditor-RU.md)** 
-- **Обозреватель аур [AuraViewer](MainPanel/AuraViewer-RU.md#ref-AuraViewer)**
-- **Обозреватель Entities [EntityViewer](General/EntityIdentification-RU.md#ref-EntityViewer)**
-- **Монитор миссий [MissionMonitor](MainPanel/MissionMonitor-RU.md)**
+- **Обозреватель аур ([AuraViewer](MainPanel/AuraViewer-RU.md#ref-AuraViewer))**
+- **Обозреватель игровых сущностей ([EntityViewer](General/EntityIdentification-RU.md#ref-EntityViewer))**
+- **Монитор миссий ([MissionMonitor](MainPanel/MissionMonitor-RU.md))**
 - **[EntityTool Logger](MainPanel/img/Utilites/Logger.png)**
 <!-- - **[Редактор CustomRegionSet](General/CustomRegionSet-RU.md#ref-CustomRegionSet-Editor)** -->
 <!-- - **[Помощник зачарования (EnchantHelper)](MainPanel/EnchantHelper-RU.md)**   -->

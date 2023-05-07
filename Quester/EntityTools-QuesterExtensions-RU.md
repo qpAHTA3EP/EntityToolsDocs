@@ -2,7 +2,7 @@
 
 [*Quester*](../General/Glossary-RU.md#ref-Quester) - это [подсистема](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43900#p43900) бота [*Astral*](https://www.neverwinter-bot.com/forums/index.php), предназначенная для управления одним персонажем и выполнения заранее определенной последовательности действий, которая называется ***профиль (рrofile)***.
 
-Профили создаются в специальном [редакторе](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43901#p43901) путем добавления команд ([*action*](Actions/Astral-Actions-RU.md)), каждая из которых имеет собственные [настройки](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43902#p43902) и условия запуска ([*conditions*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43910#p43910)). <br/>
+Профили создаются в специальном [редакторе](Editor/QuesterEditor-RU.md) путем добавления команд ([*action*](Actions/Astral-Actions-RU.md)), каждая из которых имеет собственные [настройки](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43902#p43902) и условия запуска ([*conditions*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43910#p43910)). <br/>
 Команды, как правило, управляют игровым персонажем и совершают несколько внутриигровых действий для достижения нужного результата. Например, команда [*InteractSpecificNPC*](Actions/Astral-Actions-RU.md#ref-InteractSpecificNPC) для взаимодействия с неигровым персонажем (NPC), выполняет перемещение игрового персонажа к месту нахождения NPC, активацию диалога и последовательный выбор заранее заданных вариантов ответов.
 
 Плагин **EntityTools** реализует дополнительные команды и условия, которые могут быть использованы в профилях [*Quester'a*](../General/Glossary-RU.md#ref-Quester), а также инструменты для их настройки.

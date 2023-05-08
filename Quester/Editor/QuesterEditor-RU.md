@@ -8,12 +8,16 @@
 В плагине **EntityTools** реализован модифицированный *Quester-редактор*, который с помощью патча заменяет [штатный *редактор*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43901#p43901) бота Астрал.
 
 <table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 50%;">
+    </colgroup>
    <tbody>
       <tr>
          <th style="width: 50%">Штатный UCC-редактор</th><th style="width: 50%">Модифицированный UCC-редактор</th>
       </tr>
       <tr>
-         <td><img source="img/Editor.png"/></td><td><img source="img/EditorExt.gif"/></td>
+         <td><img source="./img/Editor.png"/></td><td><img source="./img/EditorExt.gif"/></td>
       </tr>
    </tbody>
 </table>

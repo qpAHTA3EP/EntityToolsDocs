@@ -14,7 +14,7 @@
     </colgroup>-->
    <tbody>
       <tr>
-         <th width="50%">Штатный UCC-редактор</th><th width="50%">Модифицированный UCC-редактор</th>
+         <th width="50%" align="center">Штатный UCC-редактор</th><th width="50%" align="center">Модифицированный UCC-редактор</th>
       </tr>
       <tr>
          <td><img src="img/Editor.png"/></td><td><img src="img/EditorExt.gif"/></td>

@@ -6,7 +6,7 @@
 
 <p align="center"><img src="img/HotSpotsPanel.gif"></p>
 
-В отличие от [штатного quester-редактора](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43901#p43901) точки патрулирования пронумерованы в соответствии с их отображением в [Mapper](../../Patches/Mapper/Mapper-RU.md)'e. 
+В отличие от [штатного quester-редактора](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43901#p43901) точки патрулирования пронумерованы в соответствии с их отображением в [Mapper](../../Patches/Mapper/Mapper-RU.md)'e.  
 
 <p align="center"><img src="img/HotSpotsMapper.png"></p>
 
@@ -24,7 +24,7 @@
 
 ![CopyHotSpots](icons/Copy.png) **Copy HotSpots** : Копировать выделенные точки патрулирования в буфер обмена.  
 
-![PasteHotSpots](icons/Paste.png) **Paste HotSpots** : Вставка патрулирования из буфера обмена.  
+![PasteHotSpots](icons/Paste.png) **Paste HotSpots** : Вставка точек патрулирования из буфера обмена.  
 
 ![EditCoordinates](icons/Edit.png) **Edit Coordinates** : Включает и выключает режим ручного редактирования координат, позволяющий изменить значения отдельных координат точек патрулирования.  
 

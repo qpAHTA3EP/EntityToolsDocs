@@ -39,6 +39,8 @@
 6. [IsInCustomRegionSet](Conditions/IsInCustomRegionSet-RU.md) : проверка местонахождения персонажа относительно области, заданной набором [*CustomRegion'ов*](../General/Glossary-RU.md#ref-CustomRegions).
 7. [EquipmentLevel](Conditions/EquipmentLevel-RU.md) : проверка уровня заданного(го) предмета(ов) экипировки.
 
+Правила проверки условий, ассоциированных с [*командой*](#ref-Actions), описаны в отдельной [*статье*](Conditions/ConditionsCheckLogicRule-RU.md).
+
 ---
 
 <a href="javascript:history.back()">Назад</a>  

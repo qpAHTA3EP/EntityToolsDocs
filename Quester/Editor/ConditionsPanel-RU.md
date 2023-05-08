@@ -41,7 +41,7 @@
 ---
 
 Для удобства редактирования чекбок рядом с каждым условием наглядно отображает флаг ***Locked***, изменяющий порядок проверки данного [*условия*](../EntityTools-QuesterExtensions-RU.md#ref-Conditions) перед запуском [*команды*](../EntityTools-QuesterExtensions-RU.md#ref-Actions), с которой она ассоциирована.  
-Правила проверки набора условий описаны в [отдельной статье](ConditionsCheckLogicRule-RU.md).
+Правила проверки набора условий описаны в [отдельной статье](../Conditions//ConditionsCheckLogicRule-RU.md).
 
 ---
 

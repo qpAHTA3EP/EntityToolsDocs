@@ -6,6 +6,9 @@
 <a name ="ref-Quester">**Quester**</a> :<br/>
 [Подсистема](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43900#p43900) бота [Astral](https://www.neverwinter-bot.com/forums/index.php), предназначенная для управления одним персонажем и выполнения заранее определенной последовательности действий, которая называется ***профиль (рrofile)***.
 
+<a name ="ref-TeamMode">**Групповой режим (TeamMode)**</a> :<br/>
+Режим взаимодействия нескольких экземплярах бота, запущенных как [client-server](https://www.neverwinter-bot.com/forums/viewtopic.php?p=44734#p44734), позволяющий организовать их взаимодействие, объединить управляемых ими персонажей в группу и осуществлять совместное управление ими.
+
 <a name ="ref-UCC">**UCC**</a> :<br/>
 [Боевая подсистема](https://www.neverwinter-bot.com/forums/viewtopic.php?p=44736#p44736) бота [Astral](https://www.neverwinter-bot.com/forums/index.php), управляющая действиями персонажа во время сражения с противником.
 

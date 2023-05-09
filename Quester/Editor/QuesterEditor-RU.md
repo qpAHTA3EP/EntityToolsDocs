@@ -7,29 +7,25 @@
 
 В плагине **EntityTools** реализован модифицированный *Quester-редактор*, который с помощью патча заменяет [штатный *редактор*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43901#p43901) бота Астрал.
 
-<table width="100%">
-    <!--<colgroup>
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 50%;">
-    </colgroup>-->
+<!-- <table width="100%">
    <tbody>
       <tr>
-         <th width="50%" align="center">Штатный UCC-редактор</th><th width="50%" align="center">Модифицированный UCC-редактор</th>
+         <th width="50%" align="center">Штатный редактор</th><th width="50%" align="center">Модифицированный редактор</th>
       </tr>
       <tr>
          <td><img src="img/Editor.png"/></td><td><img src="img/EditorExt.gif"/></td>
       </tr>
    </tbody>
-</table>
+</table> -->
 <!--|Штатный UCC-редактор|Модифицированный UCC-редактор|
 |:------------:|:------------:|
-|![UccEditor](img/Editor.png)|![UccEditorExt](img/EditorExt.gif)|
+|![UccEditor](img/Editor.png)|![UccEditorExt](img/EditorExt.gif)|-->
 
 <!-- **Штатный Quester-Editor**  
-<p align="center"><img src="img/Editor.png"></p>
+<p align="center"><img src="img/Editor.png"></p>  -->
 
-**Модифицированный Quester-Editor**
-<p align="center"><img src="img/EditorExt.gif"></p> -->
+**Модифицированный Quester-Editor**  
+<p align="center"><img src="img/EditorExt.gif"></p>
 
 ## **Отличия модифицированного Quester-редактора от штатного**
 

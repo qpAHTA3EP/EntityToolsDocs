@@ -18,8 +18,8 @@
 ### **2. [Расширения для *UCC*](Ucc/EntityTools-UccExtensions-RU.md)**
 ### **3. [Главная панель плагина](MainPanel/Overview-RU.md)**
 ### **4. Инструменты:**
-- **Окно картографирования [Mapper](Patches/Mapper/Mapper-RU.md)** 
 - **Модифицированный [Quester редактор](Quester/Editor/QuesterEditor-RU.md)** 
+- **Окно картографирования [Mapper](Patches/Mapper/Mapper-RU.md)** 
 - **Модифицированный [UCC редактор](Ucc/Editor/UccEditor-RU.md)** 
 - **Обозреватель аур ([AuraViewer](MainPanel/AuraViewer-RU.md#ref-AuraViewer))**
 - **Обозреватель игровых сущностей ([EntityViewer](General/EntityIdentification-RU.md#ref-EntityViewer))**

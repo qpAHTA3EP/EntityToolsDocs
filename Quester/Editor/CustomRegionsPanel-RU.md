@@ -1,8 +1,8 @@
 # Панель CustomRegions
 
-Данная панель содержит список [*CustomRegion*](#ref-CustomRegion)'ов и предназначена для управления им. По умолчанию она скрыта и тображается в виде заголовка вдоль правой границы окна редактора
+Данная панель содержит список [*CustomRegion*](#ref-CustomRegion)'ов и предназначена для управления ими. По умолчанию она скрыта и тображается в виде заголовка вдоль правой границы окна редактора
 
-<a name="ref-CustomRegion"></a>**CustomRegion** - это прямоугольная или эллиптическая область на карте в плоскости Oxy, заданная разработчиком quester-профиля и используемая для определения положения персонажа относительно неё (внутри или снаружи).
+<a name="ref-CustomRegion"></a>**CustomRegion** - это прямоугольная или эллиптическая область на карте в плоскости ***Oxy***, заданная разработчиком quester-профиля и используемая для определения положения персонажа относительно неё (внутри или снаружи).
 
 <p align="center"><img src="img/CustomRegionsPanel.png"></p>
 
@@ -15,7 +15,8 @@
 ---
 
 <a name="ref-CustomRegionButtons"></a>В заголовке панели расположены кнопки:  
-![ImportCustomRegions](icons/Import.png) **Import CustomRegions** : Импортировать [*CustomRegion*](#ref-CustomRegion)'ы из другого профиля:  
+
+![ImportCustomRegions](icons/Import.png) **Import CustomRegions** : Импорт [*CustomRegion*](#ref-CustomRegion)'ов из другого профиля:  
 1) Сначала в диалоговом окне необходимо выбрать quester-профиль из которого будут импортироваться [*CustomRegion*](#ref-CustomRegion)'ы.
 2) Если выбранный профиль не содержит [*CustomRegion*](#ref-CustomRegion)'ов будет выбрано соответствующее предупреждение.
 3) Затем необходимо отметить [*CustomRegion*](#ref-CustomRegion)'ы, которые необходимо импортировать:
@@ -26,11 +27,11 @@
     - проигнорировать [*CustomRegion*](#ref-CustomRegion) и отказаться от его импорта, нажав кнопку ``Отмена(Cancel)``.
     <p align="center"><img src="img/CustomRegionImport-NameConflict.png"></p>
 
-![DeleteCustomRegion](icons/Cancel.png) **Delete selected CustomRegion** : Удалить выбранный [*CustomRegion*](#ref-CustomRegion) из списка.  
+![DeleteCustomRegion](icons/Cancel.png) **Delete selected CustomRegion** : Удаление выбранного [*CustomRegion*](#ref-CustomRegion)'a из списка.  
 
-![AutoHideConditionsPanel](icons/AutoHide.png) **Auto hide** Переключить панель в режим ***автоматического скрытия***, в котором неактивная панель сворачивается и отображается в виде вкладки-заголовка.  
+![AutoHideConditionsPanel](icons/AutoHide.png) **Auto hide** : Переключение панели в режим ***автоматического скрытия***, в котором неактивная панель сворачивается и отображается в виде вкладки-заголовка.  
 
-![PinConditionsPanel](icons/Pin.png) **Pin** : Переключить панель в ***закрепленный режим***, при котором панель отображается целиком даже в неактивном состоянии.
+![PinConditionsPanel](icons/Pin.png) **Pin** : Переключение панели в ***закрепленный режим***, при котором панель отображается целиком даже в неактивном состоянии.
 
 ---
 

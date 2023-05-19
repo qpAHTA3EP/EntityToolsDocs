@@ -12,17 +12,17 @@
 В заголовке панели расположены кнопки редактирования:  
 <p align="center"><img src="img/ActionsPanelButtons.png"></p>
 
-![AddAction](icons/Add.png) **Add Action** : Добавить новую [*команду*](../EntityTools-QuesterExtensions-RU.md#ref-Actions).  
-Дополнительно можно использовать сочетание горячих клавиш  ``Ins``.  
+![AddAction](icons/Add.png) **Add Action** : Добавление новой [*команды*](../EntityTools-QuesterExtensions-RU.md#ref-Actions).  
+Дополнительно можно использовать горячую клавишу ``Ins``.  
 
-![DeleteAction](icons/Cancel.png) **Delete selected Action** : Удалить выбранную [*команду*](../EntityTools-QuesterExtensions-RU.md#ref-Actions).  
-При попытке удаления группирующей команды [*ActionPack*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43903#p43903) будет выведено окно, в котором необходимо подтвердить её удаление.  
+![DeleteAction](icons/Cancel.png) **Delete selected Action** : Удаление выбранной [*команды*](../EntityTools-QuesterExtensions-RU.md#ref-Actions).  
+При попытке удаления группирующей команды ([*ActionPack*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43903#p43903)) будет выведено окно, в котором необходимо подтвердить её удаление.  
 Дополнительно можно использовать сочетание горячих клавиш  ``Ctrl+Del``.  
 
-![GatherInfo](icons/Refresh.png) **GatherInfo** : Запуск мастера инициализации выбранной команды, если он предусмотрен разработчиком.  
+![GatherInfo](icons/Refresh.png) **GatherInfo** : Запуск мастера инициализации выбранной [*команды*](../EntityTools-QuesterExtensions-RU.md#ref-Actions), если он предусмотрен разработчиком.  
 Мастер инициализации (GatherInfo) представляет собой диалоговое окно, с помощью которого пользователь задает обязательные параметры команды, например, идентификаторы квеста и НПС-квестодателя для [*PickUpMissionExt*](../Actions/PickUpMissionExt-RU.md).  
 
-![CopyAction](icons/Copy.png) **Copy Action** : Копировать [*команду*](../EntityTools-QuesterExtensions-RU.md#ref-Actions) в буфер обмена.  
+![CopyAction](icons/Copy.png) **Copy Action** : Копирование [*команды*](../EntityTools-QuesterExtensions-RU.md#ref-Actions) в буфер обмена.  
 Дополнительно можно использовать сочетание горячих клавиш  ``Ctrl+C``.  
 
 ![PasteAction](icons/Paste.png) **Paste Action** : Вставка [*команды*](../EntityTools-QuesterExtensions-RU.md#ref-Actions) из буфера обмена.  
@@ -35,7 +35,7 @@
 
 ![XmlEditAction](icons/EditXml.png) **Edit Action XML** : Редактирование [*команды*](../EntityTools-QuesterExtensions-RU.md#ref-Actions) в формате XML.  
 Команда преобразовывается в XML-описание, которое открывается во внешнем текстовом редакторе, позволяющем вручную изменить значение любой опции, а также ассоциированных с ней условий или вложенных команд (при редактировании [*ActionPack*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43903#p43903)'а).  
-После внесения и сохранения изменений в Quester-редакторе в модальном окне необходимо принять их, нажав кнопку ``Valid``, чтобы изменения отобразились в наборе команд.  
+После внесения и сохранения изменений в модальном окне Quester-редактора  необходимо принять их, нажав кнопку ``Valid``, чтобы изменения отобразились в наборе команд.  
 Это единственный метод редактирования, который позволяет изменить тип команд, вложенных в [*ActionPack*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43903#p43903) и имеющих схожие настройки, например, [*Grind*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43904#p43904) в [*MoveToEntity*](../Actions/MoveToEntity-EN.md).  
 
 ---
@@ -45,7 +45,7 @@
 
 ---
 
-Изменение порядка (структуры) и перегруппировка [*quester-команд*](../EntityTools-QuesterExtensions-RU.md#ref-Actions) производится путем перетакивания (*Drag and Drop*) с зажатой левой кнопкой мыши (ЛКМ). При перетаскивании с зажатой правой кнопкой мыши (ПКМ), [*quester-команда*](../EntityTools-QuesterExtensions-RU.md#ref-Actions) копируется.  
+Изменение порядка (структуры) и перегруппировка [*quester-команд*](../EntityTools-QuesterExtensions-RU.md#ref-Actions) производится путем перетаскивания (*Drag and Drop*) с зажатой левой кнопкой мыши (ЛКМ). При перетаскивании с зажатой правой кнопкой мыши (ПКМ), [*quester-команда*](../EntityTools-QuesterExtensions-RU.md#ref-Actions) копируется.  
 По умолчанию [*quester-команда*](../EntityTools-QuesterExtensions-RU.md#ref-Actions), переремещаемая на [*ActionPack*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43903#p43903), вставляется в начало списка вложенных [*quester-команд*](../EntityTools-QuesterExtensions-RU.md#ref-Actions). Однако при удержании кнопки ``ALT`` [*quester-команда*](../EntityTools-QuesterExtensions-RU.md#ref-Actions) будет помещена ПОСЛЕ [*ActionPack*](https://www.neverwinter-bot.com/forums/viewtopic.php?p=43903#p43903)'а.
 
 ---

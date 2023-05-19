@@ -12,7 +12,7 @@
 
 <a name="ref-VendorsButtons"></a>В заголовке панели расположены кнопки:
 
-![AddVendor](icons/Add.png) **Add Vendor** : Добавить торговца.  
+![AddVendor](icons/Add.png) **Add Vendor** : Добавление торговца.  
 
 ![ImportVendors](icons/Import.png) **Import Vendors** : Импортировать торговцев из другого профиля:  
 1) Сначала в диалоговом окне необходимо выбрать quester-профиль из которого будут импортироваться торговцы.
@@ -21,11 +21,11 @@
     <p align="center"><img src="img/VendorsImport.png"></p>
 4) Если торговец уже содержится в списке ***Vendors***, он будет проигнорирован.
 
-![DeleteVendor](icons/Cancel.png) **Delete selected Vendor** : Удалить выбранного торговца из списка.  
+![DeleteVendor](icons/Cancel.png) **Delete selected Vendor** : Удаление выбранного торговца из списка.  
 
-![AutoHideConditionsPanel](icons/AutoHide.png) **Auto hide** Переключить панель в режим ***автоматического скрытия***, в котором неактивная панель сворачивается и отображается в виде вкладки-заголовка.  
+![AutoHideConditionsPanel](icons/AutoHide.png) **Auto hide** : Переключение панели в режим ***автоматического скрытия***, в котором неактивная панель сворачивается и отображается в виде вкладки-заголовка.  
 
-![PinConditionsPanel](icons/Pin.png) **Pin** : Переключить панель в ***закрепленный режим***, при котором панель отображается целиком даже в неактивном состоянии.
+![PinConditionsPanel](icons/Pin.png) **Pin** : Переключение панели в ***закрепленный режим***, при котором панель отображается целиком даже в неактивном состоянии.
 
 ---
 

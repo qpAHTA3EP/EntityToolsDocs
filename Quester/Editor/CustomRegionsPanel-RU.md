@@ -16,15 +16,22 @@
 
 <a name="ref-CustomRegionButtons"></a>В заголовке панели расположены кнопки:  
 
-![ImportCustomRegions](icons/Import.png) **Import CustomRegions** : Импорт [*CustomRegion*](#ref-CustomRegion)'ов из другого профиля:  
+![ImportCustomRegions](icons/Import.png) **Import CustomRegions** : Импорт [*CustomRegion*](#ref-CustomRegion)'ов из другого профиля:
+
 1) Сначала в диалоговом окне необходимо выбрать quester-профиль из которого будут импортироваться [*CustomRegion*](#ref-CustomRegion)'ы.
+
 2) Если выбранный профиль не содержит [*CustomRegion*](#ref-CustomRegion)'ов будет выбрано соответствующее предупреждение.
+
 3) Затем необходимо отметить [*CustomRegion*](#ref-CustomRegion)'ы, которые необходимо импортировать:
+
     <p align="center"><img src="img/CustomRegionsImport.png"></p>
+
 4) Если наименование импортируемого [*CustomRegion*](#ref-CustomRegion)'а совпадает с [*CustomRegion*](#ref-CustomRegion)'ом, содедержащемся в списке, будет выведено предложение:
-    - переименовать импортируемый [*CustomRegion*](#ref-CustomRegion), нажав кнопку ``Да(Yes)``;
-    - импортировать [*CustomRegion*](#ref-CustomRegion) без переименования, нажав кнопку ``Нет(No)``;
-    - проигнорировать [*CustomRegion*](#ref-CustomRegion) и отказаться от его импорта, нажав кнопку ``Отмена(Cancel)``.
+
+    - переименовать импортируемый [*CustomRegion*](#ref-CustomRegion), нажав кнопку ``Да(Yes)``;  
+    - импортировать [*CustomRegion*](#ref-CustomRegion) без переименования, нажав кнопку ``Нет(No)``;  
+    - проигнорировать [*CustomRegion*](#ref-CustomRegion) и отказаться от его импорта, нажав кнопку ``Отмена(Cancel)``.  
+
     <p align="center"><img src="img/CustomRegionImport-NameConflict.png"></p>
 
 ![DeleteCustomRegion](icons/Cancel.png) **Delete selected CustomRegion** : Удаление выбранного [*CustomRegion*](#ref-CustomRegion)'a из списка.  

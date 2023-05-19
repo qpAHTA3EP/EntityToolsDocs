@@ -24,7 +24,7 @@
 
 3) Затем необходимо отметить [*CustomRegion*](#ref-CustomRegion)'ы, которые необходимо импортировать:
 
-    <p align="center"><img src="img/CustomRegionsImport.png"></p>
+<p align="center"><img src="img/CustomRegionsImport.png"></p>
 
 4) Если наименование импортируемого [*CustomRegion*](#ref-CustomRegion)'а совпадает с [*CustomRegion*](#ref-CustomRegion)'ом, содедержащемся в списке, будет выведено предложение:
 

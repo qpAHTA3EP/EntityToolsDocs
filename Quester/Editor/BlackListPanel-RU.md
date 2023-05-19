@@ -19,7 +19,7 @@
 
 3) Затем необходимо отметить идентификаторы, которые необходимо импортировать:
 
-    <p align="center"><img src="img/BlacklistImport.png"></p>
+<p align="center"><img src="img/BlacklistImport.png"></p>
 
 4) Если идентфикатор уже содержится в списке ***BlackList***, он будет проигнорирован.
 

@@ -22,7 +22,7 @@
 
 3) Затем необходимо отметить торговцев, которые необходимо импортировать:
 
-    <p align="center"><img src="img/VendorsImport.png"></p>
+<p align="center"><img src="img/VendorsImport.png"></p>
 
 4) Если торговец уже содержится в списке ***Vendors***, он будет проигнорирован.
 

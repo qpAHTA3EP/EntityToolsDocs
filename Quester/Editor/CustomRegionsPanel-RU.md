@@ -28,11 +28,11 @@
 
 4) Если наименование импортируемого [*CustomRegion*](#ref-CustomRegion)'а совпадает с [*CustomRegion*](#ref-CustomRegion)'ом, содедержащемся в списке, будет выведено предложение:
 
-    - переименовать импортируемый [*CustomRegion*](#ref-CustomRegion), нажав кнопку ``Да(Yes)``;  
-    - импортировать [*CustomRegion*](#ref-CustomRegion) без переименования, нажав кнопку ``Нет(No)``;  
-    - проигнорировать [*CustomRegion*](#ref-CustomRegion) и отказаться от его импорта, нажав кнопку ``Отмена(Cancel)``.  
+  - переименовать импортируемый [*CustomRegion*](#ref-CustomRegion), нажав кнопку ``Да(Yes)``;  
+  - импортировать [*CustomRegion*](#ref-CustomRegion) без переименования, нажав кнопку ``Нет(No)``;  
+  - проигнорировать [*CustomRegion*](#ref-CustomRegion) и отказаться от его импорта, нажав кнопку ``Отмена(Cancel)``.  
 
-    <p align="center"><img src="img/CustomRegionImport-NameConflict.png"></p>
+<p align="center"><img src="img/CustomRegionImport-NameConflict.png"></p>
 
 ![DeleteCustomRegion](icons/Cancel.png) **Delete selected CustomRegion** : Удаление выбранного [*CustomRegion*](#ref-CustomRegion)'a из списка.  
 
